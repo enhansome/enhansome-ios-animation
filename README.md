@@ -24,7 +24,7 @@ A curated list of awesome iOS animation, including Objective-C and Swift librari
 
 ![](http://cl.ly/image/1n1E2j3W3y24/springscreen.jpg)
 
-<https://github.com/AladinWay/TransitionButton> ⭐ 1,473 | 🐛 20 | 🌐 Swift | 📅 2022-09-05
+<https://github.com/AladinWay/TransitionButton> ⭐ 1,472 | 🐛 20 | 🌐 Swift | 📅 2022-09-05
 
 ![](https://cdn.dribbble.com/users/62319/screenshots/1945593/shot.gif)
 
@@ -99,7 +99,7 @@ Rotation
 
 ![Jazz Hands](https://raw.github.com/IFTTT/JazzHands/screenshots/screenshots/intro.gif)
 
-<https://github.com/shu223/AnimatedTransitionGallery> ⭐ 2,505 | 🐛 1 | 🌐 Objective-C | 📅 2024-04-30
+<https://github.com/shu223/AnimatedTransitionGallery> ⭐ 2,504 | 🐛 1 | 🌐 Objective-C | 📅 2024-04-30
 
 ![](https://raw.githubusercontent.com/shu223/AnimatedTransitionGallery/master/gif/gallery.gif)
 ![](https://raw.githubusercontent.com/shu223/AnimatedTransitionGallery/master/gif/coreimage.gif)
@@ -303,7 +303,7 @@ Rotation
 
 ![direction](https://raw.githubusercontent.com/zhxnlai/ZLSwipeableViewSwift/master/Previews/undo.gif)
 
-<https://github.com/zhxnlai/ZLSwipeableView/> ⭐ 2,808 | 🐛 59 | 🌐 Objective-C | 📅 2016-06-13
+<https://github.com/zhxnlai/ZLSwipeableView/> ⭐ 2,806 | 🐛 59 | 🌐 Objective-C | 📅 2016-06-13
 
 ![swipe](https://raw.githubusercontent.com/zhxnlai/ZLSwipeableView/master/Previews/swipe.gif)
 
@@ -322,7 +322,7 @@ Rotation
 ![anim.gif](https://raw.githubusercontent.com/yoavlt/LiquidFloatingActionButton/master/Demo/top.gif)
 ![anim.gif](https://raw.githubusercontent.com/yoavlt/LiquidFloatingActionButton/master/Demo/customizable.gif)
 
-<https://github.com/ninjaprox/NVActivityIndicatorView> ⭐ 10,709 | 🐛 1 | 🌐 Swift | 📅 2026-03-18
+<https://github.com/ninjaprox/NVActivityIndicatorView> ⭐ 10,708 | 🐛 1 | 🌐 Swift | 📅 2026-03-18
 
 ![anim.gif](https://raw.githubusercontent.com/ninjaprox/NVActivityIndicatorView/master/Demo.gif)
 
@@ -389,7 +389,7 @@ GrowLine
 
 ![Preview](https://raw.githubusercontent.com/mentionapp/mntpulltoreact/master/README/mention-example.gif)
 
-<https://github.com/TBXark/TKRubberIndicator> ⭐ 1,466 | 🐛 7 | 🌐 Swift | 📅 2024-08-21
+<https://github.com/TBXark/TKRubberIndicator> ⭐ 1,465 | 🐛 7 | 🌐 Swift | 📅 2024-08-21
 
 ![Preview](https://raw.githubusercontent.com/TBXark/TKRubberIndicator/master/Example/demo.gif)
 
@@ -489,7 +489,7 @@ GrowLine
 ![效果图](https://raw.githubusercontent.com/loopeer/AlertTransition/master/Media/BubbleTransition.gif)
 ![效果图](https://raw.githubusercontent.com/loopeer/AlertTransition/master/Media/StarWarsTransition.gif)
 
-<https://github.com/CosmicMind/Material> ⭐ 12,008 | 🐛 37 | 🌐 Swift | 📅 2022-05-16
+<https://github.com/CosmicMind/Material> ⭐ 12,009 | 🐛 37 | 🌐 Swift | 📅 2022-05-16
 
 <https://github.com/CosmicMind/Motion> ⭐ 1,768 | 🐛 4 | 🌐 Swift | 📅 2020-01-28
 
@@ -523,7 +523,7 @@ GrowLine
 ![](https://raw.githubusercontent.com/Daltron/NotificationBanner/master/NotificationBanner/Assets/side_views.gif)
 ![](https://raw.githubusercontent.com/Daltron/NotificationBanner/master/NotificationBanner/Assets/status_bar.gif)
 
-<https://github.com/Ramotion/fluid-slider> ⭐ 1,984 | 🐛 27 | 🌐 Swift | 📅 2022-06-01
+<https://github.com/Ramotion/fluid-slider> ⭐ 1,985 | 🐛 27 | 🌐 Swift | 📅 2022-06-01
 
 ![](https://raw.githubusercontent.com/Ramotion/fluid-slider/master/preview.gif)
 
@@ -537,7 +537,7 @@ GrowLine
 
 ![image](https://github.com/bref-Chan/CCFoldCell/blob/master/image/CCFoldCell.gif)
 
-<https://github.com/airbnb/lottie-ios> ⭐ 26,829 | 🐛 44 | 🌐 Swift | 📅 2026-07-08
+<https://github.com/airbnb/lottie-ios> ⭐ 26,831 | 🐛 44 | 🌐 Swift | 📅 2026-07-08
 
 ![img1](https://github.com/airbnb/lottie-ios/raw/master/_Gifs/Examples1.gif)
 ![img2](https://github.com/airbnb/lottie-ios/raw/master/_Gifs/Examples2.gif)
@@ -553,4 +553,4 @@ GrowLine
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
