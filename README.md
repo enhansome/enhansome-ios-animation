@@ -393,7 +393,7 @@ GrowLine
 
 ![Preview](https://raw.githubusercontent.com/TBXark/TKRubberIndicator/master/Example/demo.gif)
 
-<https://github.com/12207480/TYAlertController> ⭐ 1,307 | 🐛 19 | 🌐 Objective-C | 📅 2022-06-13
+<https://github.com/12207480/TYAlertController> ⭐ 1,306 | 🐛 19 | 🌐 Objective-C | 📅 2022-06-13
 
 ![image](https://raw.githubusercontent.com/12207480/TYAlertController/master/screenshot/TYAlertControllerDemo.gif)
 
