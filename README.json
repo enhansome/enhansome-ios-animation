@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/facebook/pop",
+          "title": "facebookarchive/pop",
           "description": null,
           "children": [],
           "repo_info": {
@@ -20,7 +20,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/schneiderandre/popping",
+          "title": "schneiderandre/popping",
           "description": null,
           "children": [],
           "repo_info": {
@@ -30,12 +30,12 @@
             "last_commit": "2017-07-05T11:58:47Z",
             "owner": "schneiderandre",
             "repo": "popping",
-            "stars": 5501
+            "stars": 5502
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/MengTo/Spring",
+          "title": "MengTo/Spring",
           "description": null,
           "children": [],
           "repo_info": {
@@ -45,12 +45,12 @@
             "last_commit": "2023-07-03T14:28:34Z",
             "owner": "MengTo",
             "repo": "Spring",
-            "stars": 14047
+            "stars": 14048
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/AladinWay/TransitionButton",
+          "title": "AladinWay/TransitionButton",
           "description": null,
           "children": [],
           "repo_info": {
@@ -65,7 +65,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/jwilling/JNWSpringAnimation",
+          "title": "jwilling/JNWSpringAnimation",
           "description": null,
           "children": [],
           "repo_info": {
@@ -80,7 +80,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/daltoniam/DCAnimationKit",
+          "title": "daltoniam/DCAnimationKit",
           "description": null,
           "children": [],
           "repo_info": {
@@ -95,7 +95,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/robb/RBBAnimation",
+          "title": "robb/RBBAnimation",
           "description": null,
           "children": [],
           "repo_info": {
@@ -110,7 +110,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/matthewcheok/POP-MCAnimate",
+          "title": "matthewcheok/POP-MCAnimate",
           "description": null,
           "children": [],
           "repo_info": {
@@ -125,7 +125,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/jhurray/JHChainableAnimations",
+          "title": "jhurray/JHChainableAnimations",
           "description": null,
           "children": [],
           "repo_info": {
@@ -140,7 +140,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/poetmountain/PMTween",
+          "title": "poetmountain/PMTween",
           "description": null,
           "children": [],
           "repo_info": {
@@ -155,7 +155,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/IFTTT/JazzHands",
+          "title": "IFTTT/JazzHands",
           "description": null,
           "children": [],
           "repo_info": {
@@ -170,7 +170,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/shu223/AnimatedTransitionGallery",
+          "title": "shu223/AnimatedTransitionGallery",
           "description": null,
           "children": [],
           "repo_info": {
@@ -185,7 +185,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Raizlabs/RZTransitions",
+          "title": "Rightpoint/RZTransitions",
           "description": null,
           "children": [],
           "repo_info": {
@@ -200,7 +200,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Yalantis/FoldingTabBar.iOS",
+          "title": "Yalantis/FoldingTabBar.iOS",
           "description": null,
           "children": [],
           "repo_info": {
@@ -215,7 +215,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Yalantis/Side-Menu.iOS",
+          "title": "Yalantis/Side-Menu.iOS",
           "description": null,
           "children": [],
           "repo_info": {
@@ -230,7 +230,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Yalantis/Context-Menu.iOS",
+          "title": "Yalantis/Context-Menu.iOS",
           "description": null,
           "children": [],
           "repo_info": {
@@ -245,7 +245,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Yalantis/GuillotineMenu",
+          "title": "Yalantis/GuillotineMenu",
           "description": null,
           "children": [],
           "repo_info": {
@@ -260,7 +260,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Yalantis/Persei",
+          "title": "Yalantis/Persei",
           "description": null,
           "children": [],
           "repo_info": {
@@ -275,7 +275,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Yalantis/Pull-to-Refresh.Rentals-iOS",
+          "title": "Yalantis/Pull-to-Refresh.Rentals-iOS",
           "description": null,
           "children": [],
           "repo_info": {
@@ -290,7 +290,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Yalantis/PullToMakeSoup",
+          "title": "Yalantis/PullToMakeSoup",
           "description": null,
           "children": [],
           "repo_info": {
@@ -305,7 +305,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Yalantis/PullToMakeFlight",
+          "title": "Yalantis/PullToMakeFlight",
           "description": null,
           "children": [],
           "repo_info": {
@@ -320,7 +320,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Yalantis/Koloda",
+          "title": "Yalantis/Koloda",
           "description": null,
           "children": [],
           "repo_info": {
@@ -335,7 +335,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Yalantis/StarWars.iOS",
+          "title": "Yalantis/StarWars.iOS",
           "description": null,
           "children": [],
           "repo_info": {
@@ -350,7 +350,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Yalantis/EatFit",
+          "title": "Yalantis/EatFit",
           "description": null,
           "children": [],
           "repo_info": {
@@ -365,7 +365,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Yalantis/Preloader.Ophiuchus",
+          "title": "Yalantis/Preloader.Ophiuchus",
           "description": null,
           "children": [],
           "repo_info": {
@@ -380,7 +380,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Ramotion/animated-tab-bar",
+          "title": "Ramotion/animated-tab-bar",
           "description": null,
           "children": [],
           "repo_info": {
@@ -395,7 +395,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/andreamazz/BubbleTransition",
+          "title": "andreamazz/BubbleTransition",
           "description": null,
           "children": [],
           "repo_info": {
@@ -410,7 +410,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/fitomad/iOS-Bubble-Transition",
+          "title": "fitomad/iOS-Bubble-Transition",
           "description": null,
           "children": [],
           "repo_info": {
@@ -425,7 +425,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/carsonperrotti/CNPPopupController",
+          "title": "carsonxyz/CNPPopupController",
           "description": null,
           "children": [],
           "repo_info": {
@@ -440,7 +440,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/MartinRGB/GiftCard-Implementation",
+          "title": "MartinRGB/GiftCard-iOS",
           "description": null,
           "children": [],
           "repo_info": {
@@ -455,7 +455,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Draveness/DKChainableAnimationKit",
+          "title": "draveness/DKChainableAnimationKit",
           "description": null,
           "children": [],
           "repo_info": {
@@ -470,7 +470,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/cwRichardKim/TinderSimpleSwipeCards",
+          "title": "cwRichardKim/RKSwipeCards",
           "description": null,
           "children": [],
           "repo_info": {
@@ -485,7 +485,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/jonathantribouharet/JTMaterialTransition",
+          "title": "johnvuko/JTMaterialTransition",
           "description": null,
           "children": [],
           "repo_info": {
@@ -500,7 +500,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/kongtomorrow/WatchTransition",
+          "title": "kongtomorrow/WatchTransition",
           "description": null,
           "children": [],
           "repo_info": {
@@ -515,7 +515,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/KittenYang/KYPushTransition",
+          "title": "KittenYang/KYPushTransition",
           "description": null,
           "children": [],
           "repo_info": {
@@ -530,7 +530,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/andreamazz/UIView-Shake",
+          "title": "andreamazz/UIView-Shake",
           "description": null,
           "children": [],
           "repo_info": {
@@ -545,7 +545,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/andreamazz/UITextField-Shake",
+          "title": "andreamazz/UITextField-Shake",
           "description": null,
           "children": [],
           "repo_info": {
@@ -560,7 +560,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/recruit-mp/RMPZoomTransitionAnimator",
+          "title": "recruit-mp/RMPZoomTransitionAnimator",
           "description": null,
           "children": [],
           "repo_info": {
@@ -575,7 +575,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/xhzengAIB/PopMenu",
+          "title": "xhzengAIB/PopMenu",
           "description": null,
           "children": [],
           "repo_info": {
@@ -590,7 +590,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/zoonooz/ZFDragableModalTransition",
+          "title": "zoonooz/ZFDragableModalTransition",
           "description": null,
           "children": [],
           "repo_info": {
@@ -605,7 +605,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/mathcarignani/MCMHeaderAnimated",
+          "title": "mathcarignani/MCMHeaderAnimated",
           "description": null,
           "children": [],
           "repo_info": {
@@ -620,7 +620,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Produkt/RubberBandEffect",
+          "title": "Produkt/RubberBandEffect",
           "description": null,
           "children": [],
           "repo_info": {
@@ -635,7 +635,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/icanzilb/EasyAnimation",
+          "title": "icanzilb/EasyAnimation",
           "description": null,
           "children": [],
           "repo_info": {
@@ -650,7 +650,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/adad184/MMTweenAnimation",
+          "title": "adad184/MMTweenAnimation",
           "description": null,
           "children": [],
           "repo_info": {
@@ -665,7 +665,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/andreamazz/GearRefreshControl",
+          "title": "andreamazz/GearRefreshControl",
           "description": null,
           "children": [],
           "repo_info": {
@@ -680,7 +680,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/LiorNn/DragDropCollectionView",
+          "title": "Lior539/DragDropCollectionView",
           "description": null,
           "children": [],
           "repo_info": {
@@ -695,7 +695,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/rounak/TwitterBirdAnimation",
+          "title": "rounak/TwitterBirdAnimation",
           "description": null,
           "children": [],
           "repo_info": {
@@ -710,7 +710,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/haaakon/SingleLineShakeAnimation",
+          "title": "haaakon/SingleLineShakeAnimation",
           "description": null,
           "children": [],
           "repo_info": {
@@ -725,7 +725,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/zipme/RQShineLabel",
+          "title": "zipme/RQShineLabel",
           "description": null,
           "children": [],
           "repo_info": {
@@ -740,7 +740,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/lexrus/LTMorphingLabel",
+          "title": "lexrus/LTMorphingLabel",
           "description": null,
           "children": [],
           "repo_info": {
@@ -755,7 +755,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/wongzigii/WZDraggableSwitchHeaderView",
+          "title": "wongzigii/WZDraggableSwitchHeaderView",
           "description": null,
           "children": [],
           "repo_info": {
@@ -770,7 +770,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/zhxnlai/ZLSwipeableViewSwift",
+          "title": "zhxnlai/ZLSwipeableViewSwift",
           "description": null,
           "children": [],
           "repo_info": {
@@ -785,7 +785,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/zhxnlai/ZLSwipeableView/",
+          "title": "zhxnlai/ZLSwipeableView",
           "description": null,
           "children": [],
           "repo_info": {
@@ -800,7 +800,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/CezaryKopacz/CKWaveCollectionViewTransition",
+          "title": "CezaryKopacz/CKWaveCollectionViewTransition",
           "description": null,
           "children": [],
           "repo_info": {
@@ -815,7 +815,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/yoavlt/LiquidFloatingActionButton",
+          "title": "yoavlt/LiquidFloatingActionButton",
           "description": null,
           "children": [],
           "repo_info": {
@@ -830,7 +830,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ninjaprox/NVActivityIndicatorView",
+          "title": "ninjaprox/NVActivityIndicatorView",
           "description": null,
           "children": [],
           "repo_info": {
@@ -845,7 +845,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/entotsu/TKSubmitTransition",
+          "title": "takuoka/TKSubmitTransition",
           "description": null,
           "children": [],
           "repo_info": {
@@ -860,7 +860,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/KittenYang/Animations",
+          "title": "KittenYang/Animations",
           "description": null,
           "children": [],
           "repo_info": {
@@ -875,7 +875,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/likedan/KDIntroView",
+          "title": "likedan/KDIntroView",
           "description": null,
           "children": [],
           "repo_info": {
@@ -890,7 +890,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/IFTTT/RazzleDazzle",
+          "title": "IFTTT/RazzleDazzle",
           "description": null,
           "children": [],
           "repo_info": {
@@ -905,7 +905,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/hyperoslo/Presentation",
+          "title": "hyperoslo/Presentation",
           "description": null,
           "children": [],
           "repo_info": {
@@ -920,7 +920,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/nshintio/uicollectionview-reordering",
+          "title": "nshint/uicollectionview-reordering",
           "description": null,
           "children": [],
           "repo_info": {
@@ -935,7 +935,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/chinsyo/uber-video-welcome",
+          "title": "chinsyo/SplashViewController",
           "description": null,
           "children": [],
           "repo_info": {
@@ -950,7 +950,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/yoavlt/LiquidLoader",
+          "title": "yoavlt/LiquidLoader",
           "description": null,
           "children": [],
           "repo_info": {
@@ -965,7 +965,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/gontovnik/DGElasticPullToRefresh",
+          "title": "gontovnik/DGElasticPullToRefresh",
           "description": null,
           "children": [],
           "repo_info": {
@@ -980,7 +980,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/seedante/CardAnimation",
+          "title": "seedante/CardAnimation",
           "description": null,
           "children": [],
           "repo_info": {
@@ -995,7 +995,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/AlexCatch/ACAnimatedTextField",
+          "title": "AlexCatch/ACAnimatedTextField",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1010,7 +1010,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ephread/Instructions",
+          "title": "ephread/Instructions",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1025,7 +1025,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/mentionapp/mntpulltoreact",
+          "title": "mentionapp/mntpulltoreact",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1040,7 +1040,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/TBXark/TKRubberIndicator",
+          "title": "tbxark/TKRubberIndicator",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1055,7 +1055,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/12207480/TYAlertController",
+          "title": "12207480/TYAlertController",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1070,7 +1070,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/yeziahehe/YFStartView",
+          "title": "yeziahehe/YFStartView",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1085,7 +1085,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/zekunyan/TTGEmojiRate",
+          "title": "zekunyan/TTGEmojiRate",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1100,7 +1100,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/PhilippeBoisney/AlertOnboarding",
+          "title": "PhilippeBoisney/AlertOnboarding",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1115,7 +1115,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/hanton/HTYTextField",
+          "title": "hanton/HTYTextField",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1130,7 +1130,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/manuelescrig/MEVHorizontalContacts",
+          "title": "manuelescrig/MEVHorizontalContacts",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1145,7 +1145,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Ramotion/preview-transition",
+          "title": "Ramotion/preview-transition",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1160,7 +1160,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Ramotion/expanding-collection",
+          "title": "Ramotion/expanding-collection",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1175,7 +1175,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Ramotion/folding-cell",
+          "title": "Ramotion/folding-cell",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1190,7 +1190,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/daltonclaybrook/tween-controller",
+          "title": "daltonclaybrook/tween-controller",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1205,7 +1205,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/manuelescrig/MEVFloatingButton",
+          "title": "manuelescrig/MEVFloatingButton",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1220,7 +1220,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/xhamr/fave-button",
+          "title": "janselv/fave-button",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1235,7 +1235,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/WelkinXie/WXWaveView",
+          "title": "WelkinXie/WXWaveView",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1250,7 +1250,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/BohdanOrlov/BouncyPageViewController",
+          "title": "BohdanOrlov/BouncyPageViewController",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1265,7 +1265,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/orazz/CreditCardForm-iOS",
+          "title": "orazz/CreditCardForm-iOS",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1280,7 +1280,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Onix-Systems/RainyRefreshControl",
+          "title": "Onix-Systems/RainyRefreshControl",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1295,7 +1295,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/younatics/YNDropDownMenu",
+          "title": "younatics/YNDropDownMenu",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1310,7 +1310,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/marcosgriselli/ViewAnimator",
+          "title": "marcosgriselli/ViewAnimator",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1325,7 +1325,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/sunjinshuai/Keep",
+          "title": "sunjinshuai/Keep",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1340,7 +1340,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/loopeer/AlertTransition",
+          "title": "loopeer/AlertTransition",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1355,7 +1355,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/CosmicMind/Material",
+          "title": "CosmicMind/Material",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1370,7 +1370,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/CosmicMind/Motion",
+          "title": "CosmicMind/Motion",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1385,7 +1385,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/hachinobu/SamuraiTransition",
+          "title": "hachinobu/SamuraiTransition",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1400,7 +1400,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/eggswift/ESTabBarController",
+          "title": "eggswift/ESTabBarController",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1415,7 +1415,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/quickbirdstudios/FlippingNotch",
+          "title": "QuickBirdEng/FlippingNotch",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1430,7 +1430,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Daltron/NotificationBanner",
+          "title": "Daltron/NotificationBanner",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1445,7 +1445,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Ramotion/fluid-slider",
+          "title": "Ramotion/fluid-slider",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1460,7 +1460,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/vladaverin24/TimelineCards",
+          "title": "0xNSHuman/TimelineCards",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1475,7 +1475,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/bref-Chan/CCFoldCell",
+          "title": "brefchan/CCFoldCell",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1490,7 +1490,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/airbnb/lottie-ios",
+          "title": "airbnb/lottie-ios",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1505,7 +1505,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Yalantis/Segmentio",
+          "title": "Yalantis/Segmentio",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1520,7 +1520,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Yalantis/DisplaySwitcher",
+          "title": "Yalantis/DisplaySwitcher",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1538,7 +1538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T18:27:23.662Z",
+    "last_updated": "2026-08-25T05:51:25.120Z",
     "original_repository": "v5tech/awesome-ios-animation",
     "original_repository_id": 35487739,
     "original_repository_sha": "e9734be1400016f453dbfce2489e951295319237",
