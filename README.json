@@ -135,7 +135,7 @@
             "last_commit": "2018-01-04T04:22:10Z",
             "owner": "jhurray",
             "repo": "JHChainableAnimations",
-            "stars": 3201
+            "stars": 3200
           }
         },
         {
@@ -390,7 +390,7 @@
             "last_commit": "2022-01-26T02:40:50Z",
             "owner": "Ramotion",
             "repo": "animated-tab-bar",
-            "stars": 11088
+            "stars": 11087
           }
         },
         {
@@ -975,7 +975,7 @@
             "last_commit": "2022-06-01T08:10:13Z",
             "owner": "gontovnik",
             "repo": "DGElasticPullToRefresh",
-            "stars": 3736
+            "stars": 3735
           }
         },
         {
@@ -1020,7 +1020,7 @@
             "last_commit": "2024-06-05T16:14:17Z",
             "owner": "ephread",
             "repo": "Instructions",
-            "stars": 5201
+            "stars": 5200
           }
         },
         {
@@ -1365,7 +1365,7 @@
             "last_commit": "2022-05-16T17:39:01Z",
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12005
+            "stars": 12006
           }
         },
         {
@@ -1500,7 +1500,7 @@
             "last_commit": "2026-07-08T13:57:38Z",
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26845
+            "stars": 26846
           }
         },
         {
@@ -1515,7 +1515,7 @@
             "last_commit": "2024-08-12T05:33:14Z",
             "owner": "Yalantis",
             "repo": "Segmentio",
-            "stars": 2518
+            "stars": 2517
           }
         },
         {
@@ -1538,7 +1538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:51:25.120Z",
+    "last_updated": "2026-08-25T18:26:28.007Z",
     "original_repository": "v5tech/awesome-ios-animation",
     "original_repository_id": 35487739,
     "original_repository_sha": "e9734be1400016f453dbfce2489e951295319237",
