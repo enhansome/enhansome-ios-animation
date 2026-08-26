@@ -15,7 +15,7 @@
             "last_commit": "2020-01-02T19:13:40Z",
             "owner": "facebookarchive",
             "repo": "pop",
-            "stars": 19541
+            "stars": 19542
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2023-07-03T14:28:34Z",
             "owner": "MengTo",
             "repo": "Spring",
-            "stars": 14048
+            "stars": 14050
           }
         },
         {
@@ -750,7 +750,7 @@
             "last_commit": "2026-03-08T00:04:57Z",
             "owner": "lexrus",
             "repo": "LTMorphingLabel",
-            "stars": 8144
+            "stars": 8145
           }
         },
         {
@@ -1365,7 +1365,7 @@
             "last_commit": "2022-05-16T17:39:01Z",
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12006
+            "stars": 12007
           }
         },
         {
@@ -1500,7 +1500,7 @@
             "last_commit": "2026-07-08T13:57:38Z",
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26846
+            "stars": 26847
           }
         },
         {
@@ -1538,7 +1538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T18:26:28.007Z",
+    "last_updated": "2026-08-26T19:39:26.067Z",
     "original_repository": "v5tech/awesome-ios-animation",
     "original_repository_id": 35487739,
     "original_repository_sha": "e9734be1400016f453dbfce2489e951295319237",
