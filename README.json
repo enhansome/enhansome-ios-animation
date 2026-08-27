@@ -90,7 +90,7 @@
             "last_commit": "2016-02-09T09:42:42Z",
             "owner": "daltoniam",
             "repo": "DCAnimationKit",
-            "stars": 804
+            "stars": 803
           }
         },
         {
@@ -750,7 +750,7 @@
             "last_commit": "2026-03-08T00:04:57Z",
             "owner": "lexrus",
             "repo": "LTMorphingLabel",
-            "stars": 8145
+            "stars": 8146
           }
         },
         {
@@ -1020,7 +1020,7 @@
             "last_commit": "2024-06-05T16:14:17Z",
             "owner": "ephread",
             "repo": "Instructions",
-            "stars": 5200
+            "stars": 5201
           }
         },
         {
@@ -1365,7 +1365,7 @@
             "last_commit": "2022-05-16T17:39:01Z",
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12007
+            "stars": 12008
           }
         },
         {
@@ -1500,7 +1500,7 @@
             "last_commit": "2026-07-08T13:57:38Z",
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26847
+            "stars": 26848
           }
         },
         {
@@ -1538,9 +1538,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:39:26.067Z",
-    "original_repository": "v5tech/awesome-ios-animation",
-    "original_repository_id": 35487739,
+    "last_updated": "2026-08-27T11:45:29.868Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 35487739,
+      "language": null,
+      "last_commit": "2025-10-28T05:58:10Z",
+      "owner": "v5tech",
+      "repo": "awesome-ios-animation",
+      "stars": 5458
+    },
     "original_repository_sha": "e9734be1400016f453dbfce2489e951295319237",
     "enhanced_repository": "enhansome/enhansome-ios-animation",
     "enhanced_repository_description": null,
