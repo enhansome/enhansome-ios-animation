@@ -45,7 +45,7 @@
             "last_commit": "2023-07-03T14:28:34Z",
             "owner": "MengTo",
             "repo": "Spring",
-            "stars": 14050
+            "stars": 14051
           }
         },
         {
@@ -1500,7 +1500,7 @@
             "last_commit": "2026-07-08T13:57:38Z",
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26848
+            "stars": 26850
           }
         },
         {
@@ -1538,7 +1538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:45:29.868Z",
+    "last_updated": "2026-08-28T01:56:47.665Z",
     "original_repository_info": {
       "archived": false,
       "id": 35487739,
@@ -1546,7 +1546,7 @@
       "last_commit": "2025-10-28T05:58:10Z",
       "owner": "v5tech",
       "repo": "awesome-ios-animation",
-      "stars": 5458
+      "stars": 5459
     },
     "original_repository_sha": "e9734be1400016f453dbfce2489e951295319237",
     "enhanced_repository": "enhansome/enhansome-ios-animation",
