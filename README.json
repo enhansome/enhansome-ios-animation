@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An extensible iOS and OS X animation library, useful for physics-based interactions.",
+            "homepage": null,
             "id": 18275356,
             "language": "Objective-C++",
+            "license": "NOASSERTION",
             "last_commit": "2020-01-02T19:13:40Z",
+            "open_issues": 58,
             "owner": "facebookarchive",
             "repo": "pop",
-            "stars": 19542
+            "stars": 19542,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -26,12 +31,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of animation examples for iOS apps.",
+            "homepage": null,
             "id": 20232642,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2017-07-05T11:58:47Z",
+            "open_issues": 4,
             "owner": "schneiderandre",
             "repo": "popping",
-            "stars": 5502
+            "stars": 5502,
+            "topics": [
+              "animation",
+              "objective-c",
+              "pop",
+              "transition-animation"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -42,12 +57,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library to simplify iOS animations in Swift.",
+            "homepage": "http://designcode.io",
             "id": 28513398,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2023-07-03T14:28:34Z",
+            "open_issues": 164,
             "owner": "MengTo",
             "repo": "Spring",
-            "stars": 14052
+            "stars": 14052,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -58,12 +78,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UIButton sublass for loading and transition animation.",
+            "homepage": null,
             "id": 98570094,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-09-05T11:51:13Z",
+            "open_issues": 20,
             "owner": "AladinWay",
             "repo": "TransitionButton",
-            "stars": 1473
+            "stars": 1473,
+            "topics": [
+              "animation",
+              "button",
+              "carthage",
+              "cocoapods",
+              "expand",
+              "ios",
+              "loading",
+              "login",
+              "shake",
+              "swift",
+              "transition",
+              "transition-animation",
+              "uibutton",
+              "uibutton-subclass"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -74,12 +114,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spring physics for Core Animation.",
+            "homepage": null,
             "id": 10445148,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2017-05-31T09:43:00Z",
+            "open_issues": 0,
             "owner": "jwilling",
             "repo": "JNWSpringAnimation",
-            "stars": 1007
+            "stars": 1007,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -90,12 +135,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of animations for iOS. Simple, just add water animations.",
+            "homepage": null,
             "id": 17984544,
             "language": "Objective-C",
+            "license": "Apache-2.0",
             "last_commit": "2016-02-09T09:42:42Z",
+            "open_issues": 1,
             "owner": "daltoniam",
             "repo": "DCAnimationKit",
-            "stars": 803
+            "stars": 803,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -106,12 +156,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Block-based animations made easy, comes with easing functions and a CASpringAnimation replacement.",
+            "homepage": null,
             "id": 13504233,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2022-06-24T14:03:15Z",
+            "open_issues": 6,
             "owner": "robb",
             "repo": "RBBAnimation",
-            "stars": 2059
+            "stars": 2059,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -122,12 +177,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Concise syntax for the Pop animation framework.",
+            "homepage": null,
             "id": 19317732,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2017-04-08T19:36:42Z",
+            "open_issues": 8,
             "owner": "matthewcheok",
             "repo": "POP-MCAnimate",
-            "stars": 940
+            "stars": 940,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -138,12 +198,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy to read and write chainable animations in Objective-C and Swift",
+            "homepage": null,
             "id": 34827714,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2018-01-04T04:22:10Z",
+            "open_issues": 10,
             "owner": "jhurray",
             "repo": "JHChainableAnimations",
-            "stars": 3200
+            "stars": 3200,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -154,12 +219,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An elegant and flexible tweening library for iOS and tvOS.",
+            "homepage": null,
             "id": 19167658,
             "language": "Objective-C",
+            "license": "NOASSERTION",
             "last_commit": "2016-07-19T23:26:48Z",
+            "open_issues": 0,
             "owner": "poetmountain",
             "repo": "PMTween",
-            "stars": 343
+            "stars": 343,
+            "topics": [
+              "animation",
+              "interpolation",
+              "motion",
+              "objective-c",
+              "tween"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -170,12 +246,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple keyframe-based animation framework for UIKit. Perfect for scrolling app intros.",
+            "homepage": "http://ifttt.github.io",
             "id": 13200787,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2024-07-30T13:01:27Z",
+            "open_issues": 14,
             "owner": "IFTTT",
             "repo": "JazzHands",
-            "stars": 6361
+            "stars": 6361,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -186,12 +267,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A gallery app of custom animated transitions for iOS.",
+            "homepage": null,
             "id": 17571013,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2024-04-30T08:03:53Z",
+            "open_issues": 1,
             "owner": "shu223",
             "repo": "AnimatedTransitionGallery",
-            "stars": 2504
+            "stars": 2504,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -202,12 +288,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library of custom iOS View Controller Animations and Interactions.",
+            "homepage": null,
             "id": 15236811,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2020-02-06T19:14:19Z",
+            "open_issues": 11,
             "owner": "Rightpoint",
             "repo": "RZTransitions",
-            "stars": 1860
+            "stars": 1860,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -218,12 +309,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Folding Tab Bar and Tab Bar Controller",
+            "homepage": "https://yalantis.com",
             "id": 33356195,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2022-06-13T14:56:56Z",
+            "open_issues": 14,
             "owner": "Yalantis",
             "repo": "FoldingTabBar.iOS",
-            "stars": 3663
+            "stars": 3663,
+            "topics": [
+              "animation",
+              "carthage",
+              "cocoapods",
+              "foldingtabbar",
+              "ios",
+              "objective-c",
+              "protocol",
+              "swift",
+              "tabbar",
+              "tabbarcontroller"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -234,12 +341,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Animated side menu with customizable UI",
+            "homepage": "https://yalantis.com/?utm_source=github",
             "id": 29461626,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2020-04-13T06:45:38Z",
+            "open_issues": 3,
             "owner": "Yalantis",
             "repo": "Side-Menu.iOS",
-            "stars": 2712
+            "stars": 2712,
+            "topics": [
+              "animation",
+              "cocoapods",
+              "ios",
+              "menu",
+              "menu-navigation",
+              "menubar",
+              "navigation",
+              "panel",
+              "side-menu",
+              "side-menu-oco",
+              "sidemenu",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -250,12 +375,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "You can easily add awesome animated context menu to your app.",
+            "homepage": "https://yalantis.com/?utm_source=github",
             "id": 29289591,
             "language": "Objective-C",
+            "license": "Apache-2.0",
             "last_commit": "2018-04-04T12:05:34Z",
+            "open_issues": 3,
             "owner": "Yalantis",
             "repo": "Context-Menu.iOS",
-            "stars": 1826
+            "stars": 1826,
+            "topics": [
+              "animation",
+              "context-menu",
+              "contextmenu",
+              "customization",
+              "ios",
+              "menu",
+              "objective-c",
+              "rotation-animation",
+              "uiview-property",
+              "yalantis"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -266,12 +407,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Our Guillotine Menu Transitioning Animation implemented in Swift reminds a bit of a notorious killing machine.",
+            "homepage": "https://yalantis.com/",
             "id": 33919573,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2020-04-13T12:49:18Z",
+            "open_issues": 0,
             "owner": "Yalantis",
             "repo": "GuillotineMenu",
-            "stars": 2881
+            "stars": 2881,
+            "topics": [
+              "animation",
+              "cocoapods",
+              "guillotinemenu",
+              "ios",
+              "protocol",
+              "swift",
+              "transition-animation",
+              "yalantis"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -282,12 +437,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Animated top menu for UITableView / UICollectionView / UIScrollView written in Swift",
+            "homepage": "https://yalantis.com/?utm_source=github",
             "id": 31715632,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2020-04-22T09:42:56Z",
+            "open_issues": 2,
             "owner": "Yalantis",
             "repo": "Persei",
-            "stars": 3432
+            "stars": 3432,
+            "topics": [
+              "animation",
+              "carthage",
+              "cocoapods",
+              "custom",
+              "drag",
+              "ios",
+              "menu",
+              "navigator",
+              "persei",
+              "swift",
+              "uicollectionview",
+              "uiscrollview",
+              "uitableview"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -298,12 +472,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This project aims to provide a simple and customizable pull to refresh implementation. Made in Yalantis",
+            "homepage": "https://yalantis.com/",
             "id": 29138050,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2018-06-16T09:20:03Z",
+            "open_issues": 8,
             "owner": "Yalantis",
             "repo": "Pull-to-Refresh.Rentals-iOS",
-            "stars": 2121
+            "stars": 2121,
+            "topics": [
+              "animation",
+              "cocoapods",
+              "customizable",
+              "customization",
+              "ios",
+              "objective-c",
+              "pull-to-refresh",
+              "refresh",
+              "yalantis"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -314,12 +503,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Custom animated pull-to-refresh that can be easily added to UIScrollView",
+            "homepage": "https://yalantis.com/",
             "id": 36022896,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2019-03-18T23:02:00Z",
+            "open_issues": 4,
             "owner": "Yalantis",
             "repo": "PullToMakeSoup",
-            "stars": 1916
+            "stars": 1916,
+            "topics": [
+              "animation",
+              "carthage",
+              "ios",
+              "pulltomakesoup",
+              "refreshes",
+              "swift",
+              "uiscrollview",
+              "yalantis"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -330,12 +533,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Custom animated pull-to-refresh that can be easily added to UIScrollView",
+            "homepage": "https://yalantis.com",
             "id": 37120815,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2018-01-30T16:31:38Z",
+            "open_issues": 1,
             "owner": "Yalantis",
             "repo": "PullToMakeFlight",
-            "stars": 497
+            "stars": 497,
+            "topics": [
+              "animation",
+              "ios",
+              "pull-to-refresh",
+              "pulltomakeflight",
+              "refreshes",
+              "swift",
+              "uiscrollview",
+              "yalantis"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -346,12 +563,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS. ",
+            "homepage": "https://yalantis.com",
             "id": 38444110,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-05-29T20:58:30Z",
+            "open_issues": 50,
             "owner": "Yalantis",
             "repo": "Koloda",
-            "stars": 5395
+            "stars": 5395,
+            "topics": [
+              "animation",
+              "cards",
+              "cocoapods",
+              "collectionview",
+              "custom-layout",
+              "ios",
+              "koloda",
+              "kolodaview",
+              "swift",
+              "yalantis"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -362,12 +595,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This component implements transition animation to crumble view-controller into tiny pieces.",
+            "homepage": "https://yalantis.com",
             "id": 44598989,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-10-11T00:41:59Z",
+            "open_issues": 5,
             "owner": "Yalantis",
             "repo": "StarWars.iOS",
-            "stars": 3762
+            "stars": 3762,
+            "topics": [
+              "animation",
+              "ios",
+              "opengl",
+              "research",
+              "snapshots",
+              "star-wars",
+              "swift",
+              "transition-animation",
+              "uidynamics",
+              "uikit",
+              "yalantis"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -378,12 +628,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Eat fit is a component for attractive data representation inspired by Google Fit",
+            "homepage": "https://yalantis.com",
             "id": 43426616,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2020-04-13T06:51:31Z",
+            "open_issues": 0,
             "owner": "Yalantis",
             "repo": "EatFit",
-            "stars": 648
+            "stars": 648,
+            "topics": [
+              "animation",
+              "carthage",
+              "google-fit",
+              "ios",
+              "pagecontrol",
+              "swift",
+              "yalantis"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -394,12 +657,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Custom Label to apply animations on whole text or letters.",
+            "homepage": "https://yalantis.com/",
             "id": 32573260,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2020-06-04T19:45:48Z",
+            "open_issues": 0,
             "owner": "Yalantis",
             "repo": "Preloader.Ophiuchus",
-            "stars": 876
+            "stars": 876,
+            "topics": [
+              "animation",
+              "cocoapods",
+              "coretext",
+              "custom-labels",
+              "ios",
+              "letters",
+              "mask",
+              "objective-c",
+              "sublayer",
+              "yalantis"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -410,12 +689,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion",
+            "homepage": "https://www.ramotion.com/animated-tab-bar-ios-app-development-ui-library/",
             "id": 26481815,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-01-26T02:40:50Z",
+            "open_issues": 17,
             "owner": "Ramotion",
             "repo": "animated-tab-bar",
-            "stars": 11087
+            "stars": 11087,
+            "topics": [
+              "animation",
+              "ios",
+              "library",
+              "material-design",
+              "swift",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -426,12 +717,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A custom modal transition that presents and dismiss a controller with an expanding bubble effect.",
+            "homepage": null,
             "id": 35510454,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2020-11-04T15:29:03Z",
+            "open_issues": 3,
             "owner": "andreamazz",
             "repo": "BubbleTransition",
-            "stars": 3303
+            "stars": 3303,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -442,12 +738,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Transition between controllers coding in Swift",
+            "homepage": null,
             "id": 54667141,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2016-08-31T11:39:17Z",
+            "open_issues": 0,
             "owner": "fitomad",
             "repo": "iOS-Bubble-Transition",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "bubble-transition",
+              "ios-animation",
+              "ios-swift",
+              "swift",
+              "transition",
+              "transition-animation"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -458,12 +766,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "*DEPRECATED* CNPPopupController is a simple and versatile class for presenting a custom popup in a variety of fashions. It includes a many options for controlling how your popup appears and behaves.",
+            "homepage": null,
             "id": 24654062,
             "language": "Objective-C",
+            "license": "NOASSERTION",
             "last_commit": "2019-03-08T00:24:48Z",
+            "open_issues": 2,
             "owner": "carsonxyz",
             "repo": "CNPPopupController",
-            "stars": 1628
+            "stars": 1628,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -474,12 +787,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simply Implement dribbble's popular shot.",
+            "homepage": null,
             "id": 35687797,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2015-09-22T08:26:16Z",
+            "open_issues": 1,
             "owner": "MartinRGB",
             "repo": "GiftCard-iOS",
-            "stars": 540
+            "stars": 540,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -490,12 +808,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A DSL to make animation easy on iOS with Swift.",
+            "homepage": null,
             "id": 35588993,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2019-09-12T10:12:14Z",
+            "open_issues": 13,
             "owner": "draveness",
             "repo": "DKChainableAnimationKit",
-            "stars": 1876
+            "stars": 1876,
+            "topics": [
+              "animation",
+              "animation-chain",
+              "animation-effects",
+              "chainable-animations",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -506,12 +835,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The basics of a swipeable card interface inspired by Tinder",
+            "homepage": null,
             "id": 20146448,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2017-05-28T00:48:20Z",
+            "open_issues": 2,
             "owner": "cwRichardKim",
             "repo": "RKSwipeCards",
-            "stars": 2158
+            "stars": 2158,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -522,12 +856,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An iOS transition for controllers based on material design.",
+            "homepage": null,
             "id": 34544262,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2019-01-17T16:45:55Z",
+            "open_issues": 0,
             "owner": "johnvuko",
             "repo": "JTMaterialTransition",
-            "stars": 952
+            "stars": 952,
+            "topics": [
+              "ios",
+              "ios-transition",
+              "material",
+              "material-design",
+              "swift",
+              "transition"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -538,12 +884,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An implementation of a super cool animated transition used on the Apple Watch",
+            "homepage": null,
             "id": 34713608,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2015-04-30T04:13:37Z",
+            "open_issues": 0,
             "owner": "kongtomorrow",
             "repo": "WatchTransition",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -554,12 +905,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一个3D翻转的转场动画",
+            "homepage": null,
             "id": 34166936,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2015-08-18T17:34:39Z",
+            "open_issues": 2,
             "owner": "KittenYang",
             "repo": "KYPushTransition",
-            "stars": 103
+            "stars": 103,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -570,12 +926,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UIView category that adds shake animation",
+            "homepage": null,
             "id": 17708526,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2022-08-26T10:10:18Z",
+            "open_issues": 1,
             "owner": "andreamazz",
             "repo": "UIView-Shake",
-            "stars": 488
+            "stars": 488,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -586,12 +947,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UITextField category that adds shake animation",
+            "homepage": null,
             "id": 16646704,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2017-12-14T10:52:27Z",
+            "open_issues": 0,
             "owner": "andreamazz",
             "repo": "UITextField-Shake",
-            "stars": 726
+            "stars": 726,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -602,12 +968,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A custom zooming transition animation for UIViewController",
+            "homepage": null,
             "id": 33183769,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2017-08-23T09:04:09Z",
+            "open_issues": 11,
             "owner": "recruit-mp",
             "repo": "RMPZoomTransitionAnimator",
-            "stars": 1693
+            "stars": 1693,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -618,12 +989,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PopMenu is pop animation menu inspired by Sina weibo / NetEase app.",
+            "homepage": null,
             "id": 29085003,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2016-06-27T11:30:08Z",
+            "open_issues": 11,
             "owner": "xhzengAIB",
             "repo": "PopMenu",
-            "stars": 886
+            "stars": 886,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -634,12 +1010,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Custom animation transition for present modal view controller",
+            "homepage": null,
             "id": 20121600,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2018-01-21T03:49:25Z",
+            "open_issues": 23,
             "owner": "zoonooz",
             "repo": "ZFDragableModalTransition",
-            "stars": 2445
+            "stars": 2445,
+            "topics": [
+              "animation",
+              "ios",
+              "objective-c",
+              "transition"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -650,12 +1036,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 35915130,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2017-11-01T13:30:36Z",
+            "open_issues": 2,
             "owner": "mathcarignani",
             "repo": "MCMHeaderAnimated",
-            "stars": 508
+            "stars": 508,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -666,12 +1057,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Recreating Apple’s rubber band effect in Swift",
+            "homepage": null,
             "id": 35129081,
             "language": "Swift",
+            "license": null,
             "last_commit": "2015-06-22T19:46:53Z",
+            "open_issues": 0,
             "owner": "Produkt",
             "repo": "RubberBandEffect",
-            "stars": 516
+            "stars": 516,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -682,12 +1078,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Swift library to take the power of UIView.animateWithDuration(_:, animations:...) to a whole new level - layers, springs, chain-able animations and mixing view and layer animations together!",
+            "homepage": null,
             "id": 35777740,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2020-11-30T16:31:04Z",
+            "open_issues": 13,
             "owner": "icanzilb",
             "repo": "EasyAnimation",
-            "stars": 2930
+            "stars": 2930,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -698,12 +1099,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A extension of POP(from facebook) custom animation. Inspired by tweaner(https://code.google.com/p/tweaner), MMTweanerAnimation provide 10 types of custom animation while using POP.",
+            "homepage": null,
             "id": 33446569,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2015-12-14T06:23:08Z",
+            "open_issues": 2,
             "owner": "adad184",
             "repo": "MMTweenAnimation",
-            "stars": 1120
+            "stars": 1120,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -714,12 +1120,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A custom animation for the UIRefreshControl",
+            "homepage": null,
             "id": 32464800,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2017-08-28T06:52:23Z",
+            "open_issues": 3,
             "owner": "andreamazz",
             "repo": "GearRefreshControl",
-            "stars": 618
+            "stars": 618,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -730,12 +1141,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A UICollectionView which allows for easy drag and drop to reorder cells. Mimicks the drag and drop on the iOS Springboard when reordering apps (wiggle animation included!). AutoScroll included also",
+            "homepage": null,
             "id": 29163610,
             "language": "Swift",
+            "license": null,
             "last_commit": "2019-06-27T16:35:28Z",
+            "open_issues": 4,
             "owner": "Lior539",
             "repo": "DragDropCollectionView",
-            "stars": 223
+            "stars": 223,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -746,12 +1162,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Replicating Twitter's bird animation that appears when app starts up",
+            "homepage": null,
             "id": 20731484,
             "language": "Swift",
+            "license": null,
             "last_commit": "2016-06-21T16:15:09Z",
+            "open_issues": 7,
             "owner": "rounak",
             "repo": "TwitterBirdAnimation",
-            "stars": 474
+            "stars": 474,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -762,12 +1183,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shake a view with a single line of code with a non-intrusive extension for UIView, written in Swift. Also supports accessability!",
+            "homepage": null,
             "id": 34948715,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-05-11T12:05:18Z",
+            "open_issues": 1,
             "owner": "haaakon",
             "repo": "SingleLineShakeAnimation",
-            "stars": 305
+            "stars": 305,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -778,12 +1204,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Secret app like text animation",
+            "homepage": null,
             "id": 19537766,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2023-12-25T18:38:44Z",
+            "open_issues": 8,
             "owner": "zipme",
             "repo": "RQShineLabel",
-            "stars": 1951
+            "stars": 1951,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -794,12 +1225,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[EXPERIMENTAL] Graceful morphing effects for UILabel written in Swift.",
+            "homepage": null,
             "id": 21190654,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-03-08T00:04:57Z",
+            "open_issues": 25,
             "owner": "lexrus",
             "repo": "LTMorphingLabel",
-            "stars": 8146
+            "stars": 8146,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -810,12 +1246,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":octocat: Show status for transition across viewControllers.",
+            "homepage": null,
             "id": 36716204,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2025-06-06T16:33:21Z",
+            "open_issues": 2,
             "owner": "wongzigii",
             "repo": "WZDraggableSwitchHeaderView",
-            "stars": 552
+            "stars": 552,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -826,12 +1267,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple view for building card like interface inspired by Tinder and Potluck.",
+            "homepage": null,
             "id": 34710834,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2023-06-16T21:26:43Z",
+            "open_issues": 8,
             "owner": "zhxnlai",
             "repo": "ZLSwipeableViewSwift",
-            "stars": 2249
+            "stars": 2249,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -842,12 +1288,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple view for building card like interface inspired by Tinder and Potluck.",
+            "homepage": null,
             "id": 26068656,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2016-06-13T01:22:22Z",
+            "open_issues": 59,
             "owner": "zhxnlai",
             "repo": "ZLSwipeableView",
-            "stars": 2805
+            "stars": 2805,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -858,12 +1309,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cool wave like transition between two or more UICollectionView",
+            "homepage": null,
             "id": 39797193,
             "language": "Swift",
+            "license": "NOASSERTION",
             "last_commit": "2019-10-13T12:54:07Z",
+            "open_issues": 1,
             "owner": "CezaryKopacz",
             "repo": "CKWaveCollectionViewTransition",
-            "stars": 1845
+            "stars": 1845,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -874,12 +1330,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Material Design Floating Action Button in liquid state",
+            "homepage": null,
             "id": 41534823,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-07-08T20:51:12Z",
+            "open_issues": 53,
             "owner": "yoavlt",
             "repo": "LiquidFloatingActionButton",
-            "stars": 3840
+            "stars": 3840,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -890,12 +1351,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of awesome loading animations",
+            "homepage": null,
             "id": 39452201,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-03-18T02:19:26Z",
+            "open_issues": 1,
             "owner": "ninjaprox",
             "repo": "NVActivityIndicatorView",
-            "stars": 10708
+            "stars": 10708,
+            "topics": [
+              "animation",
+              "carthage",
+              "cocoapods",
+              "ios",
+              "ios-animation",
+              "ios-lib",
+              "ios-swift",
+              "ios-thirdparty",
+              "ios-ui",
+              "loader",
+              "loaders",
+              "loading-animations",
+              "swift",
+              "swift-library"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -906,12 +1387,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Animated UIButton of Loading Animation and Transition Animation. Inspired by  https://dribbble.com/shots/1945593-Login-Home-Screen",
+            "homepage": null,
             "id": 40348516,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2019-12-04T12:29:02Z",
+            "open_issues": 9,
             "owner": "takuoka",
             "repo": "TKSubmitTransition",
-            "stars": 2261
+            "stars": 2261,
+            "topics": [
+              "animation",
+              "library",
+              "swift",
+              "transition-animation"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -922,12 +1413,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "some test animations, just for fun.",
+            "homepage": null,
             "id": 38658671,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2016-03-04T10:42:00Z",
+            "open_issues": 3,
             "owner": "KittenYang",
             "repo": "Animations",
-            "stars": 621
+            "stars": 621,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -938,12 +1434,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 38584655,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2019-10-09T21:27:16Z",
+            "open_issues": 2,
             "owner": "likedan",
             "repo": "KDIntroView",
-            "stars": 301
+            "stars": 301,
+            "topics": [
+              "animation",
+              "ios",
+              "ios-animation",
+              "ios-lib",
+              "ios-swift",
+              "ios-ui",
+              "landing-page",
+              "onboarding",
+              "swift-framework",
+              "swift-library",
+              "swift3",
+              "xib"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -954,12 +1468,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple keyframe-based animation framework for iOS, written in Swift. Perfect for scrolling app intros.",
+            "homepage": "http://ifttt.github.io",
             "id": 37480795,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2023-10-11T20:39:12Z",
+            "open_issues": 23,
             "owner": "IFTTT",
             "repo": "RazzleDazzle",
-            "stars": 3346
+            "stars": 3346,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -970,12 +1489,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":bookmark_tabs: Presentation helps you to make tutorials, release notes and animated pages.",
+            "homepage": "hyper.no",
             "id": 33663866,
             "language": "Swift",
+            "license": "NOASSERTION",
             "last_commit": "2020-06-05T00:39:05Z",
+            "open_issues": 3,
             "owner": "hyperoslo",
             "repo": "Presentation",
-            "stars": 3070
+            "stars": 3070,
+            "topics": [
+              "ios",
+              "pages",
+              "presentation",
+              "slides",
+              "swift",
+              "tutorials",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -986,12 +1518,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 39166341,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-03-01T17:48:53Z",
+            "open_issues": 5,
             "owner": "nshint",
             "repo": "uicollectionview-reordering",
-            "stars": 466
+            "stars": 466,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -1002,12 +1539,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 39147064,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2020-09-08T03:26:50Z",
+            "open_issues": 0,
             "owner": "chinsyo",
             "repo": "SplashViewController",
-            "stars": 359
+            "stars": 359,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -1018,12 +1560,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spinner loader components with liquid animation",
+            "homepage": null,
             "id": 41285933,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2020-05-18T03:53:24Z",
+            "open_issues": 8,
             "owner": "yoavlt",
             "repo": "LiquidLoader",
-            "stars": 1325
+            "stars": 1325,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -1034,12 +1581,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Elastic pull to refresh for iOS developed in Swift",
+            "homepage": "https://medium.com/@gontovnik/elastic-view-animation-or-how-i-built-dgelasticpulltorefresh-269a3ba8636e#.9dioekqv6",
             "id": 44432672,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-06-01T08:10:13Z",
+            "open_issues": 58,
             "owner": "gontovnik",
             "repo": "DGElasticPullToRefresh",
-            "stars": 3735
+            "stars": 3735,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -1050,12 +1602,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Card flip animation by pan gesture.",
+            "homepage": null,
             "id": 43898033,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-01-20T11:55:02Z",
+            "open_issues": 0,
             "owner": "seedante",
             "repo": "CardAnimation",
-            "stars": 1164
+            "stars": 1164,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -1066,12 +1623,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Animated UITextField",
+            "homepage": null,
             "id": 44637272,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2019-04-23T07:52:22Z",
+            "open_issues": 1,
             "owner": "AlexCatch",
             "repo": "ACAnimatedTextField",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -1082,12 +1644,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create walkthroughs and guided tours (coach marks) in a simple way, with Swift.",
+            "homepage": null,
             "id": 43492618,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-06-05T16:14:17Z",
+            "open_issues": 17,
             "owner": "ephread",
             "repo": "Instructions",
-            "stars": 5201
+            "stars": 5201,
+            "topics": [
+              "coach-marks",
+              "tour",
+              "walkthrough"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -1098,12 +1669,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "One gesture, many actions. An evolution of Pull to Refresh.",
+            "homepage": null,
             "id": 20191549,
             "language": "Objective-C",
+            "license": "Apache-2.0",
             "last_commit": "2015-04-29T13:28:24Z",
+            "open_issues": 0,
             "owner": "mentionapp",
             "repo": "mntpulltoreact",
-            "stars": 767
+            "stars": 767,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -1114,12 +1690,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A rubber animation pagecontrol",
+            "homepage": null,
             "id": 45082974,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-08-21T09:11:19Z",
+            "open_issues": 7,
             "owner": "tbxark",
             "repo": "TKRubberIndicator",
-            "stars": 1465
+            "stars": 1465,
+            "topics": [
+              "carthage",
+              "cocoapods",
+              "coreanimation",
+              "ios",
+              "ios-animation",
+              "page-control",
+              "swift",
+              "ui",
+              "uikit"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -1130,12 +1721,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Powerful, Easy to use alert view or popup view on controller and window, support blur effects,custom view and animation,for objective-c,support iphone, ipad",
+            "homepage": null,
             "id": 45040232,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2022-06-13T15:10:21Z",
+            "open_issues": 19,
             "owner": "12207480",
             "repo": "TYAlertController",
-            "stars": 1306
+            "stars": 1306,
+            "topics": [
+              "alert",
+              "alertcontroller",
+              "alertview"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -1146,12 +1746,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "动画交互的启动图",
+            "homepage": null,
             "id": 44554137,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2019-03-31T08:57:22Z",
+            "open_issues": 1,
             "owner": "yeziahehe",
             "repo": "YFStartView",
-            "stars": 154
+            "stars": 154,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -1162,12 +1767,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TTGEmojiRate turns feedback into a living expression. Its original interaction is vertical drag: users move the emoji up or down to score a moment, express mood, and make ratings feel closer to a real emotional response.",
+            "homepage": null,
             "id": 44436486,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-06-21T14:34:05Z",
+            "open_issues": 0,
             "owner": "zekunyan",
             "repo": "TTGEmojiRate",
-            "stars": 288
+            "stars": 288,
+            "topics": [
+              "animation",
+              "coreanimation",
+              "drag",
+              "emoji",
+              "ios",
+              "rating",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -1178,12 +1796,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple and attractive AlertView to onboard your users in your amazing world.",
+            "homepage": null,
             "id": 54724122,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-09-05T20:21:31Z",
+            "open_issues": 19,
             "owner": "PhilippeBoisney",
             "repo": "AlertOnboarding",
-            "stars": 827
+            "stars": 827,
+            "topics": [
+              "alertview",
+              "dialog",
+              "ios",
+              "onboarding",
+              "popup",
+              "swift",
+              "swift4"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -1194,12 +1825,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A UITextField with bouncy placeholder. ",
+            "homepage": null,
             "id": 45185825,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2019-11-02T23:20:50Z",
+            "open_issues": 5,
             "owner": "hanton",
             "repo": "HTYTextField",
-            "stars": 309
+            "stars": 309,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -1210,12 +1846,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An iOS UICollectionViewLayout subclass to show a list of contacts with configurable expandable items.",
+            "homepage": null,
             "id": 56929973,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2016-08-25T16:10:34Z",
+            "open_issues": 2,
             "owner": "manuelescrig",
             "repo": "MEVHorizontalContacts",
-            "stars": 351
+            "stars": 351,
+            "topics": [
+              "cocoapods",
+              "ios",
+              "ios-animation",
+              "objective-c",
+              "objective-c-library"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -1226,12 +1873,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":octocat: PreviewTransition is a simple preview gallery UI controller with animated tranisitions. Swift UI library made by @Ramotion",
+            "homepage": "https://www.ramotion.com/preview-transition/",
             "id": 55409392,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2020-04-06T07:00:09Z",
+            "open_issues": 4,
             "owner": "Ramotion",
             "repo": "preview-transition",
-            "stars": 2070
+            "stars": 2070,
+            "topics": [
+              "ios",
+              "library",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -1242,12 +1898,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":octocat: ExpandingCollection is an animated material design UI card peek/pop controller. iOS library made by @Ramotion",
+            "homepage": "https://www.ramotion.com/smartphone-app-development-ui-library-to-peek-and-pop-cards/",
             "id": 59643097,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2020-04-06T06:53:36Z",
+            "open_issues": 25,
             "owner": "Ramotion",
             "repo": "expanding-collection",
-            "stars": 5512
+            "stars": 5512,
+            "topics": [
+              "animation",
+              "component",
+              "library",
+              "material-design",
+              "swift",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -1258,12 +1926,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":octocat: 📃 FoldingCell is an expanding content cell with animation made by @Ramotion",
+            "homepage": "https://www.ramotion.com/folding-cell/",
             "id": 48376164,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-04-28T23:42:52Z",
+            "open_issues": 12,
             "owner": "Ramotion",
             "repo": "folding-cell",
-            "stars": 10181
+            "stars": 10181,
+            "topics": [
+              "animation",
+              "ios",
+              "library",
+              "material-design",
+              "swift",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -1274,12 +1954,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A toolkit for creating interactive menus and tutorials in Swift",
+            "homepage": null,
             "id": 58548682,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2018-09-14T13:24:35Z",
+            "open_issues": 1,
             "owner": "daltonclaybrook",
             "repo": "tween-controller",
-            "stars": 503
+            "stars": 503,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -1290,12 +1975,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An iOS drop-in UITableView, UICollectionView and UIScrollView superclass category for showing a customizable floating button on top of it.",
+            "homepage": null,
             "id": 50496984,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2017-03-22T15:30:04Z",
+            "open_issues": 4,
             "owner": "manuelescrig",
             "repo": "MEVFloatingButton",
-            "stars": 294
+            "stars": 294,
+            "topics": [
+              "cocoapods",
+              "ios",
+              "ios-animation",
+              "objective-c",
+              "objective-c-extensions",
+              "objective-c-library"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -1306,12 +2003,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FaveButton is an iOS cute animated like button written in Swift.",
+            "homepage": null,
             "id": 61915460,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2023-08-19T09:18:46Z",
+            "open_issues": 19,
             "owner": "janselv",
             "repo": "fave-button",
-            "stars": 1515
+            "stars": 1515,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -1322,12 +2024,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Add smooth water waves to your views. ",
+            "homepage": null,
             "id": 56769798,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2022-09-10T11:18:09Z",
+            "open_issues": 0,
             "owner": "WelkinXie",
             "repo": "WXWaveView",
-            "stars": 339
+            "stars": 339,
+            "topics": [
+              "animation",
+              "bezier-curve",
+              "smooth-waves",
+              "wave"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -1338,12 +2050,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Page view controller with bounce effect",
+            "homepage": null,
             "id": 71047821,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2018-07-30T19:54:24Z",
+            "open_issues": 0,
             "owner": "BohdanOrlov",
             "repo": "BouncyPageViewController",
-            "stars": 839
+            "stars": 839,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -1354,12 +2071,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CreditCardForm is iOS framework that allows developers to create the UI which replicates an actual Credit Card.",
+            "homepage": null,
             "id": 73180483,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2020-05-30T17:09:15Z",
+            "open_issues": 6,
             "owner": "orazz",
             "repo": "CreditCardForm-iOS",
-            "stars": 1463
+            "stars": 1463,
+            "topics": [
+              "credit-card",
+              "creditcardform",
+              "ios-swift",
+              "stripe"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -1370,12 +2097,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple refresh control for iOS based on SpriteKit and Core Graphics",
+            "homepage": null,
             "id": 74377565,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2019-07-02T01:29:48Z",
+            "open_issues": 3,
             "owner": "Onix-Systems",
             "repo": "RainyRefreshControl",
-            "stars": 670
+            "stars": 670,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -1386,12 +2118,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✨ Awesome Dropdown menu for iOS with Swift 5.0",
+            "homepage": "https://www.cocoacontrols.com/controls/yndropdownmenu",
             "id": 82458708,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-07-07T23:52:48Z",
+            "open_issues": 8,
             "owner": "younatics",
             "repo": "YNDropDownMenu",
-            "stars": 1329
+            "stars": 1329,
+            "topics": [
+              "carthage",
+              "cocoapods",
+              "dropdown",
+              "dropdown-menus",
+              "dropdownmenu",
+              "ios",
+              "menu",
+              "menubar",
+              "swift",
+              "swift5"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -1402,12 +2150,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ViewAnimator brings your UI to life with just one line",
+            "homepage": null,
             "id": 106023615,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-03-31T11:37:25Z",
+            "open_issues": 12,
             "owner": "marcosgriselli",
             "repo": "ViewAnimator",
-            "stars": 7309
+            "stars": 7309,
+            "topics": [
+              "animations",
+              "ios",
+              "swift",
+              "ui",
+              "uicollectionview",
+              "uikit",
+              "uistackview",
+              "uitableview",
+              "uiview"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -1418,12 +2181,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "keep Guide page",
+            "homepage": null,
             "id": 62328306,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2018-02-24T02:41:49Z",
+            "open_issues": 0,
             "owner": "sunjinshuai",
             "repo": "Keep",
-            "stars": 214
+            "stars": 214,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -1434,12 +2202,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AlertTransition is a extensible library for making view controller transitions, especially for alert transitions.",
+            "homepage": null,
             "id": 88871326,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2017-12-28T07:55:16Z",
+            "open_issues": 0,
             "owner": "loopeer",
             "repo": "AlertTransition",
-            "stars": 568
+            "stars": 568,
+            "topics": [
+              "alert",
+              "alertview",
+              "alertviewcontroller",
+              "animation",
+              "sidemenu",
+              "swift4",
+              "transition"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -1450,12 +2231,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A UI/UX framework for creating beautiful applications.",
+            "homepage": "http://cosmicmind.com",
             "id": 41215439,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-05-16T17:39:01Z",
+            "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12010
+            "stars": 12010,
+            "topics": [
+              "animation",
+              "card",
+              "cosmicmind",
+              "design",
+              "graphics",
+              "ios",
+              "material",
+              "material-colors",
+              "material-design",
+              "navigation-controller",
+              "navigation-drawer",
+              "photos",
+              "searchbar",
+              "snackbar",
+              "swift",
+              "swift-3",
+              "textfield",
+              "ui",
+              "ux"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -1466,12 +2272,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library used to create beautiful animations and transitions for iOS.",
+            "homepage": "http://cosmicmind.com",
             "id": 80641217,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2020-01-28T12:14:33Z",
+            "open_issues": 4,
             "owner": "CosmicMind",
             "repo": "Motion",
-            "stars": 1768
+            "stars": 1768,
+            "topics": [
+              "animation",
+              "cosmicmind",
+              "design",
+              "ios",
+              "material",
+              "material-design",
+              "swift-3",
+              "swift-library",
+              "transitions",
+              "ui",
+              "ux"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -1482,12 +2305,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SamuraiTransition is an open source Swift based library providing a collection of ViewController transitions featuring a number of neat “cutting” animations.",
+            "homepage": null,
             "id": 74805876,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-07-16T06:43:19Z",
+            "open_issues": 1,
             "owner": "hachinobu",
             "repo": "SamuraiTransition",
-            "stars": 281
+            "stars": 281,
+            "topics": [
+              "animation",
+              "swift",
+              "transition"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -1498,12 +2330,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":octocat: ESTabBarController is a Swift model for customize UI, badge and adding animation to tabbar items. Support lottie!",
+            "homepage": null,
             "id": 59217397,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2023-05-09T11:16:43Z",
+            "open_issues": 40,
             "owner": "eggswift",
             "repo": "ESTabBarController",
-            "stars": 5225
+            "stars": 5225,
+            "topics": [
+              "animation",
+              "ios",
+              "objective-c",
+              "swift",
+              "tabbar",
+              "tabbarcontroller"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -1514,12 +2358,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FlippingNotch 🤙 - Dribble inspired animation https://dribbble.com/shots/4089014-Pull-To-Refresh-iPhone-X",
+            "homepage": null,
             "id": 117989207,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2018-03-02T09:57:03Z",
+            "open_issues": 0,
             "owner": "QuickBirdEng",
             "repo": "FlippingNotch",
-            "stars": 836
+            "stars": 836,
+            "topics": [
+              "animation",
+              "dribble",
+              "notch",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -1530,12 +2384,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The easiest way to display highly customizable in app notification banners in iOS",
+            "homepage": null,
             "id": 86640546,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-07-29T11:24:25Z",
+            "open_issues": 34,
             "owner": "Daltron",
             "repo": "NotificationBanner",
-            "stars": 4871
+            "stars": 4871,
+            "topics": [
+              "ios",
+              "ios-animation",
+              "ios-swift",
+              "swift",
+              "swift3"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -1546,12 +2411,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":octocat:💧 A slider widget with a popup bubble displaying the precise value selected. Swift UI library made by @Ramotion",
+            "homepage": "https://www.ramotion.com/fluid-slider/",
             "id": 107671636,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-06-01T06:20:38Z",
+            "open_issues": 27,
             "owner": "Ramotion",
             "repo": "fluid-slider",
-            "stars": 1984
+            "stars": 1984,
+            "topics": [
+              "ios",
+              "library",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -1562,12 +2436,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Presenting timelines as cards, single or bundled in scrollable feed!",
+            "homepage": null,
             "id": 112837606,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-05-06T04:28:56Z",
+            "open_issues": 3,
             "owner": "0xNSHuman",
             "repo": "TimelineCards",
-            "stars": 426
+            "stars": 426,
+            "topics": [
+              "card",
+              "cards",
+              "feed",
+              "milestones",
+              "timeline"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -1578,12 +2463,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cell折叠动效(OC实现)",
+            "homepage": null,
             "id": 83003533,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2019-03-26T14:45:40Z",
+            "open_issues": 6,
             "owner": "brefchan",
             "repo": "CCFoldCell",
-            "stars": 482
+            "stars": 482,
+            "topics": [
+              "animation",
+              "ios",
+              "objective-c"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -1594,12 +2488,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An iOS library to natively render After Effects vector animations",
+            "homepage": "https://lottie.airbnb.tech",
             "id": 70198664,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-08T13:57:38Z",
+            "open_issues": 43,
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26852
+            "stars": 26852,
+            "topics": [
+              "animation",
+              "bodymovin",
+              "custom-transitions",
+              "ios",
+              "ios-animation",
+              "ios-transition",
+              "keyframes",
+              "swift",
+              "transition-animation"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -1610,12 +2519,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Animated top/bottom segmented control written in Swift.",
+            "homepage": "https://yalantis.com/",
             "id": 62546975,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-08-12T05:33:14Z",
+            "open_issues": 33,
             "owner": "Yalantis",
             "repo": "Segmentio",
-            "stars": 2517
+            "stars": 2517,
+            "topics": [
+              "animation",
+              "carthage",
+              "cocoapods",
+              "ios",
+              "segmentio",
+              "swift",
+              "yalantis"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         },
@@ -1626,12 +2548,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Custom transition between two collection view layouts",
+            "homepage": "https://yalantis.com",
             "id": 55959044,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-07-15T14:13:46Z",
+            "open_issues": 12,
             "owner": "Yalantis",
             "repo": "DisplaySwitcher",
-            "stars": 2301
+            "stars": 2301,
+            "topics": [
+              "animation",
+              "cocoapods",
+              "custom-layout",
+              "custom-transitions",
+              "display-switcher",
+              "ios",
+              "swift",
+              "transition-layout",
+              "yalantis"
+            ]
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
         }
@@ -1640,15 +2577,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:20:50.005Z",
+    "last_updated": "2026-08-29T04:16:41.280Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
+      "homepage": null,
       "id": 35487739,
       "language": null,
+      "license": null,
       "last_commit": "2025-10-28T05:58:10Z",
+      "open_issues": 0,
       "owner": "v5tech",
       "repo": "awesome-ios-animation",
-      "stars": 5460
+      "stars": 5460,
+      "topics": [
+        "animations",
+        "ios-animation",
+        "swift-animation"
+      ]
     },
     "original_repository_sha": "e9734be1400016f453dbfce2489e951295319237",
     "enhanced_repository": "enhansome/enhansome-ios-animation",
