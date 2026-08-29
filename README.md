@@ -16,7 +16,7 @@ A curated list of awesome iOS animation, including Objective-C and Swift librari
 
 ![popping](https://d2ffutrenqvap3.cloudfront.net/items/2l3M18193q311E3o353W/popping.gif)
 
-<https://github.com/MengTo/Spring> ⭐ 14,052 | 🐛 164 | 🌐 Swift | 📅 2023-07-03
+<https://github.com/MengTo/Spring> ⭐ 14,053 | 🐛 164 | 🌐 Swift | 📅 2023-07-03
 
 ![](http://cl.ly/image/3a1r1d3l3D1j/spring-logo.jpg)
 
@@ -279,7 +279,7 @@ Rotation
 
 ![image](https://raw.githubusercontent.com/zipme/RQShineLabel/master/Screenshots/rqshinelabel.gif)
 
-<https://github.com/lexrus/LTMorphingLabel> ⭐ 8,146 | 🐛 25 | 🌐 Swift | 📅 2026-03-08
+<https://github.com/lexrus/LTMorphingLabel> ⭐ 8,145 | 🐛 25 | 🌐 Swift | 📅 2026-03-08
 
 ![](https://cloud.githubusercontent.com/assets/219689/3491822/96bf5de6-059d-11e4-9826-a6f82025d1af.gif)
 ![](https://cloud.githubusercontent.com/assets/219689/3491838/ffc5aff2-059d-11e4-970c-6e2d7664785a.gif)
@@ -466,7 +466,7 @@ GrowLine
 ![](https://raw.githubusercontent.com/younatics/YNDropDownMenu/master/Images/YNDropDownMenu.gif)
 ![](https://raw.githubusercontent.com/younatics/YNDropDownMenu/master/Images/YNDropDownMenu2.gif)
 
-<https://github.com/marcosgriselli/ViewAnimator> ⭐ 7,309 | 🐛 12 | 🌐 Swift | 📅 2024-03-31
+<https://github.com/marcosgriselli/ViewAnimator> ⭐ 7,310 | 🐛 12 | 🌐 Swift | 📅 2024-03-31
 
 ![entireView](https://cdn.rawgit.com/marcosgriselli/ViewAnimator/cf065e96/Resources/entireView.svg)
 ![horizontal](https://cdn.rawgit.com/marcosgriselli/ViewAnimator/cf065e96/Resources/horizontal.svg)
@@ -489,7 +489,7 @@ GrowLine
 ![效果图](https://raw.githubusercontent.com/loopeer/AlertTransition/master/Media/BubbleTransition.gif)
 ![效果图](https://raw.githubusercontent.com/loopeer/AlertTransition/master/Media/StarWarsTransition.gif)
 
-<https://github.com/CosmicMind/Material> ⭐ 12,010 | 🐛 37 | 🌐 Swift | 📅 2022-05-16
+<https://github.com/CosmicMind/Material> ⭐ 12,012 | 🐛 37 | 🌐 Swift | 📅 2022-05-16
 
 <https://github.com/CosmicMind/Motion> ⭐ 1,768 | 🐛 4 | 🌐 Swift | 📅 2020-01-28
 
