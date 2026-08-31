@@ -744,7 +744,7 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2016-08-31T11:39:17Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "fitomad",
             "repo": "iOS-Bubble-Transition",
             "stars": 48,
@@ -2497,7 +2497,7 @@
             "open_issues": 43,
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26855,
+            "stars": 26857,
             "topics": [
               "animation",
               "bodymovin",
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T20:19:32.649Z",
+    "last_updated": "2026-08-31T22:13:19.924Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",

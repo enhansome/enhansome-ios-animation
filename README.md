@@ -171,7 +171,7 @@ Rotation
 ![](https://raw.githubusercontent.com/andreamazz/BubbleTransition/master/assets/logo.png)
 ![BubbleTransition](https://raw.githubusercontent.com/andreamazz/BubbleTransition/master/assets/screenshot.gif)
 
-<https://github.com/fitomad/iOS-Bubble-Transition> ⭐ 48 | 🐛 0 | 🌐 Swift | 📅 2016-08-31
+<https://github.com/fitomad/iOS-Bubble-Transition> ⭐ 48 | 🐛 1 | 🌐 Swift | 📅 2016-08-31
 
 ![Bubble Transition](https://github.com/fitomad/iOS-Bubble-Transition/blob/master/Bubble.gif?raw=true)
 
@@ -537,7 +537,7 @@ GrowLine
 
 ![image](https://github.com/bref-Chan/CCFoldCell/blob/master/image/CCFoldCell.gif)
 
-<https://github.com/airbnb/lottie-ios> ⭐ 26,855 | 🐛 43 | 🌐 Swift | 📅 2026-07-08
+<https://github.com/airbnb/lottie-ios> ⭐ 26,857 | 🐛 43 | 🌐 Swift | 📅 2026-07-08
 
 ![img1](https://github.com/airbnb/lottie-ios/raw/master/_Gifs/Examples1.gif)
 ![img2](https://github.com/airbnb/lottie-ios/raw/master/_Gifs/Examples2.gif)
@@ -553,4 +553,4 @@ GrowLine
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
