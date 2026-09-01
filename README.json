@@ -19,7 +19,7 @@
             "open_issues": 58,
             "owner": "facebookarchive",
             "repo": "pop",
-            "stars": 19542,
+            "stars": 19540,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -40,7 +40,7 @@
             "open_issues": 4,
             "owner": "schneiderandre",
             "repo": "popping",
-            "stars": 5502,
+            "stars": 5501,
             "topics": [
               "animation",
               "objective-c",
@@ -66,7 +66,7 @@
             "open_issues": 164,
             "owner": "MengTo",
             "repo": "Spring",
-            "stars": 14054,
+            "stars": 14053,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -207,7 +207,7 @@
             "open_issues": 10,
             "owner": "jhurray",
             "repo": "JHChainableAnimations",
-            "stars": 3200,
+            "stars": 3199,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -255,7 +255,7 @@
             "open_issues": 14,
             "owner": "IFTTT",
             "repo": "JazzHands",
-            "stars": 6361,
+            "stars": 6360,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -276,7 +276,7 @@
             "open_issues": 1,
             "owner": "shu223",
             "repo": "AnimatedTransitionGallery",
-            "stars": 2504,
+            "stars": 2503,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -297,7 +297,7 @@
             "open_issues": 11,
             "owner": "Rightpoint",
             "repo": "RZTransitions",
-            "stars": 1860,
+            "stars": 1859,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -318,7 +318,7 @@
             "open_issues": 14,
             "owner": "Yalantis",
             "repo": "FoldingTabBar.iOS",
-            "stars": 3663,
+            "stars": 3664,
             "topics": [
               "animation",
               "carthage",
@@ -744,7 +744,7 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2016-08-31T11:39:17Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "fitomad",
             "repo": "iOS-Bubble-Transition",
             "stars": 48,
@@ -775,7 +775,7 @@
             "open_issues": 2,
             "owner": "carsonxyz",
             "repo": "CNPPopupController",
-            "stars": 1628,
+            "stars": 1627,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -956,7 +956,7 @@
             "open_issues": 0,
             "owner": "andreamazz",
             "repo": "UITextField-Shake",
-            "stars": 726,
+            "stars": 725,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1234,7 +1234,7 @@
             "open_issues": 25,
             "owner": "lexrus",
             "repo": "LTMorphingLabel",
-            "stars": 8145,
+            "stars": 8144,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1360,7 +1360,7 @@
             "open_issues": 1,
             "owner": "ninjaprox",
             "repo": "NVActivityIndicatorView",
-            "stars": 10708,
+            "stars": 10709,
             "topics": [
               "animation",
               "carthage",
@@ -1477,7 +1477,7 @@
             "open_issues": 23,
             "owner": "IFTTT",
             "repo": "RazzleDazzle",
-            "stars": 3346,
+            "stars": 3345,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1569,7 +1569,7 @@
             "open_issues": 8,
             "owner": "yoavlt",
             "repo": "LiquidLoader",
-            "stars": 1325,
+            "stars": 1324,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1611,7 +1611,7 @@
             "open_issues": 0,
             "owner": "seedante",
             "repo": "CardAnimation",
-            "stars": 1164,
+            "stars": 1163,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1907,7 +1907,7 @@
             "open_issues": 25,
             "owner": "Ramotion",
             "repo": "expanding-collection",
-            "stars": 5512,
+            "stars": 5511,
             "topics": [
               "animation",
               "component",
@@ -1935,7 +1935,7 @@
             "open_issues": 12,
             "owner": "Ramotion",
             "repo": "folding-cell",
-            "stars": 10181,
+            "stars": 10180,
             "topics": [
               "animation",
               "ios",
@@ -2033,7 +2033,7 @@
             "open_issues": 0,
             "owner": "WelkinXie",
             "repo": "WXWaveView",
-            "stars": 339,
+            "stars": 338,
             "topics": [
               "animation",
               "bezier-curve",
@@ -2159,7 +2159,7 @@
             "open_issues": 12,
             "owner": "marcosgriselli",
             "repo": "ViewAnimator",
-            "stars": 7311,
+            "stars": 7310,
             "topics": [
               "animations",
               "ios",
@@ -2240,7 +2240,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12011,
+            "stars": 12009,
             "topics": [
               "animation",
               "card",
@@ -2494,10 +2494,10 @@
             "language": "Swift",
             "license": "Apache-2.0",
             "last_commit": "2026-07-08T13:57:38Z",
-            "open_issues": 43,
+            "open_issues": 44,
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26857,
+            "stars": 26858,
             "topics": [
               "animation",
               "bodymovin",
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T22:13:19.924Z",
+    "last_updated": "2026-09-01T20:20:18.703Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
@@ -2589,7 +2589,7 @@
       "open_issues": 0,
       "owner": "v5tech",
       "repo": "awesome-ios-animation",
-      "stars": 5460,
+      "stars": 5459,
       "topics": [
         "animations",
         "ios-animation",
