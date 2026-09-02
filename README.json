@@ -19,7 +19,7 @@
             "open_issues": 58,
             "owner": "facebookarchive",
             "repo": "pop",
-            "stars": 19540,
+            "stars": 19539,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -66,7 +66,7 @@
             "open_issues": 164,
             "owner": "MengTo",
             "repo": "Spring",
-            "stars": 14053,
+            "stars": 14054,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -318,7 +318,7 @@
             "open_issues": 14,
             "owner": "Yalantis",
             "repo": "FoldingTabBar.iOS",
-            "stars": 3664,
+            "stars": 3665,
             "topics": [
               "animation",
               "carthage",
@@ -744,7 +744,7 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2016-08-31T11:39:17Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "fitomad",
             "repo": "iOS-Bubble-Transition",
             "stars": 48,
@@ -1234,7 +1234,7 @@
             "open_issues": 25,
             "owner": "lexrus",
             "repo": "LTMorphingLabel",
-            "stars": 8144,
+            "stars": 8145,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1339,7 +1339,7 @@
             "open_issues": 53,
             "owner": "yoavlt",
             "repo": "LiquidFloatingActionButton",
-            "stars": 3840,
+            "stars": 3841,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1360,7 +1360,7 @@
             "open_issues": 1,
             "owner": "ninjaprox",
             "repo": "NVActivityIndicatorView",
-            "stars": 10709,
+            "stars": 10710,
             "topics": [
               "animation",
               "carthage",
@@ -2493,11 +2493,11 @@
             "id": 70198664,
             "language": "Swift",
             "license": "Apache-2.0",
-            "last_commit": "2026-07-08T13:57:38Z",
-            "open_issues": 44,
+            "last_commit": "2026-09-02T17:51:00Z",
+            "open_issues": 43,
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26858,
+            "stars": 26861,
             "topics": [
               "animation",
               "bodymovin",
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T20:20:18.703Z",
+    "last_updated": "2026-09-02T20:19:41.179Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
