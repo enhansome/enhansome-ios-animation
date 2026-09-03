@@ -66,7 +66,7 @@
             "open_issues": 164,
             "owner": "MengTo",
             "repo": "Spring",
-            "stars": 14054,
+            "stars": 14055,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -165,7 +165,7 @@
             "open_issues": 6,
             "owner": "robb",
             "repo": "RBBAnimation",
-            "stars": 2059,
+            "stars": 2058,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -726,7 +726,7 @@
             "open_issues": 3,
             "owner": "andreamazz",
             "repo": "BubbleTransition",
-            "stars": 3303,
+            "stars": 3302,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -2240,7 +2240,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12009,
+            "stars": 12010,
             "topics": [
               "animation",
               "card",
@@ -2281,7 +2281,7 @@
             "open_issues": 4,
             "owner": "CosmicMind",
             "repo": "Motion",
-            "stars": 1768,
+            "stars": 1767,
             "topics": [
               "animation",
               "cosmicmind",
@@ -2497,7 +2497,7 @@
             "open_issues": 43,
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26861,
+            "stars": 26865,
             "topics": [
               "animation",
               "bodymovin",
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T20:19:41.179Z",
+    "last_updated": "2026-09-03T20:19:37.233Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
