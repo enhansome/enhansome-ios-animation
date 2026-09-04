@@ -19,7 +19,7 @@
             "open_issues": 58,
             "owner": "facebookarchive",
             "repo": "pop",
-            "stars": 19539,
+            "stars": 19538,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1498,7 +1498,7 @@
             "open_issues": 3,
             "owner": "hyperoslo",
             "repo": "Presentation",
-            "stars": 3070,
+            "stars": 3071,
             "topics": [
               "ios",
               "pages",
@@ -1569,7 +1569,7 @@
             "open_issues": 8,
             "owner": "yoavlt",
             "repo": "LiquidLoader",
-            "stars": 1324,
+            "stars": 1325,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -2494,10 +2494,10 @@
             "language": "Swift",
             "license": "Apache-2.0",
             "last_commit": "2026-09-02T17:51:00Z",
-            "open_issues": 43,
+            "open_issues": 44,
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26865,
+            "stars": 26866,
             "topics": [
               "animation",
               "bodymovin",
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T20:19:37.233Z",
+    "last_updated": "2026-09-04T20:04:41.351Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
@@ -2589,7 +2589,7 @@
       "open_issues": 0,
       "owner": "v5tech",
       "repo": "awesome-ios-animation",
-      "stars": 5459,
+      "stars": 5460,
       "topics": [
         "animations",
         "ios-animation",

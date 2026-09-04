@@ -346,7 +346,7 @@ Rotation
 
 ![Demo GIF Animation](https://raw.githubusercontent.com/IFTTT/RazzleDazzle/master/Example/Docs/razzledazzle-demo.gif)
 
-<https://github.com/hyperoslo/Presentation> ⭐ 3,070 | 🐛 3 | 🌐 Swift | 📅 2020-06-05
+<https://github.com/hyperoslo/Presentation> ⭐ 3,071 | 🐛 3 | 🌐 Swift | 📅 2020-06-05
 
 ![Demo GIF Animation](https://raw.githubusercontent.com/hyperoslo/Presentation/master/Example/Parallax/Images/Parallax-v2.gif)
 
@@ -358,7 +358,7 @@ Rotation
 
 ![Demo GIF Animation](https://raw.githubusercontent.com/chinsyo/uber-video-welcome/master/uber-video-welcome.gif)
 
-<https://github.com/yoavlt/LiquidLoader> ⭐ 1,324 | 🐛 8 | 🌐 Swift | 📅 2020-05-18
+<https://github.com/yoavlt/LiquidLoader> ⭐ 1,325 | 🐛 8 | 🌐 Swift | 📅 2020-05-18
 
 GrowCircle
 
@@ -537,7 +537,7 @@ GrowLine
 
 ![image](https://github.com/bref-Chan/CCFoldCell/blob/master/image/CCFoldCell.gif)
 
-<https://github.com/airbnb/lottie-ios> ⭐ 26,865 | 🐛 43 | 🌐 Swift | 📅 2026-09-02
+<https://github.com/airbnb/lottie-ios> ⭐ 26,866 | 🐛 44 | 🌐 Swift | 📅 2026-09-02
 
 ![img1](https://github.com/airbnb/lottie-ios/raw/master/_Gifs/Examples1.gif)
 ![img2](https://github.com/airbnb/lottie-ios/raw/master/_Gifs/Examples2.gif)
@@ -553,4 +553,4 @@ GrowLine
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
