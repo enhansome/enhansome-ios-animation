@@ -19,7 +19,7 @@
             "open_issues": 58,
             "owner": "facebookarchive",
             "repo": "pop",
-            "stars": 19535,
+            "stars": 19534,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -318,7 +318,7 @@
             "open_issues": 14,
             "owner": "Yalantis",
             "repo": "FoldingTabBar.iOS",
-            "stars": 3662,
+            "stars": 3661,
             "topics": [
               "animation",
               "carthage",
@@ -512,7 +512,7 @@
             "open_issues": 4,
             "owner": "Yalantis",
             "repo": "PullToMakeSoup",
-            "stars": 1914,
+            "stars": 1913,
             "topics": [
               "animation",
               "carthage",
@@ -698,7 +698,7 @@
             "open_issues": 17,
             "owner": "Ramotion",
             "repo": "animated-tab-bar",
-            "stars": 11085,
+            "stars": 11084,
             "topics": [
               "animation",
               "ios",
@@ -956,7 +956,7 @@
             "open_issues": 0,
             "owner": "andreamazz",
             "repo": "UITextField-Shake",
-            "stars": 725,
+            "stars": 723,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1234,7 +1234,7 @@
             "open_issues": 25,
             "owner": "lexrus",
             "repo": "LTMorphingLabel",
-            "stars": 8142,
+            "stars": 8140,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -2159,7 +2159,7 @@
             "open_issues": 12,
             "owner": "marcosgriselli",
             "repo": "ViewAnimator",
-            "stars": 7310,
+            "stars": 7309,
             "topics": [
               "animations",
               "ios",
@@ -2497,7 +2497,7 @@
             "open_issues": 43,
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26865,
+            "stars": 26869,
             "topics": [
               "animation",
               "bodymovin",
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T20:56:26.540Z",
+    "last_updated": "2026-09-08T20:31:22.378Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
@@ -2589,7 +2589,7 @@
       "open_issues": 0,
       "owner": "v5tech",
       "repo": "awesome-ios-animation",
-      "stars": 5459,
+      "stars": 5458,
       "topics": [
         "animations",
         "ios-animation",
