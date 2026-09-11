@@ -66,7 +66,7 @@
             "open_issues": 164,
             "owner": "MengTo",
             "repo": "Spring",
-            "stars": 14057,
+            "stars": 14059,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -255,7 +255,7 @@
             "open_issues": 14,
             "owner": "IFTTT",
             "repo": "JazzHands",
-            "stars": 6356,
+            "stars": 6355,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -601,7 +601,7 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2022-10-11T00:41:59Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "Yalantis",
             "repo": "StarWars.iOS",
             "stars": 3760,
@@ -1360,7 +1360,7 @@
             "open_issues": 1,
             "owner": "ninjaprox",
             "repo": "NVActivityIndicatorView",
-            "stars": 10706,
+            "stars": 10707,
             "topics": [
               "animation",
               "carthage",
@@ -2240,7 +2240,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12006,
+            "stars": 12007,
             "topics": [
               "animation",
               "card",
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T20:15:31.145Z",
+    "last_updated": "2026-09-11T20:14:57.507Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
