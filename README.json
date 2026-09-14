@@ -19,7 +19,7 @@
             "open_issues": 58,
             "owner": "facebookarchive",
             "repo": "pop",
-            "stars": 19533,
+            "stars": 19532,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -698,7 +698,7 @@
             "open_issues": 17,
             "owner": "Ramotion",
             "repo": "animated-tab-bar",
-            "stars": 11083,
+            "stars": 11084,
             "topics": [
               "animation",
               "ios",
@@ -817,7 +817,7 @@
             "open_issues": 13,
             "owner": "draveness",
             "repo": "DKChainableAnimationKit",
-            "stars": 1875,
+            "stars": 1874,
             "topics": [
               "animation",
               "animation-chain",
@@ -1360,7 +1360,7 @@
             "open_issues": 1,
             "owner": "ninjaprox",
             "repo": "NVActivityIndicatorView",
-            "stars": 10708,
+            "stars": 10709,
             "topics": [
               "animation",
               "carthage",
@@ -1422,7 +1422,7 @@
             "open_issues": 3,
             "owner": "KittenYang",
             "repo": "Animations",
-            "stars": 621,
+            "stars": 620,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1695,7 +1695,7 @@
             "id": 45082974,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2024-08-21T09:11:19Z",
+            "last_commit": "2026-09-14T03:24:01Z",
             "open_issues": 7,
             "owner": "tbxark",
             "repo": "TKRubberIndicator",
@@ -1935,7 +1935,7 @@
             "open_issues": 12,
             "owner": "Ramotion",
             "repo": "folding-cell",
-            "stars": 10175,
+            "stars": 10176,
             "topics": [
               "animation",
               "ios",
@@ -2240,7 +2240,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12009,
+            "stars": 12010,
             "topics": [
               "animation",
               "card",
@@ -2497,7 +2497,7 @@
             "open_issues": 44,
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26874,
+            "stars": 26876,
             "topics": [
               "animation",
               "bodymovin",
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T20:02:18.893Z",
+    "last_updated": "2026-09-14T21:12:47.887Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
@@ -2589,7 +2589,7 @@
       "open_issues": 0,
       "owner": "v5tech",
       "repo": "awesome-ios-animation",
-      "stars": 5460,
+      "stars": 5461,
       "topics": [
         "animations",
         "ios-animation",
