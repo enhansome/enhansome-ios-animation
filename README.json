@@ -19,7 +19,7 @@
             "open_issues": 58,
             "owner": "facebookarchive",
             "repo": "pop",
-            "stars": 19532,
+            "stars": 19533,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -698,7 +698,7 @@
             "open_issues": 17,
             "owner": "Ramotion",
             "repo": "animated-tab-bar",
-            "stars": 11083,
+            "stars": 11082,
             "topics": [
               "animation",
               "ios",
@@ -844,7 +844,7 @@
             "open_issues": 2,
             "owner": "cwRichardKim",
             "repo": "RKSwipeCards",
-            "stars": 2158,
+            "stars": 2157,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -977,7 +977,7 @@
             "open_issues": 11,
             "owner": "recruit-mp",
             "repo": "RMPZoomTransitionAnimator",
-            "stars": 1693,
+            "stars": 1692,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -998,7 +998,7 @@
             "open_issues": 11,
             "owner": "xhzengAIB",
             "repo": "PopMenu",
-            "stars": 885,
+            "stars": 884,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1019,7 +1019,7 @@
             "open_issues": 23,
             "owner": "zoonooz",
             "repo": "ZFDragableModalTransition",
-            "stars": 2444,
+            "stars": 2443,
             "topics": [
               "animation",
               "ios",
@@ -1360,7 +1360,7 @@
             "open_issues": 1,
             "owner": "ninjaprox",
             "repo": "NVActivityIndicatorView",
-            "stars": 10709,
+            "stars": 10708,
             "topics": [
               "animation",
               "carthage",
@@ -2240,7 +2240,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12009,
+            "stars": 12010,
             "topics": [
               "animation",
               "card",
@@ -2497,7 +2497,7 @@
             "open_issues": 45,
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26876,
+            "stars": 26878,
             "topics": [
               "animation",
               "bodymovin",
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T20:41:05.704Z",
+    "last_updated": "2026-09-16T20:41:12.729Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",

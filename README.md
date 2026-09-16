@@ -162,7 +162,7 @@ Rotation
 ![Preview](https://raw.githubusercontent.com/Yalantis/Ophiuchus/master/Example/Ophiuchus/Resources/animation.gif)
 ![The Green Horse](https://raw.githubusercontent.com/Yalantis/Ophiuchus/master/Example/Ophiuchus/Resources/thegreenhorse.gif)
 
-<https://github.com/Ramotion/animated-tab-bar> ⭐ 11,083 | 🐛 17 | 🌐 Swift | 📅 2022-01-26
+<https://github.com/Ramotion/animated-tab-bar> ⭐ 11,082 | 🐛 17 | 🌐 Swift | 📅 2022-01-26
 
 ![](https://raw.githubusercontent.com/Ramotion/animated-tab-bar/master/Screenshots/tab-bar-icons-iphone-ramotion-animation-interface-design.gif)
 
@@ -192,7 +192,7 @@ Rotation
 ![](https://raw.githubusercontent.com/Draveness/DKChainableAnimationKit/master/Gifs/Code2.png)
 ![](https://raw.githubusercontent.com/Draveness/DKChainableAnimationKit/master/Gifs/Demo2.gif)
 
-<https://github.com/cwRichardKim/TinderSimpleSwipeCards> ⭐ 2,158 | 🐛 2 | 🌐 Objective-C | 📅 2017-05-28
+<https://github.com/cwRichardKim/TinderSimpleSwipeCards> ⭐ 2,157 | 🐛 2 | 🌐 Objective-C | 📅 2017-05-28
 
 ![alt tag](http://imgur.com/4bYw12e.gif)
 ![alt tag](http://i.imgur.com/krDNpR0.gif)
@@ -224,16 +224,16 @@ Rotation
 ![](https://raw.githubusercontent.com/andreamazz/UITextField-Shake/master/assets/logo.png)
 ![UITextField+Shake](https://raw.githubusercontent.com/andreamazz/UITextField-Shake/master/assets/screenshot.gif)
 
-<https://github.com/recruit-mp/RMPZoomTransitionAnimator> ⭐ 1,693 | 🐛 11 | 🌐 Objective-C | 📅 2017-08-23
+<https://github.com/recruit-mp/RMPZoomTransitionAnimator> ⭐ 1,692 | 🐛 11 | 🌐 Objective-C | 📅 2017-08-23
 
 ![Screen shot](https://raw.githubusercontent.com/recruit-mp/RMPZoomTransitionAnimator/master/docs/collectionview.gif)
 ![Screen shot](https://raw.githubusercontent.com/recruit-mp/RMPZoomTransitionAnimator/master/docs/tableview.gif)
 
-<https://github.com/xhzengAIB/PopMenu> ⭐ 885 | 🐛 11 | 🌐 Objective-C | 📅 2016-06-27
+<https://github.com/xhzengAIB/PopMenu> ⭐ 884 | 🐛 11 | 🌐 Objective-C | 📅 2016-06-27
 
 ![image](https://github.com/xhzengAIB/LearnEnglish/raw/master/Screenshots/XHSinaMenuViewExample.gif)
 
-<https://github.com/zoonooz/ZFDragableModalTransition> ⭐ 2,444 | 🐛 23 | 🌐 Objective-C | 📅 2018-01-21
+<https://github.com/zoonooz/ZFDragableModalTransition> ⭐ 2,443 | 🐛 23 | 🌐 Objective-C | 📅 2018-01-21
 
 ![](https://raw.githubusercontent.com/zoonooz/ZFDragableModalTransition/master/Screenshot/ss.gif)
 
@@ -322,7 +322,7 @@ Rotation
 ![anim.gif](https://raw.githubusercontent.com/yoavlt/LiquidFloatingActionButton/master/Demo/top.gif)
 ![anim.gif](https://raw.githubusercontent.com/yoavlt/LiquidFloatingActionButton/master/Demo/customizable.gif)
 
-<https://github.com/ninjaprox/NVActivityIndicatorView> ⭐ 10,709 | 🐛 1 | 🌐 Swift | 📅 2026-03-18
+<https://github.com/ninjaprox/NVActivityIndicatorView> ⭐ 10,708 | 🐛 1 | 🌐 Swift | 📅 2026-03-18
 
 ![anim.gif](https://raw.githubusercontent.com/ninjaprox/NVActivityIndicatorView/master/Demo.gif)
 
@@ -489,7 +489,7 @@ GrowLine
 ![效果图](https://raw.githubusercontent.com/loopeer/AlertTransition/master/Media/BubbleTransition.gif)
 ![效果图](https://raw.githubusercontent.com/loopeer/AlertTransition/master/Media/StarWarsTransition.gif)
 
-<https://github.com/CosmicMind/Material> ⭐ 12,009 | 🐛 37 | 🌐 Swift | 📅 2022-05-16
+<https://github.com/CosmicMind/Material> ⭐ 12,010 | 🐛 37 | 🌐 Swift | 📅 2022-05-16
 
 <https://github.com/CosmicMind/Motion> ⭐ 1,769 | 🐛 4 | 🌐 Swift | 📅 2020-01-28
 
@@ -537,7 +537,7 @@ GrowLine
 
 ![image](https://github.com/bref-Chan/CCFoldCell/blob/master/image/CCFoldCell.gif)
 
-<https://github.com/airbnb/lottie-ios> ⭐ 26,876 | 🐛 45 | 🌐 Swift | 📅 2026-09-02
+<https://github.com/airbnb/lottie-ios> ⭐ 26,878 | 🐛 45 | 🌐 Swift | 📅 2026-09-02
 
 ![img1](https://github.com/airbnb/lottie-ios/raw/master/_Gifs/Examples1.gif)
 ![img2](https://github.com/airbnb/lottie-ios/raw/master/_Gifs/Examples2.gif)
@@ -553,4 +553,4 @@ GrowLine
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
