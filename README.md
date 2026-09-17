@@ -111,7 +111,7 @@ Rotation
 ![](https://raw.githubusercontent.com/Raizlabs/RZTransitions/master/Web/RZTransitions.png)
 ![](http://raw.github.com/Raizlabs/RZTransitions/master/Web/RZTransitionsDemo.gif)
 
-<https://github.com/Yalantis/FoldingTabBar.iOS> ⭐ 3,660 | 🐛 14 | 🌐 Objective-C | 📅 2022-06-13
+<https://github.com/Yalantis/FoldingTabBar.iOS> ⭐ 3,661 | 🐛 14 | 🌐 Objective-C | 📅 2022-06-13
 
 ![Preview](https://d13yacurqjgara.cloudfront.net/users/495792/screenshots/2003376/tab_bar_animation_fin-02.gif)
 
@@ -162,7 +162,7 @@ Rotation
 ![Preview](https://raw.githubusercontent.com/Yalantis/Ophiuchus/master/Example/Ophiuchus/Resources/animation.gif)
 ![The Green Horse](https://raw.githubusercontent.com/Yalantis/Ophiuchus/master/Example/Ophiuchus/Resources/thegreenhorse.gif)
 
-<https://github.com/Ramotion/animated-tab-bar> ⭐ 11,082 | 🐛 17 | 🌐 Swift | 📅 2022-01-26
+<https://github.com/Ramotion/animated-tab-bar> ⭐ 11,081 | 🐛 17 | 🌐 Swift | 📅 2022-01-26
 
 ![](https://raw.githubusercontent.com/Ramotion/animated-tab-bar/master/Screenshots/tab-bar-icons-iphone-ramotion-animation-interface-design.gif)
 
@@ -423,11 +423,11 @@ GrowLine
 
 ![PreviewTransition](https://github.com/Ramotion/preview-transition/blob/master/preview.gif)
 
-<https://github.com/Ramotion/expanding-collection> ⭐ 5,508 | 🐛 25 | 🌐 Swift | 📅 2020-04-06
+<https://github.com/Ramotion/expanding-collection> ⭐ 5,509 | 🐛 25 | 🌐 Swift | 📅 2020-04-06
 
 ![PreviewTransition](https://github.com/Ramotion/expanding-collection/blob/master/preview.gif)
 
-<https://github.com/Ramotion/folding-cell> ⭐ 10,176 | 🐛 12 | 🌐 Swift | 📅 2024-04-28
+<https://github.com/Ramotion/folding-cell> ⭐ 10,175 | 🐛 12 | 🌐 Swift | 📅 2024-04-28
 
 ![](https://raw.githubusercontent.com/Ramotion/folding-cell/master/Screenshots/folding-cell.gif)
 
@@ -439,7 +439,7 @@ GrowLine
 
 ![MEVFloatingButton](https://cloud.githubusercontent.com/assets/1849990/13462466/db001be6-e087-11e5-92a1-79c8ecefb715.gif)
 
-<https://github.com/xhamr/fave-button> ⭐ 1,513 | 🐛 19 | 🌐 Swift | 📅 2023-08-19
+<https://github.com/xhamr/fave-button> ⭐ 1,514 | 🐛 19 | 🌐 Swift | 📅 2023-08-19
 
 ![FaveButton](https://raw.githubusercontent.com/xhamr/fave-button/master/fave-button1.gif)
 
@@ -453,7 +453,7 @@ GrowLine
 
 ![BouncyPageViewController](https://raw.githubusercontent.com/BohdanOrlov/BouncyPageViewController/master/GIFs/bouncyDemo.gif)
 
-<https://github.com/orazz/CreditCardForm-iOS> ⭐ 1,463 | 🐛 6 | 🌐 Swift | 📅 2020-05-30
+<https://github.com/orazz/CreditCardForm-iOS> ⭐ 1,464 | 🐛 6 | 🌐 Swift | 📅 2020-05-30
 
 ![CreditCardForm-iOS](https://raw.githubusercontent.com/orazz/CreditCardForm-iOS/master/Example/Screens/CreditCardDemo.gif)
 
@@ -466,7 +466,7 @@ GrowLine
 ![](https://raw.githubusercontent.com/younatics/YNDropDownMenu/master/Images/YNDropDownMenu.gif)
 ![](https://raw.githubusercontent.com/younatics/YNDropDownMenu/master/Images/YNDropDownMenu2.gif)
 
-<https://github.com/marcosgriselli/ViewAnimator> ⭐ 7,309 | 🐛 12 | 🌐 Swift | 📅 2024-03-31
+<https://github.com/marcosgriselli/ViewAnimator> ⭐ 7,308 | 🐛 12 | 🌐 Swift | 📅 2024-03-31
 
 ![entireView](https://cdn.rawgit.com/marcosgriselli/ViewAnimator/cf065e96/Resources/entireView.svg)
 ![horizontal](https://cdn.rawgit.com/marcosgriselli/ViewAnimator/cf065e96/Resources/horizontal.svg)
@@ -489,7 +489,7 @@ GrowLine
 ![效果图](https://raw.githubusercontent.com/loopeer/AlertTransition/master/Media/BubbleTransition.gif)
 ![效果图](https://raw.githubusercontent.com/loopeer/AlertTransition/master/Media/StarWarsTransition.gif)
 
-<https://github.com/CosmicMind/Material> ⭐ 12,010 | 🐛 37 | 🌐 Swift | 📅 2022-05-16
+<https://github.com/CosmicMind/Material> ⭐ 12,011 | 🐛 37 | 🌐 Swift | 📅 2022-05-16
 
 <https://github.com/CosmicMind/Motion> ⭐ 1,769 | 🐛 4 | 🌐 Swift | 📅 2020-01-28
 
@@ -517,7 +517,7 @@ GrowLine
 
 ![alt text](https://cdn.dribbble.com/users/793057/screenshots/4089014/iphone-x-pull-to-refresh.gif)
 
-<https://github.com/Daltron/NotificationBanner> ⭐ 4,869 | 🐛 34 | 🌐 Swift | 📅 2024-07-29
+<https://github.com/Daltron/NotificationBanner> ⭐ 4,869 | 🐛 35 | 🌐 Swift | 📅 2024-07-29
 
 ![](https://raw.githubusercontent.com/Daltron/NotificationBanner/master/NotificationBanner/Assets/basic.gif)
 ![](https://raw.githubusercontent.com/Daltron/NotificationBanner/master/NotificationBanner/Assets/side_views.gif)
@@ -537,7 +537,7 @@ GrowLine
 
 ![image](https://github.com/bref-Chan/CCFoldCell/blob/master/image/CCFoldCell.gif)
 
-<https://github.com/airbnb/lottie-ios> ⭐ 26,878 | 🐛 45 | 🌐 Swift | 📅 2026-09-02
+<https://github.com/airbnb/lottie-ios> ⭐ 26,880 | 🐛 45 | 🌐 Swift | 📅 2026-09-02
 
 ![img1](https://github.com/airbnb/lottie-ios/raw/master/_Gifs/Examples1.gif)
 ![img2](https://github.com/airbnb/lottie-ios/raw/master/_Gifs/Examples2.gif)
@@ -547,10 +547,10 @@ GrowLine
 
 ![img](https://github.com/Yalantis/Segmentio/raw/master/Assets/animation.gif)
 
-<https://github.com/Yalantis/DisplaySwitcher> ⭐ 2,299 | 🐛 12 | 🌐 Swift | 📅 2021-07-15
+<https://github.com/Yalantis/DisplaySwitcher> ⭐ 2,298 | 🐛 12 | 🌐 Swift | 📅 2021-07-15
 
 ![](https://github.com/Yalantis/DisplaySwitcher/raw/master/Assets/animation.gif)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
