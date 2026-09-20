@@ -87,7 +87,7 @@
             "open_issues": 20,
             "owner": "AladinWay",
             "repo": "TransitionButton",
-            "stars": 1473,
+            "stars": 1474,
             "topics": [
               "animation",
               "button",
@@ -1234,7 +1234,7 @@
             "open_issues": 25,
             "owner": "lexrus",
             "repo": "LTMorphingLabel",
-            "stars": 8138,
+            "stars": 8139,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1569,7 +1569,7 @@
             "open_issues": 8,
             "owner": "yoavlt",
             "repo": "LiquidLoader",
-            "stars": 1324,
+            "stars": 1325,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1935,7 +1935,7 @@
             "open_issues": 12,
             "owner": "Ramotion",
             "repo": "folding-cell",
-            "stars": 10173,
+            "stars": 10174,
             "topics": [
               "animation",
               "ios",
@@ -2339,7 +2339,7 @@
             "open_issues": 40,
             "owner": "eggswift",
             "repo": "ESTabBarController",
-            "stars": 5220,
+            "stars": 5222,
             "topics": [
               "animation",
               "ios",
@@ -2497,7 +2497,7 @@
             "open_issues": 44,
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26881,
+            "stars": 26882,
             "topics": [
               "animation",
               "bodymovin",
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T19:48:17.975Z",
+    "last_updated": "2026-09-20T20:02:06.388Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",

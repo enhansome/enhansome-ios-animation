@@ -24,7 +24,7 @@ A curated list of awesome iOS animation, including Objective-C and Swift librari
 
 ![](http://cl.ly/image/1n1E2j3W3y24/springscreen.jpg)
 
-<https://github.com/AladinWay/TransitionButton> ⭐ 1,473 | 🐛 20 | 🌐 Swift | 📅 2022-09-05
+<https://github.com/AladinWay/TransitionButton> ⭐ 1,474 | 🐛 20 | 🌐 Swift | 📅 2022-09-05
 
 ![](https://cdn.dribbble.com/users/62319/screenshots/1945593/shot.gif)
 
@@ -279,7 +279,7 @@ Rotation
 
 ![image](https://raw.githubusercontent.com/zipme/RQShineLabel/master/Screenshots/rqshinelabel.gif)
 
-<https://github.com/lexrus/LTMorphingLabel> ⭐ 8,138 | 🐛 25 | 🌐 Swift | 📅 2026-03-08
+<https://github.com/lexrus/LTMorphingLabel> ⭐ 8,139 | 🐛 25 | 🌐 Swift | 📅 2026-03-08
 
 ![](https://cloud.githubusercontent.com/assets/219689/3491822/96bf5de6-059d-11e4-9826-a6f82025d1af.gif)
 ![](https://cloud.githubusercontent.com/assets/219689/3491838/ffc5aff2-059d-11e4-970c-6e2d7664785a.gif)
@@ -358,7 +358,7 @@ Rotation
 
 ![Demo GIF Animation](https://raw.githubusercontent.com/chinsyo/uber-video-welcome/master/uber-video-welcome.gif)
 
-<https://github.com/yoavlt/LiquidLoader> ⭐ 1,324 | 🐛 8 | 🌐 Swift | 📅 2020-05-18
+<https://github.com/yoavlt/LiquidLoader> ⭐ 1,325 | 🐛 8 | 🌐 Swift | 📅 2020-05-18
 
 GrowCircle
 
@@ -427,7 +427,7 @@ GrowLine
 
 ![PreviewTransition](https://github.com/Ramotion/expanding-collection/blob/master/preview.gif)
 
-<https://github.com/Ramotion/folding-cell> ⭐ 10,173 | 🐛 12 | 🌐 Swift | 📅 2024-04-28
+<https://github.com/Ramotion/folding-cell> ⭐ 10,174 | 🐛 12 | 🌐 Swift | 📅 2024-04-28
 
 ![](https://raw.githubusercontent.com/Ramotion/folding-cell/master/Screenshots/folding-cell.gif)
 
@@ -497,7 +497,7 @@ GrowLine
 
 ![samuraitransitiondemo](https://cloud.githubusercontent.com/assets/1317847/22860410/512cbee0-f140-11e6-9485-97c6907afa05.gif)
 
-<https://github.com/eggswift/ESTabBarController> ⭐ 5,220 | 🐛 40 | 🌐 Swift | 📅 2023-05-09
+<https://github.com/eggswift/ESTabBarController> ⭐ 5,222 | 🐛 40 | 🌐 Swift | 📅 2023-05-09
 
 ![](https://raw.githubusercontent.com/eggswift/ESTabBarController/master/Resources/CustomSelectStyleGif.gif)
 ![](https://raw.githubusercontent.com/eggswift/ESTabBarController/master/Resources/CustomSelectAnimateGif.gif)
@@ -537,7 +537,7 @@ GrowLine
 
 ![image](https://github.com/bref-Chan/CCFoldCell/blob/master/image/CCFoldCell.gif)
 
-<https://github.com/airbnb/lottie-ios> ⭐ 26,881 | 🐛 44 | 🌐 Swift | 📅 2026-09-19
+<https://github.com/airbnb/lottie-ios> ⭐ 26,882 | 🐛 44 | 🌐 Swift | 📅 2026-09-19
 
 ![img1](https://github.com/airbnb/lottie-ios/raw/master/_Gifs/Examples1.gif)
 ![img2](https://github.com/airbnb/lottie-ios/raw/master/_Gifs/Examples2.gif)
@@ -553,4 +553,4 @@ GrowLine
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
