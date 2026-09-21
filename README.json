@@ -1653,7 +1653,7 @@
             "open_issues": 17,
             "owner": "ephread",
             "repo": "Instructions",
-            "stars": 5200,
+            "stars": 5201,
             "topics": [
               "coach-marks",
               "tour",
@@ -2159,7 +2159,7 @@
             "open_issues": 12,
             "owner": "marcosgriselli",
             "repo": "ViewAnimator",
-            "stars": 7307,
+            "stars": 7308,
             "topics": [
               "animations",
               "ios",
@@ -2240,7 +2240,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12011,
+            "stars": 12012,
             "topics": [
               "animation",
               "card",
@@ -2281,7 +2281,7 @@
             "open_issues": 4,
             "owner": "CosmicMind",
             "repo": "Motion",
-            "stars": 1767,
+            "stars": 1768,
             "topics": [
               "animation",
               "cosmicmind",
@@ -2494,10 +2494,10 @@
             "language": "Swift",
             "license": "Apache-2.0",
             "last_commit": "2026-09-19T18:03:13Z",
-            "open_issues": 44,
+            "open_issues": 45,
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26882,
+            "stars": 26884,
             "topics": [
               "animation",
               "bodymovin",
@@ -2557,7 +2557,7 @@
             "open_issues": 12,
             "owner": "Yalantis",
             "repo": "DisplaySwitcher",
-            "stars": 2298,
+            "stars": 2297,
             "topics": [
               "animation",
               "cocoapods",
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T20:02:06.388Z",
+    "last_updated": "2026-09-21T21:27:54.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
