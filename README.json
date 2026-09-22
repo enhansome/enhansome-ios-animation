@@ -66,7 +66,7 @@
             "open_issues": 164,
             "owner": "MengTo",
             "repo": "Spring",
-            "stars": 14059,
+            "stars": 14061,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -255,7 +255,7 @@
             "open_issues": 14,
             "owner": "IFTTT",
             "repo": "JazzHands",
-            "stars": 6354,
+            "stars": 6353,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1477,7 +1477,7 @@
             "open_issues": 23,
             "owner": "IFTTT",
             "repo": "RazzleDazzle",
-            "stars": 3341,
+            "stars": 3339,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1590,7 +1590,7 @@
             "open_issues": 58,
             "owner": "gontovnik",
             "repo": "DGElasticPullToRefresh",
-            "stars": 3733,
+            "stars": 3732,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1653,7 +1653,7 @@
             "open_issues": 17,
             "owner": "ephread",
             "repo": "Instructions",
-            "stars": 5201,
+            "stars": 5199,
             "topics": [
               "coach-marks",
               "tour",
@@ -2159,7 +2159,7 @@
             "open_issues": 12,
             "owner": "marcosgriselli",
             "repo": "ViewAnimator",
-            "stars": 7308,
+            "stars": 7309,
             "topics": [
               "animations",
               "ios",
@@ -2240,7 +2240,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12012,
+            "stars": 12011,
             "topics": [
               "animation",
               "card",
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T21:27:54.289Z",
+    "last_updated": "2026-09-22T20:41:12.710Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",

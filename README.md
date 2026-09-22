@@ -16,7 +16,7 @@ A curated list of awesome iOS animation, including Objective-C and Swift librari
 
 ![popping](https://d2ffutrenqvap3.cloudfront.net/items/2l3M18193q311E3o353W/popping.gif)
 
-<https://github.com/MengTo/Spring> ⭐ 14,059 | 🐛 164 | 🌐 Swift | 📅 2023-07-03
+<https://github.com/MengTo/Spring> ⭐ 14,061 | 🐛 164 | 🌐 Swift | 📅 2023-07-03
 
 ![](http://cl.ly/image/3a1r1d3l3D1j/spring-logo.jpg)
 
@@ -95,7 +95,7 @@ Rotation
 
 <https://github.com/poetmountain/PMTween> ⭐ 343 | 🐛 0 | 🌐 Objective-C | 📅 2016-07-19
 
-<https://github.com/IFTTT/JazzHands> ⭐ 6,354 | 🐛 14 | 🌐 Objective-C | 📅 2024-07-30
+<https://github.com/IFTTT/JazzHands> ⭐ 6,353 | 🐛 14 | 🌐 Objective-C | 📅 2024-07-30
 
 ![Jazz Hands](https://raw.github.com/IFTTT/JazzHands/screenshots/screenshots/intro.gif)
 
@@ -342,7 +342,7 @@ Rotation
 
 ![Demo GIF Animation](https://raw.githubusercontent.com/likedan/KDIntroView/master/Imgs/showup.gif)
 
-<https://github.com/IFTTT/RazzleDazzle> ⭐ 3,341 | 🐛 23 | 🌐 Swift | 📅 2023-10-11
+<https://github.com/IFTTT/RazzleDazzle> ⭐ 3,339 | 🐛 23 | 🌐 Swift | 📅 2023-10-11
 
 ![Demo GIF Animation](https://raw.githubusercontent.com/IFTTT/RazzleDazzle/master/Example/Docs/razzledazzle-demo.gif)
 
@@ -368,7 +368,7 @@ GrowLine
 
 ![GrowLine](https://github.com/yoavlt/LiquidLoader/blob/master/Demo/grow-line.gif?raw=true)
 
-<https://github.com/gontovnik/DGElasticPullToRefresh> ⭐ 3,733 | 🐛 58 | 🌐 Swift | 📅 2022-06-01
+<https://github.com/gontovnik/DGElasticPullToRefresh> ⭐ 3,732 | 🐛 58 | 🌐 Swift | 📅 2022-06-01
 
 ![](https://raw.githubusercontent.com/gontovnik/DGElasticPullToRefresh/master/DGElasticPullToRefreshPreview1.gif)
 ![](https://raw.githubusercontent.com/gontovnik/DGElasticPullToRefresh/master/DGElasticPullToRefreshPreview2.gif)
@@ -381,7 +381,7 @@ GrowLine
 
 ![Preview](https://raw.githubusercontent.com/AlexCatch/ACAnimatedTextField/master/misc/preview.gif)
 
-<https://github.com/ephread/Instructions> ⭐ 5,201 | 🐛 17 | 🌐 Swift | 📅 2024-06-05
+<https://github.com/ephread/Instructions> ⭐ 5,199 | 🐛 17 | 🌐 Swift | 📅 2024-06-05
 
 ![Instructions Demo](http://i.imgur.com/JUlQH9F.gif)
 
@@ -466,7 +466,7 @@ GrowLine
 ![](https://raw.githubusercontent.com/younatics/YNDropDownMenu/master/Images/YNDropDownMenu.gif)
 ![](https://raw.githubusercontent.com/younatics/YNDropDownMenu/master/Images/YNDropDownMenu2.gif)
 
-<https://github.com/marcosgriselli/ViewAnimator> ⭐ 7,308 | 🐛 12 | 🌐 Swift | 📅 2024-03-31
+<https://github.com/marcosgriselli/ViewAnimator> ⭐ 7,309 | 🐛 12 | 🌐 Swift | 📅 2024-03-31
 
 ![entireView](https://cdn.rawgit.com/marcosgriselli/ViewAnimator/cf065e96/Resources/entireView.svg)
 ![horizontal](https://cdn.rawgit.com/marcosgriselli/ViewAnimator/cf065e96/Resources/horizontal.svg)
@@ -489,7 +489,7 @@ GrowLine
 ![效果图](https://raw.githubusercontent.com/loopeer/AlertTransition/master/Media/BubbleTransition.gif)
 ![效果图](https://raw.githubusercontent.com/loopeer/AlertTransition/master/Media/StarWarsTransition.gif)
 
-<https://github.com/CosmicMind/Material> ⭐ 12,012 | 🐛 37 | 🌐 Swift | 📅 2022-05-16
+<https://github.com/CosmicMind/Material> ⭐ 12,011 | 🐛 37 | 🌐 Swift | 📅 2022-05-16
 
 <https://github.com/CosmicMind/Motion> ⭐ 1,768 | 🐛 4 | 🌐 Swift | 📅 2020-01-28
 
@@ -553,4 +553,4 @@ GrowLine
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
