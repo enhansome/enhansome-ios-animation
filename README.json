@@ -66,7 +66,7 @@
             "open_issues": 164,
             "owner": "MengTo",
             "repo": "Spring",
-            "stars": 14061,
+            "stars": 14064,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -416,7 +416,7 @@
             "open_issues": 0,
             "owner": "Yalantis",
             "repo": "GuillotineMenu",
-            "stars": 2878,
+            "stars": 2877,
             "topics": [
               "animation",
               "cocoapods",
@@ -512,7 +512,7 @@
             "open_issues": 4,
             "owner": "Yalantis",
             "repo": "PullToMakeSoup",
-            "stars": 1911,
+            "stars": 1910,
             "topics": [
               "animation",
               "carthage",
@@ -698,7 +698,7 @@
             "open_issues": 17,
             "owner": "Ramotion",
             "repo": "animated-tab-bar",
-            "stars": 11081,
+            "stars": 11082,
             "topics": [
               "animation",
               "ios",
@@ -726,7 +726,7 @@
             "open_issues": 3,
             "owner": "andreamazz",
             "repo": "BubbleTransition",
-            "stars": 3300,
+            "stars": 3299,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1234,7 +1234,7 @@
             "open_issues": 25,
             "owner": "lexrus",
             "repo": "LTMorphingLabel",
-            "stars": 8140,
+            "stars": 8139,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1653,7 +1653,7 @@
             "open_issues": 17,
             "owner": "ephread",
             "repo": "Instructions",
-            "stars": 5201,
+            "stars": 5200,
             "topics": [
               "coach-marks",
               "tour",
@@ -2339,7 +2339,7 @@
             "open_issues": 40,
             "owner": "eggswift",
             "repo": "ESTabBarController",
-            "stars": 5222,
+            "stars": 5223,
             "topics": [
               "animation",
               "ios",
@@ -2497,7 +2497,7 @@
             "open_issues": 45,
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26884,
+            "stars": 26885,
             "topics": [
               "animation",
               "bodymovin",
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T20:53:24.437Z",
+    "last_updated": "2026-09-24T20:57:44.733Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
