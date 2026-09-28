@@ -19,7 +19,7 @@
             "open_issues": 58,
             "owner": "facebookarchive",
             "repo": "pop",
-            "stars": 19529,
+            "stars": 19526,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -66,7 +66,7 @@
             "open_issues": 164,
             "owner": "MengTo",
             "repo": "Spring",
-            "stars": 14063,
+            "stars": 14062,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -165,7 +165,7 @@
             "open_issues": 6,
             "owner": "robb",
             "repo": "RBBAnimation",
-            "stars": 2057,
+            "stars": 2056,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -844,7 +844,7 @@
             "open_issues": 2,
             "owner": "cwRichardKim",
             "repo": "RKSwipeCards",
-            "stars": 2156,
+            "stars": 2155,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1066,7 +1066,7 @@
             "open_issues": 0,
             "owner": "Produkt",
             "repo": "RubberBandEffect",
-            "stars": 516,
+            "stars": 515,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1276,7 +1276,7 @@
             "open_issues": 8,
             "owner": "zhxnlai",
             "repo": "ZLSwipeableViewSwift",
-            "stars": 2249,
+            "stars": 2248,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1527,7 +1527,7 @@
             "open_issues": 5,
             "owner": "nshint",
             "repo": "uicollectionview-reordering",
-            "stars": 466,
+            "stars": 467,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -2127,7 +2127,7 @@
             "open_issues": 8,
             "owner": "younatics",
             "repo": "YNDropDownMenu",
-            "stars": 1327,
+            "stars": 1326,
             "topics": [
               "carthage",
               "cocoapods",
@@ -2159,7 +2159,7 @@
             "open_issues": 12,
             "owner": "marcosgriselli",
             "repo": "ViewAnimator",
-            "stars": 7310,
+            "stars": 7311,
             "topics": [
               "animations",
               "ios",
@@ -2240,7 +2240,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12015,
+            "stars": 12016,
             "topics": [
               "animation",
               "card",
@@ -2493,11 +2493,11 @@
             "id": 70198664,
             "language": "Swift",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-19T18:03:13Z",
-            "open_issues": 46,
+            "last_commit": "2026-09-28T12:55:28Z",
+            "open_issues": 45,
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26887,
+            "stars": 26889,
             "topics": [
               "animation",
               "bodymovin",
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T20:38:33.514Z",
+    "last_updated": "2026-09-28T22:47:42.619Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",

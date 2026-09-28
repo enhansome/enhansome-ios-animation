@@ -16,7 +16,7 @@ A curated list of awesome iOS animation, including Objective-C and Swift librari
 
 ![popping](https://d2ffutrenqvap3.cloudfront.net/items/2l3M18193q311E3o353W/popping.gif)
 
-<https://github.com/MengTo/Spring> ⭐ 14,063 | 🐛 164 | 🌐 Swift | 📅 2023-07-03
+<https://github.com/MengTo/Spring> ⭐ 14,062 | 🐛 164 | 🌐 Swift | 📅 2023-07-03
 
 ![](http://cl.ly/image/3a1r1d3l3D1j/spring-logo.jpg)
 
@@ -73,7 +73,7 @@ Move
 Rotation
 ![alt tag](https://raw.github.com/daltoniam/DCAnimationKit/master/gifs/rotate.gif)
 
-<https://github.com/robb/RBBAnimation> ⭐ 2,057 | 🐛 6 | 🌐 Objective-C | 📅 2022-06-24
+<https://github.com/robb/RBBAnimation> ⭐ 2,056 | 🐛 6 | 🌐 Objective-C | 📅 2022-06-24
 
 ![](http://robb.is/img/rbbanimation/rainbow.gif)
 ![](http://robb.is/img/rbbanimation/spring.gif)
@@ -192,7 +192,7 @@ Rotation
 ![](https://raw.githubusercontent.com/Draveness/DKChainableAnimationKit/master/Gifs/Code2.png)
 ![](https://raw.githubusercontent.com/Draveness/DKChainableAnimationKit/master/Gifs/Demo2.gif)
 
-<https://github.com/cwRichardKim/TinderSimpleSwipeCards> ⭐ 2,156 | 🐛 2 | 🌐 Objective-C | 📅 2017-05-28
+<https://github.com/cwRichardKim/TinderSimpleSwipeCards> ⭐ 2,155 | 🐛 2 | 🌐 Objective-C | 📅 2017-05-28
 
 ![alt tag](http://imgur.com/4bYw12e.gif)
 ![alt tag](http://i.imgur.com/krDNpR0.gif)
@@ -241,7 +241,7 @@ Rotation
 
 ![](https://raw.githubusercontent.com/mathcarignani/MCMHeaderAnimated/master/demo.gif)
 
-<https://github.com/Produkt/RubberBandEffect> ⭐ 516 | 🐛 0 | 🌐 Swift | 📅 2015-06-22
+<https://github.com/Produkt/RubberBandEffect> ⭐ 515 | 🐛 0 | 🌐 Swift | 📅 2015-06-22
 
 ![rubber-band01](https://raw.githubusercontent.com/Produkt/RubberBandEffect/master/Others/RubberBand_01.gif)
 
@@ -293,7 +293,7 @@ Rotation
 
 ![](https://raw.githubusercontent.com/wongzigii/WZDraggableSwitchHeaderView/master/GIF/WZAnimatingTransition.gif)
 
-<https://github.com/zhxnlai/ZLSwipeableViewSwift> ⭐ 2,249 | 🐛 8 | 🌐 Swift | 📅 2023-06-16
+<https://github.com/zhxnlai/ZLSwipeableViewSwift> ⭐ 2,248 | 🐛 8 | 🌐 Swift | 📅 2023-06-16
 
 ![direction](https://raw.githubusercontent.com/zhxnlai/ZLSwipeableViewSwift/master/Previews/animation.gif)
 
@@ -350,7 +350,7 @@ Rotation
 
 ![Demo GIF Animation](https://raw.githubusercontent.com/hyperoslo/Presentation/master/Example/Parallax/Images/Parallax-v2.gif)
 
-<https://github.com/nshintio/uicollectionview-reordering> ⭐ 466 | 🐛 5 | 🌐 Swift | 📅 2021-03-01
+<https://github.com/nshintio/uicollectionview-reordering> ⭐ 467 | 🐛 5 | 🌐 Swift | 📅 2021-03-01
 
 ![Demo GIF Animation](https://camo.githubusercontent.com/ee5e5999dea79c81a09416a51b1e6cec5de3a193/687474703a2f2f6e7368696e742e696f2f696d616765732f7569636f6c6c656374696f6e766965772d72656f72646572696e672f342e676966)
 
@@ -461,12 +461,12 @@ GrowLine
 
 ![RainyRefreshControl](https://raw.githubusercontent.com/Onix-Systems/RainyRefreshControl/master/gif/umbrella_refresh.gif)
 
-<https://github.com/younatics/YNDropDownMenu> ⭐ 1,327 | 🐛 8 | 🌐 Swift | 📅 2026-09-13
+<https://github.com/younatics/YNDropDownMenu> ⭐ 1,326 | 🐛 8 | 🌐 Swift | 📅 2026-09-13
 
 ![](https://raw.githubusercontent.com/younatics/YNDropDownMenu/master/Images/YNDropDownMenu.gif)
 ![](https://raw.githubusercontent.com/younatics/YNDropDownMenu/master/Images/YNDropDownMenu2.gif)
 
-<https://github.com/marcosgriselli/ViewAnimator> ⭐ 7,310 | 🐛 12 | 🌐 Swift | 📅 2024-03-31
+<https://github.com/marcosgriselli/ViewAnimator> ⭐ 7,311 | 🐛 12 | 🌐 Swift | 📅 2024-03-31
 
 ![entireView](https://cdn.rawgit.com/marcosgriselli/ViewAnimator/cf065e96/Resources/entireView.svg)
 ![horizontal](https://cdn.rawgit.com/marcosgriselli/ViewAnimator/cf065e96/Resources/horizontal.svg)
@@ -489,7 +489,7 @@ GrowLine
 ![效果图](https://raw.githubusercontent.com/loopeer/AlertTransition/master/Media/BubbleTransition.gif)
 ![效果图](https://raw.githubusercontent.com/loopeer/AlertTransition/master/Media/StarWarsTransition.gif)
 
-<https://github.com/CosmicMind/Material> ⭐ 12,015 | 🐛 37 | 🌐 Swift | 📅 2022-05-16
+<https://github.com/CosmicMind/Material> ⭐ 12,016 | 🐛 37 | 🌐 Swift | 📅 2022-05-16
 
 <https://github.com/CosmicMind/Motion> ⭐ 1,770 | 🐛 4 | 🌐 Swift | 📅 2020-01-28
 
@@ -537,7 +537,7 @@ GrowLine
 
 ![image](https://github.com/bref-Chan/CCFoldCell/blob/master/image/CCFoldCell.gif)
 
-<https://github.com/airbnb/lottie-ios> ⭐ 26,887 | 🐛 46 | 🌐 Swift | 📅 2026-09-19
+<https://github.com/airbnb/lottie-ios> ⭐ 26,889 | 🐛 45 | 🌐 Swift | 📅 2026-09-28
 
 ![img1](https://github.com/airbnb/lottie-ios/raw/master/_Gifs/Examples1.gif)
 ![img2](https://github.com/airbnb/lottie-ios/raw/master/_Gifs/Examples2.gif)
@@ -553,4 +553,4 @@ GrowLine
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
