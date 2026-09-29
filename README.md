@@ -24,7 +24,7 @@ A curated list of awesome iOS animation, including Objective-C and Swift librari
 
 ![](http://cl.ly/image/1n1E2j3W3y24/springscreen.jpg)
 
-<https://github.com/AladinWay/TransitionButton> ⭐ 1,474 | 🐛 20 | 🌐 Swift | 📅 2022-09-05
+<https://github.com/AladinWay/TransitionButton> ⭐ 1,475 | 🐛 20 | 🌐 Swift | 📅 2022-09-05
 
 ![](https://cdn.dribbble.com/users/62319/screenshots/1945593/shot.gif)
 
@@ -32,7 +32,7 @@ A curated list of awesome iOS animation, including Objective-C and Swift librari
 
 ![](http://jwilling.com/serve/github/jnwspringanimation/preview.gif)
 
-<https://github.com/daltoniam/DCAnimationKit> ⭐ 802 | 🐛 1 | 🌐 Objective-C | 📅 2016-02-09
+<https://github.com/daltoniam/DCAnimationKit> ⭐ 803 | 🐛 1 | 🌐 Objective-C | 📅 2016-02-09
 
 Tada
 ![alt tag](https://raw.github.com/daltoniam/DCAnimationKit/master/gifs/tada.gif)
@@ -453,7 +453,7 @@ GrowLine
 
 ![BouncyPageViewController](https://raw.githubusercontent.com/BohdanOrlov/BouncyPageViewController/master/GIFs/bouncyDemo.gif)
 
-<https://github.com/orazz/CreditCardForm-iOS> ⭐ 1,463 | 🐛 6 | 🌐 Swift | 📅 2020-05-30
+<https://github.com/orazz/CreditCardForm-iOS> ⭐ 1,464 | 🐛 6 | 🌐 Swift | 📅 2020-05-30
 
 ![CreditCardForm-iOS](https://raw.githubusercontent.com/orazz/CreditCardForm-iOS/master/Example/Screens/CreditCardDemo.gif)
 
@@ -489,15 +489,15 @@ GrowLine
 ![效果图](https://raw.githubusercontent.com/loopeer/AlertTransition/master/Media/BubbleTransition.gif)
 ![效果图](https://raw.githubusercontent.com/loopeer/AlertTransition/master/Media/StarWarsTransition.gif)
 
-<https://github.com/CosmicMind/Material> ⭐ 12,016 | 🐛 37 | 🌐 Swift | 📅 2022-05-16
+<https://github.com/CosmicMind/Material> ⭐ 12,017 | 🐛 37 | 🌐 Swift | 📅 2022-05-16
 
-<https://github.com/CosmicMind/Motion> ⭐ 1,770 | 🐛 4 | 🌐 Swift | 📅 2020-01-28
+<https://github.com/CosmicMind/Motion> ⭐ 1,771 | 🐛 4 | 🌐 Swift | 📅 2020-01-28
 
 <https://github.com/hachinobu/SamuraiTransition> ⭐ 280 | 🐛 1 | 🌐 Swift | 📅 2026-07-16
 
 ![samuraitransitiondemo](https://cloud.githubusercontent.com/assets/1317847/22860410/512cbee0-f140-11e6-9485-97c6907afa05.gif)
 
-<https://github.com/eggswift/ESTabBarController> ⭐ 5,223 | 🐛 40 | 🌐 Swift | 📅 2023-05-09
+<https://github.com/eggswift/ESTabBarController> ⭐ 5,225 | 🐛 40 | 🌐 Swift | 📅 2023-05-09
 
 ![](https://raw.githubusercontent.com/eggswift/ESTabBarController/master/Resources/CustomSelectStyleGif.gif)
 ![](https://raw.githubusercontent.com/eggswift/ESTabBarController/master/Resources/CustomSelectAnimateGif.gif)
@@ -537,7 +537,7 @@ GrowLine
 
 ![image](https://github.com/bref-Chan/CCFoldCell/blob/master/image/CCFoldCell.gif)
 
-<https://github.com/airbnb/lottie-ios> ⭐ 26,889 | 🐛 45 | 🌐 Swift | 📅 2026-09-28
+<https://github.com/airbnb/lottie-ios> ⭐ 26,890 | 🐛 45 | 🌐 Swift | 📅 2026-09-28
 
 ![img1](https://github.com/airbnb/lottie-ios/raw/master/_Gifs/Examples1.gif)
 ![img2](https://github.com/airbnb/lottie-ios/raw/master/_Gifs/Examples2.gif)
@@ -553,4 +553,4 @@ GrowLine
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._

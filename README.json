@@ -87,7 +87,7 @@
             "open_issues": 20,
             "owner": "AladinWay",
             "repo": "TransitionButton",
-            "stars": 1474,
+            "stars": 1475,
             "topics": [
               "animation",
               "button",
@@ -144,7 +144,7 @@
             "open_issues": 1,
             "owner": "daltoniam",
             "repo": "DCAnimationKit",
-            "stars": 802,
+            "stars": 803,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -2080,7 +2080,7 @@
             "open_issues": 6,
             "owner": "orazz",
             "repo": "CreditCardForm-iOS",
-            "stars": 1463,
+            "stars": 1464,
             "topics": [
               "credit-card",
               "creditcardform",
@@ -2240,7 +2240,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12016,
+            "stars": 12017,
             "topics": [
               "animation",
               "card",
@@ -2281,7 +2281,7 @@
             "open_issues": 4,
             "owner": "CosmicMind",
             "repo": "Motion",
-            "stars": 1770,
+            "stars": 1771,
             "topics": [
               "animation",
               "cosmicmind",
@@ -2339,7 +2339,7 @@
             "open_issues": 40,
             "owner": "eggswift",
             "repo": "ESTabBarController",
-            "stars": 5223,
+            "stars": 5225,
             "topics": [
               "animation",
               "ios",
@@ -2497,7 +2497,7 @@
             "open_issues": 45,
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26889,
+            "stars": 26890,
             "topics": [
               "animation",
               "bodymovin",
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T22:47:42.619Z",
+    "last_updated": "2026-09-29T21:41:18.860Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
