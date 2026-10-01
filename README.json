@@ -66,7 +66,7 @@
             "open_issues": 164,
             "owner": "MengTo",
             "repo": "Spring",
-            "stars": 14060,
+            "stars": 14058,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -255,7 +255,7 @@
             "open_issues": 14,
             "owner": "IFTTT",
             "repo": "JazzHands",
-            "stars": 6353,
+            "stars": 6352,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -384,7 +384,7 @@
             "open_issues": 3,
             "owner": "Yalantis",
             "repo": "Context-Menu.iOS",
-            "stars": 1822,
+            "stars": 1821,
             "topics": [
               "animation",
               "context-menu",
@@ -512,7 +512,7 @@
             "open_issues": 4,
             "owner": "Yalantis",
             "repo": "PullToMakeSoup",
-            "stars": 1909,
+            "stars": 1910,
             "topics": [
               "animation",
               "carthage",
@@ -604,7 +604,7 @@
             "open_issues": 6,
             "owner": "Yalantis",
             "repo": "StarWars.iOS",
-            "stars": 3759,
+            "stars": 3758,
             "topics": [
               "animation",
               "ios",
@@ -1297,7 +1297,7 @@
             "open_issues": 59,
             "owner": "zhxnlai",
             "repo": "ZLSwipeableView",
-            "stars": 2803,
+            "stars": 2802,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1339,7 +1339,7 @@
             "open_issues": 53,
             "owner": "yoavlt",
             "repo": "LiquidFloatingActionButton",
-            "stars": 3839,
+            "stars": 3838,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1935,7 +1935,7 @@
             "open_issues": 12,
             "owner": "Ramotion",
             "repo": "folding-cell",
-            "stars": 10173,
+            "stars": 10174,
             "topics": [
               "animation",
               "ios",
@@ -2159,7 +2159,7 @@
             "open_issues": 12,
             "owner": "marcosgriselli",
             "repo": "ViewAnimator",
-            "stars": 7310,
+            "stars": 7311,
             "topics": [
               "animations",
               "ios",
@@ -2281,7 +2281,7 @@
             "open_issues": 4,
             "owner": "CosmicMind",
             "repo": "Motion",
-            "stars": 1771,
+            "stars": 1772,
             "topics": [
               "animation",
               "cosmicmind",
@@ -2339,7 +2339,7 @@
             "open_issues": 40,
             "owner": "eggswift",
             "repo": "ESTabBarController",
-            "stars": 5224,
+            "stars": 5225,
             "topics": [
               "animation",
               "ios",
@@ -2472,7 +2472,7 @@
             "open_issues": 6,
             "owner": "brefchan",
             "repo": "CCFoldCell",
-            "stars": 481,
+            "stars": 482,
             "topics": [
               "animation",
               "ios",
@@ -2497,7 +2497,7 @@
             "open_issues": 45,
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26889,
+            "stars": 26892,
             "topics": [
               "animation",
               "bodymovin",
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T21:41:53.411Z",
+    "last_updated": "2026-10-01T22:10:07.564Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
