@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "facebookarchive/pop",
-          "description": null,
+          "description": "facebookarchive/pop",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "schneiderandre/popping",
-          "description": null,
+          "description": "schneiderandre/popping",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -53,7 +53,7 @@
         {
           "node_type": "item",
           "title": "MengTo/Spring",
-          "description": null,
+          "description": "MengTo/Spring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -66,7 +66,7 @@
             "open_issues": 164,
             "owner": "MengTo",
             "repo": "Spring",
-            "stars": 14058,
+            "stars": 14059,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -74,7 +74,7 @@
         {
           "node_type": "item",
           "title": "AladinWay/TransitionButton",
-          "description": null,
+          "description": "AladinWay/TransitionButton",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -110,7 +110,7 @@
         {
           "node_type": "item",
           "title": "jwilling/JNWSpringAnimation",
-          "description": null,
+          "description": "jwilling/JNWSpringAnimation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -131,7 +131,7 @@
         {
           "node_type": "item",
           "title": "daltoniam/DCAnimationKit",
-          "description": null,
+          "description": "daltoniam/DCAnimationKit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -152,7 +152,7 @@
         {
           "node_type": "item",
           "title": "robb/RBBAnimation",
-          "description": null,
+          "description": "robb/RBBAnimation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -173,7 +173,7 @@
         {
           "node_type": "item",
           "title": "matthewcheok/POP-MCAnimate",
-          "description": null,
+          "description": "matthewcheok/POP-MCAnimate",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -194,7 +194,7 @@
         {
           "node_type": "item",
           "title": "jhurray/JHChainableAnimations",
-          "description": null,
+          "description": "jhurray/JHChainableAnimations",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -215,7 +215,7 @@
         {
           "node_type": "item",
           "title": "poetmountain/PMTween",
-          "description": null,
+          "description": "poetmountain/PMTween",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -242,7 +242,7 @@
         {
           "node_type": "item",
           "title": "IFTTT/JazzHands",
-          "description": null,
+          "description": "IFTTT/JazzHands",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -263,7 +263,7 @@
         {
           "node_type": "item",
           "title": "shu223/AnimatedTransitionGallery",
-          "description": null,
+          "description": "shu223/AnimatedTransitionGallery",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -284,7 +284,7 @@
         {
           "node_type": "item",
           "title": "Rightpoint/RZTransitions",
-          "description": null,
+          "description": "Rightpoint/RZTransitions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -305,7 +305,7 @@
         {
           "node_type": "item",
           "title": "Yalantis/FoldingTabBar.iOS",
-          "description": null,
+          "description": "Yalantis/FoldingTabBar.iOS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -318,7 +318,7 @@
             "open_issues": 14,
             "owner": "Yalantis",
             "repo": "FoldingTabBar.iOS",
-            "stars": 3660,
+            "stars": 3661,
             "topics": [
               "animation",
               "carthage",
@@ -337,7 +337,7 @@
         {
           "node_type": "item",
           "title": "Yalantis/Side-Menu.iOS",
-          "description": null,
+          "description": "Yalantis/Side-Menu.iOS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -371,7 +371,7 @@
         {
           "node_type": "item",
           "title": "Yalantis/Context-Menu.iOS",
-          "description": null,
+          "description": "Yalantis/Context-Menu.iOS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -403,7 +403,7 @@
         {
           "node_type": "item",
           "title": "Yalantis/GuillotineMenu",
-          "description": null,
+          "description": "Yalantis/GuillotineMenu",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -433,7 +433,7 @@
         {
           "node_type": "item",
           "title": "Yalantis/Persei",
-          "description": null,
+          "description": "Yalantis/Persei",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -468,7 +468,7 @@
         {
           "node_type": "item",
           "title": "Yalantis/Pull-to-Refresh.Rentals-iOS",
-          "description": null,
+          "description": "Yalantis/Pull-to-Refresh.Rentals-iOS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -499,7 +499,7 @@
         {
           "node_type": "item",
           "title": "Yalantis/PullToMakeSoup",
-          "description": null,
+          "description": "Yalantis/PullToMakeSoup",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -529,7 +529,7 @@
         {
           "node_type": "item",
           "title": "Yalantis/PullToMakeFlight",
-          "description": null,
+          "description": "Yalantis/PullToMakeFlight",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -559,7 +559,7 @@
         {
           "node_type": "item",
           "title": "Yalantis/Koloda",
-          "description": null,
+          "description": "Yalantis/Koloda",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -591,7 +591,7 @@
         {
           "node_type": "item",
           "title": "Yalantis/StarWars.iOS",
-          "description": null,
+          "description": "Yalantis/StarWars.iOS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -624,7 +624,7 @@
         {
           "node_type": "item",
           "title": "Yalantis/EatFit",
-          "description": null,
+          "description": "Yalantis/EatFit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -653,7 +653,7 @@
         {
           "node_type": "item",
           "title": "Yalantis/Preloader.Ophiuchus",
-          "description": null,
+          "description": "Yalantis/Preloader.Ophiuchus",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -685,7 +685,7 @@
         {
           "node_type": "item",
           "title": "Ramotion/animated-tab-bar",
-          "description": null,
+          "description": "Ramotion/animated-tab-bar",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -713,7 +713,7 @@
         {
           "node_type": "item",
           "title": "andreamazz/BubbleTransition",
-          "description": null,
+          "description": "andreamazz/BubbleTransition",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -734,7 +734,7 @@
         {
           "node_type": "item",
           "title": "fitomad/iOS-Bubble-Transition",
-          "description": null,
+          "description": "fitomad/iOS-Bubble-Transition",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -762,7 +762,7 @@
         {
           "node_type": "item",
           "title": "carsonxyz/CNPPopupController",
-          "description": null,
+          "description": "carsonxyz/CNPPopupController",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -783,7 +783,7 @@
         {
           "node_type": "item",
           "title": "MartinRGB/GiftCard-iOS",
-          "description": null,
+          "description": "MartinRGB/GiftCard-iOS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -804,7 +804,7 @@
         {
           "node_type": "item",
           "title": "draveness/DKChainableAnimationKit",
-          "description": null,
+          "description": "draveness/DKChainableAnimationKit",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -831,7 +831,7 @@
         {
           "node_type": "item",
           "title": "cwRichardKim/RKSwipeCards",
-          "description": null,
+          "description": "cwRichardKim/RKSwipeCards",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -852,7 +852,7 @@
         {
           "node_type": "item",
           "title": "johnvuko/JTMaterialTransition",
-          "description": null,
+          "description": "johnvuko/JTMaterialTransition",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -880,7 +880,7 @@
         {
           "node_type": "item",
           "title": "kongtomorrow/WatchTransition",
-          "description": null,
+          "description": "kongtomorrow/WatchTransition",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -901,7 +901,7 @@
         {
           "node_type": "item",
           "title": "KittenYang/KYPushTransition",
-          "description": null,
+          "description": "KittenYang/KYPushTransition",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -922,7 +922,7 @@
         {
           "node_type": "item",
           "title": "andreamazz/UIView-Shake",
-          "description": null,
+          "description": "andreamazz/UIView-Shake",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -943,7 +943,7 @@
         {
           "node_type": "item",
           "title": "andreamazz/UITextField-Shake",
-          "description": null,
+          "description": "andreamazz/UITextField-Shake",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -964,7 +964,7 @@
         {
           "node_type": "item",
           "title": "recruit-mp/RMPZoomTransitionAnimator",
-          "description": null,
+          "description": "recruit-mp/RMPZoomTransitionAnimator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -985,7 +985,7 @@
         {
           "node_type": "item",
           "title": "xhzengAIB/PopMenu",
-          "description": null,
+          "description": "xhzengAIB/PopMenu",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1006,7 +1006,7 @@
         {
           "node_type": "item",
           "title": "zoonooz/ZFDragableModalTransition",
-          "description": null,
+          "description": "zoonooz/ZFDragableModalTransition",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1032,7 +1032,7 @@
         {
           "node_type": "item",
           "title": "mathcarignani/MCMHeaderAnimated",
-          "description": null,
+          "description": "mathcarignani/MCMHeaderAnimated",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1053,7 +1053,7 @@
         {
           "node_type": "item",
           "title": "Produkt/RubberBandEffect",
-          "description": null,
+          "description": "Produkt/RubberBandEffect",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1074,7 +1074,7 @@
         {
           "node_type": "item",
           "title": "icanzilb/EasyAnimation",
-          "description": null,
+          "description": "icanzilb/EasyAnimation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1095,7 +1095,7 @@
         {
           "node_type": "item",
           "title": "adad184/MMTweenAnimation",
-          "description": null,
+          "description": "adad184/MMTweenAnimation",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1116,7 +1116,7 @@
         {
           "node_type": "item",
           "title": "andreamazz/GearRefreshControl",
-          "description": null,
+          "description": "andreamazz/GearRefreshControl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1137,7 +1137,7 @@
         {
           "node_type": "item",
           "title": "Lior539/DragDropCollectionView",
-          "description": null,
+          "description": "Lior539/DragDropCollectionView",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1158,7 +1158,7 @@
         {
           "node_type": "item",
           "title": "rounak/TwitterBirdAnimation",
-          "description": null,
+          "description": "rounak/TwitterBirdAnimation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1179,7 +1179,7 @@
         {
           "node_type": "item",
           "title": "haaakon/SingleLineShakeAnimation",
-          "description": null,
+          "description": "haaakon/SingleLineShakeAnimation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1200,7 +1200,7 @@
         {
           "node_type": "item",
           "title": "zipme/RQShineLabel",
-          "description": null,
+          "description": "zipme/RQShineLabel",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1221,7 +1221,7 @@
         {
           "node_type": "item",
           "title": "lexrus/LTMorphingLabel",
-          "description": null,
+          "description": "lexrus/LTMorphingLabel",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1242,7 +1242,7 @@
         {
           "node_type": "item",
           "title": "wongzigii/WZDraggableSwitchHeaderView",
-          "description": null,
+          "description": "wongzigii/WZDraggableSwitchHeaderView",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1263,7 +1263,7 @@
         {
           "node_type": "item",
           "title": "zhxnlai/ZLSwipeableViewSwift",
-          "description": null,
+          "description": "zhxnlai/ZLSwipeableViewSwift",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1284,7 +1284,7 @@
         {
           "node_type": "item",
           "title": "zhxnlai/ZLSwipeableView",
-          "description": null,
+          "description": "zhxnlai/ZLSwipeableView",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1305,7 +1305,7 @@
         {
           "node_type": "item",
           "title": "CezaryKopacz/CKWaveCollectionViewTransition",
-          "description": null,
+          "description": "CezaryKopacz/CKWaveCollectionViewTransition",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1326,7 +1326,7 @@
         {
           "node_type": "item",
           "title": "yoavlt/LiquidFloatingActionButton",
-          "description": null,
+          "description": "yoavlt/LiquidFloatingActionButton",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1347,7 +1347,7 @@
         {
           "node_type": "item",
           "title": "ninjaprox/NVActivityIndicatorView",
-          "description": null,
+          "description": "ninjaprox/NVActivityIndicatorView",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1383,7 +1383,7 @@
         {
           "node_type": "item",
           "title": "takuoka/TKSubmitTransition",
-          "description": null,
+          "description": "takuoka/TKSubmitTransition",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1409,7 +1409,7 @@
         {
           "node_type": "item",
           "title": "KittenYang/Animations",
-          "description": null,
+          "description": "KittenYang/Animations",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1430,7 +1430,7 @@
         {
           "node_type": "item",
           "title": "likedan/KDIntroView",
-          "description": null,
+          "description": "likedan/KDIntroView",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1464,7 +1464,7 @@
         {
           "node_type": "item",
           "title": "IFTTT/RazzleDazzle",
-          "description": null,
+          "description": "IFTTT/RazzleDazzle",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1485,7 +1485,7 @@
         {
           "node_type": "item",
           "title": "hyperoslo/Presentation",
-          "description": null,
+          "description": "hyperoslo/Presentation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1514,7 +1514,7 @@
         {
           "node_type": "item",
           "title": "nshint/uicollectionview-reordering",
-          "description": null,
+          "description": "nshint/uicollectionview-reordering",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1535,7 +1535,7 @@
         {
           "node_type": "item",
           "title": "chinsyo/SplashViewController",
-          "description": null,
+          "description": "chinsyo/SplashViewController",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1556,7 +1556,7 @@
         {
           "node_type": "item",
           "title": "yoavlt/LiquidLoader",
-          "description": null,
+          "description": "yoavlt/LiquidLoader",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1577,7 +1577,7 @@
         {
           "node_type": "item",
           "title": "gontovnik/DGElasticPullToRefresh",
-          "description": null,
+          "description": "gontovnik/DGElasticPullToRefresh",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1598,7 +1598,7 @@
         {
           "node_type": "item",
           "title": "seedante/CardAnimation",
-          "description": null,
+          "description": "seedante/CardAnimation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1619,7 +1619,7 @@
         {
           "node_type": "item",
           "title": "AlexCatch/ACAnimatedTextField",
-          "description": null,
+          "description": "AlexCatch/ACAnimatedTextField",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1640,7 +1640,7 @@
         {
           "node_type": "item",
           "title": "ephread/Instructions",
-          "description": null,
+          "description": "ephread/Instructions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1665,7 +1665,7 @@
         {
           "node_type": "item",
           "title": "mentionapp/mntpulltoreact",
-          "description": null,
+          "description": "mentionapp/mntpulltoreact",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1686,7 +1686,7 @@
         {
           "node_type": "item",
           "title": "tbxark/TKRubberIndicator",
-          "description": null,
+          "description": "tbxark/TKRubberIndicator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1717,7 +1717,7 @@
         {
           "node_type": "item",
           "title": "12207480/TYAlertController",
-          "description": null,
+          "description": "12207480/TYAlertController",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1742,7 +1742,7 @@
         {
           "node_type": "item",
           "title": "yeziahehe/YFStartView",
-          "description": null,
+          "description": "yeziahehe/YFStartView",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1763,7 +1763,7 @@
         {
           "node_type": "item",
           "title": "zekunyan/TTGEmojiRate",
-          "description": null,
+          "description": "zekunyan/TTGEmojiRate",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1792,7 +1792,7 @@
         {
           "node_type": "item",
           "title": "PhilippeBoisney/AlertOnboarding",
-          "description": null,
+          "description": "PhilippeBoisney/AlertOnboarding",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1821,7 +1821,7 @@
         {
           "node_type": "item",
           "title": "hanton/HTYTextField",
-          "description": null,
+          "description": "hanton/HTYTextField",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1842,7 +1842,7 @@
         {
           "node_type": "item",
           "title": "manuelescrig/MEVHorizontalContacts",
-          "description": null,
+          "description": "manuelescrig/MEVHorizontalContacts",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1869,7 +1869,7 @@
         {
           "node_type": "item",
           "title": "Ramotion/preview-transition",
-          "description": null,
+          "description": "Ramotion/preview-transition",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1894,7 +1894,7 @@
         {
           "node_type": "item",
           "title": "Ramotion/expanding-collection",
-          "description": null,
+          "description": "Ramotion/expanding-collection",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1922,7 +1922,7 @@
         {
           "node_type": "item",
           "title": "Ramotion/folding-cell",
-          "description": null,
+          "description": "Ramotion/folding-cell",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1950,7 +1950,7 @@
         {
           "node_type": "item",
           "title": "daltonclaybrook/tween-controller",
-          "description": null,
+          "description": "daltonclaybrook/tween-controller",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1971,7 +1971,7 @@
         {
           "node_type": "item",
           "title": "manuelescrig/MEVFloatingButton",
-          "description": null,
+          "description": "manuelescrig/MEVFloatingButton",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1999,7 +1999,7 @@
         {
           "node_type": "item",
           "title": "janselv/fave-button",
-          "description": null,
+          "description": "janselv/fave-button",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2020,7 +2020,7 @@
         {
           "node_type": "item",
           "title": "WelkinXie/WXWaveView",
-          "description": null,
+          "description": "WelkinXie/WXWaveView",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2046,7 +2046,7 @@
         {
           "node_type": "item",
           "title": "BohdanOrlov/BouncyPageViewController",
-          "description": null,
+          "description": "BohdanOrlov/BouncyPageViewController",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2067,7 +2067,7 @@
         {
           "node_type": "item",
           "title": "orazz/CreditCardForm-iOS",
-          "description": null,
+          "description": "orazz/CreditCardForm-iOS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2093,7 +2093,7 @@
         {
           "node_type": "item",
           "title": "Onix-Systems/RainyRefreshControl",
-          "description": null,
+          "description": "Onix-Systems/RainyRefreshControl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2114,7 +2114,7 @@
         {
           "node_type": "item",
           "title": "younatics/YNDropDownMenu",
-          "description": null,
+          "description": "younatics/YNDropDownMenu",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2146,7 +2146,7 @@
         {
           "node_type": "item",
           "title": "marcosgriselli/ViewAnimator",
-          "description": null,
+          "description": "marcosgriselli/ViewAnimator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2177,7 +2177,7 @@
         {
           "node_type": "item",
           "title": "sunjinshuai/Keep",
-          "description": null,
+          "description": "sunjinshuai/Keep",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2198,7 +2198,7 @@
         {
           "node_type": "item",
           "title": "loopeer/AlertTransition",
-          "description": null,
+          "description": "loopeer/AlertTransition",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2227,7 +2227,7 @@
         {
           "node_type": "item",
           "title": "CosmicMind/Material",
-          "description": null,
+          "description": "CosmicMind/Material",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2268,7 +2268,7 @@
         {
           "node_type": "item",
           "title": "CosmicMind/Motion",
-          "description": null,
+          "description": "CosmicMind/Motion",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2301,7 +2301,7 @@
         {
           "node_type": "item",
           "title": "hachinobu/SamuraiTransition",
-          "description": null,
+          "description": "hachinobu/SamuraiTransition",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2326,7 +2326,7 @@
         {
           "node_type": "item",
           "title": "eggswift/ESTabBarController",
-          "description": null,
+          "description": "eggswift/ESTabBarController",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2354,7 +2354,7 @@
         {
           "node_type": "item",
           "title": "QuickBirdEng/FlippingNotch",
-          "description": null,
+          "description": "QuickBirdEng/FlippingNotch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2380,7 +2380,7 @@
         {
           "node_type": "item",
           "title": "Daltron/NotificationBanner",
-          "description": null,
+          "description": "Daltron/NotificationBanner",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2407,7 +2407,7 @@
         {
           "node_type": "item",
           "title": "Ramotion/fluid-slider",
-          "description": null,
+          "description": "Ramotion/fluid-slider",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2432,7 +2432,7 @@
         {
           "node_type": "item",
           "title": "0xNSHuman/TimelineCards",
-          "description": null,
+          "description": "0xNSHuman/TimelineCards",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2459,7 +2459,7 @@
         {
           "node_type": "item",
           "title": "brefchan/CCFoldCell",
-          "description": null,
+          "description": "brefchan/CCFoldCell",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2484,7 +2484,7 @@
         {
           "node_type": "item",
           "title": "airbnb/lottie-ios",
-          "description": null,
+          "description": "airbnb/lottie-ios",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2497,7 +2497,7 @@
             "open_issues": 45,
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26892,
+            "stars": 26893,
             "topics": [
               "animation",
               "bodymovin",
@@ -2515,7 +2515,7 @@
         {
           "node_type": "item",
           "title": "Yalantis/Segmentio",
-          "description": null,
+          "description": "Yalantis/Segmentio",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2544,7 +2544,7 @@
         {
           "node_type": "item",
           "title": "Yalantis/DisplaySwitcher",
-          "description": null,
+          "description": "Yalantis/DisplaySwitcher",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:37:31.279Z",
+    "last_updated": "2026-10-03T04:53:45.134Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
