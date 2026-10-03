@@ -2367,7 +2367,7 @@
             "open_issues": 0,
             "owner": "QuickBirdEng",
             "repo": "FlippingNotch",
-            "stars": 835,
+            "stars": 836,
             "topics": [
               "animation",
               "dribble",
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:53:45.134Z",
+    "last_updated": "2026-10-03T20:23:42.309Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",

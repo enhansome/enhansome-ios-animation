@@ -513,7 +513,7 @@ GrowLine
 ![](https://raw.githubusercontent.com/eggswift/ESTabBarController/master/Resources/CustomNofticationGif3.gif)
 ![](https://raw.githubusercontent.com/eggswift/ESTabBarController/master/Resources/LottieGif.gif)
 
-<https://github.com/quickbirdstudios/FlippingNotch> ⭐ 835 | 🐛 0 | 🌐 Swift | 📅 2018-03-02
+<https://github.com/quickbirdstudios/FlippingNotch> ⭐ 836 | 🐛 0 | 🌐 Swift | 📅 2018-03-02
 
 ![alt text](https://cdn.dribbble.com/users/793057/screenshots/4089014/iphone-x-pull-to-refresh.gif)
 
