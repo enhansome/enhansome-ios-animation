@@ -726,7 +726,7 @@
             "open_issues": 3,
             "owner": "andreamazz",
             "repo": "BubbleTransition",
-            "stars": 3298,
+            "stars": 3299,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T20:23:42.309Z",
+    "last_updated": "2026-10-04T20:41:24.748Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
@@ -2589,7 +2589,7 @@
       "open_issues": 0,
       "owner": "v5tech",
       "repo": "awesome-ios-animation",
-      "stars": 5467,
+      "stars": 5468,
       "topics": [
         "animations",
         "ios-animation",

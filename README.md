@@ -166,7 +166,7 @@ Rotation
 
 ![](https://raw.githubusercontent.com/Ramotion/animated-tab-bar/master/Screenshots/tab-bar-icons-iphone-ramotion-animation-interface-design.gif)
 
-<https://github.com/andreamazz/BubbleTransition> ⭐ 3,298 | 🐛 3 | 🌐 Swift | 📅 2020-11-04
+<https://github.com/andreamazz/BubbleTransition> ⭐ 3,299 | 🐛 3 | 🌐 Swift | 📅 2020-11-04
 
 ![](https://raw.githubusercontent.com/andreamazz/BubbleTransition/master/assets/logo.png)
 ![BubbleTransition](https://raw.githubusercontent.com/andreamazz/BubbleTransition/master/assets/screenshot.gif)
@@ -553,4 +553,4 @@ GrowLine
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
