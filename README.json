@@ -19,7 +19,7 @@
             "open_issues": 58,
             "owner": "facebookarchive",
             "repo": "pop",
-            "stars": 19526,
+            "stars": 19525,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -384,7 +384,7 @@
             "open_issues": 3,
             "owner": "Yalantis",
             "repo": "Context-Menu.iOS",
-            "stars": 1821,
+            "stars": 1820,
             "topics": [
               "animation",
               "context-menu",
@@ -1213,7 +1213,7 @@
             "open_issues": 8,
             "owner": "zipme",
             "repo": "RQShineLabel",
-            "stars": 1950,
+            "stars": 1949,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1360,7 +1360,7 @@
             "open_issues": 1,
             "owner": "ninjaprox",
             "repo": "NVActivityIndicatorView",
-            "stars": 10706,
+            "stars": 10705,
             "topics": [
               "animation",
               "carthage",
@@ -1477,7 +1477,7 @@
             "open_issues": 23,
             "owner": "IFTTT",
             "repo": "RazzleDazzle",
-            "stars": 3339,
+            "stars": 3338,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -2497,7 +2497,7 @@
             "open_issues": 45,
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26893,
+            "stars": 26894,
             "topics": [
               "animation",
               "bodymovin",
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T20:41:24.748Z",
+    "last_updated": "2026-10-05T23:30:34.869Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
