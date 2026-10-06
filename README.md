@@ -12,7 +12,7 @@ A curated list of awesome iOS animation, including Objective-C and Swift librari
 
 ![pop](https://github.com/facebook/pop/blob/master/Images/pop.gif?raw=true)
 
-<https://github.com/schneiderandre/popping> ⭐ 5,498 | 🐛 4 | 🌐 Objective-C | 📅 2017-07-05
+<https://github.com/schneiderandre/popping> ⭐ 5,497 | 🐛 4 | 🌐 Objective-C | 📅 2017-07-05
 
 ![popping](https://d2ffutrenqvap3.cloudfront.net/items/2l3M18193q311E3o353W/popping.gif)
 
@@ -162,7 +162,7 @@ Rotation
 ![Preview](https://raw.githubusercontent.com/Yalantis/Ophiuchus/master/Example/Ophiuchus/Resources/animation.gif)
 ![The Green Horse](https://raw.githubusercontent.com/Yalantis/Ophiuchus/master/Example/Ophiuchus/Resources/thegreenhorse.gif)
 
-<https://github.com/Ramotion/animated-tab-bar> ⭐ 11,082 | 🐛 17 | 🌐 Swift | 📅 2022-01-26
+<https://github.com/Ramotion/animated-tab-bar> ⭐ 11,081 | 🐛 17 | 🌐 Swift | 📅 2022-01-26
 
 ![](https://raw.githubusercontent.com/Ramotion/animated-tab-bar/master/Screenshots/tab-bar-icons-iphone-ramotion-animation-interface-design.gif)
 
@@ -334,7 +334,7 @@ Rotation
 
 ![Demo GIF Animation](http://download.jikexueyuan.com/File/image/e224fc4d0c362305fa498b371cfac4c9_318513_189_4c21143928442461801bae5ac596c.gif)
 
-<https://github.com/KittenYang/Animations> ⭐ 620 | 🐛 3 | 🌐 Objective-C | 📅 2016-03-04
+<https://github.com/KittenYang/Animations> ⭐ 619 | 🐛 3 | 🌐 Objective-C | 📅 2016-03-04
 
 ![Demo GIF Animation](https://raw.githubusercontent.com/KittenYang/Animations/master/GooeySlideMenu.gif)
 
@@ -407,7 +407,7 @@ GrowLine
 ![Screenshot](http://7nj2iz.com1.z0.glb.clouddn.com/TTGEmojiRate_screenshot2.gif)
 ![Screenshot](http://7nj2iz.com1.z0.glb.clouddn.com/TTGEmojiRate_IBExample.png)
 
-<https://github.com/PhilippeBoisney/AlertOnboarding> ⭐ 825 | 🐛 19 | 🌐 Swift | 📅 2022-09-05
+<https://github.com/PhilippeBoisney/AlertOnboarding> ⭐ 825 | 🐛 18 | 🌐 Swift | 📅 2022-09-05
 
 ![Screenshot](https://github.com/PhilippeBoisney/AlertOnboarding/blob/master/screenshot.png)
 
@@ -553,4 +553,4 @@ GrowLine
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
