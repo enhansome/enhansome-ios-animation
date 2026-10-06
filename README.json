@@ -446,7 +446,7 @@
             "open_issues": 2,
             "owner": "Yalantis",
             "repo": "Persei",
-            "stars": 3429,
+            "stars": 3427,
             "topics": [
               "animation",
               "carthage",
@@ -796,7 +796,7 @@
             "open_issues": 1,
             "owner": "MartinRGB",
             "repo": "GiftCard-iOS",
-            "stars": 538,
+            "stars": 537,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1234,7 +1234,7 @@
             "open_issues": 25,
             "owner": "lexrus",
             "repo": "LTMorphingLabel",
-            "stars": 8138,
+            "stars": 8137,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1360,7 +1360,7 @@
             "open_issues": 1,
             "owner": "ninjaprox",
             "repo": "NVActivityIndicatorView",
-            "stars": 10705,
+            "stars": 10703,
             "topics": [
               "animation",
               "carthage",
@@ -1396,7 +1396,7 @@
             "open_issues": 9,
             "owner": "takuoka",
             "repo": "TKSubmitTransition",
-            "stars": 2256,
+            "stars": 2255,
             "topics": [
               "animation",
               "library",
@@ -1477,7 +1477,7 @@
             "open_issues": 23,
             "owner": "IFTTT",
             "repo": "RazzleDazzle",
-            "stars": 3338,
+            "stars": 3337,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1498,7 +1498,7 @@
             "open_issues": 3,
             "owner": "hyperoslo",
             "repo": "Presentation",
-            "stars": 3069,
+            "stars": 3067,
             "topics": [
               "ios",
               "pages",
@@ -1653,7 +1653,7 @@
             "open_issues": 17,
             "owner": "ephread",
             "repo": "Instructions",
-            "stars": 5200,
+            "stars": 5199,
             "topics": [
               "coach-marks",
               "tour",
@@ -1805,7 +1805,7 @@
             "open_issues": 18,
             "owner": "PhilippeBoisney",
             "repo": "AlertOnboarding",
-            "stars": 825,
+            "stars": 824,
             "topics": [
               "alertview",
               "dialog",
@@ -1855,7 +1855,7 @@
             "open_issues": 2,
             "owner": "manuelescrig",
             "repo": "MEVHorizontalContacts",
-            "stars": 350,
+            "stars": 349,
             "topics": [
               "cocoapods",
               "ios",
@@ -1935,7 +1935,7 @@
             "open_issues": 12,
             "owner": "Ramotion",
             "repo": "folding-cell",
-            "stars": 10174,
+            "stars": 10173,
             "topics": [
               "animation",
               "ios",
@@ -2106,7 +2106,7 @@
             "open_issues": 3,
             "owner": "Onix-Systems",
             "repo": "RainyRefreshControl",
-            "stars": 670,
+            "stars": 667,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -2240,7 +2240,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12016,
+            "stars": 12013,
             "topics": [
               "animation",
               "card",
@@ -2339,7 +2339,7 @@
             "open_issues": 40,
             "owner": "eggswift",
             "repo": "ESTabBarController",
-            "stars": 5225,
+            "stars": 5222,
             "topics": [
               "animation",
               "ios",
@@ -2393,7 +2393,7 @@
             "open_issues": 35,
             "owner": "Daltron",
             "repo": "NotificationBanner",
-            "stars": 4864,
+            "stars": 4863,
             "topics": [
               "ios",
               "ios-animation",
@@ -2493,7 +2493,7 @@
             "id": 70198664,
             "language": "Swift",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T12:55:28Z",
+            "last_commit": "2026-10-06T17:02:33Z",
             "open_issues": 45,
             "owner": "airbnb",
             "repo": "lottie-ios",
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:41:49.222Z",
+    "last_updated": "2026-10-06T22:03:15.975Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
@@ -2589,7 +2589,7 @@
       "open_issues": 0,
       "owner": "v5tech",
       "repo": "awesome-ios-animation",
-      "stars": 5468,
+      "stars": 5466,
       "topics": [
         "animations",
         "ios-animation",
