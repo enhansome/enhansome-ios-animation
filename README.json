@@ -19,7 +19,7 @@
             "open_issues": 58,
             "owner": "facebookarchive",
             "repo": "pop",
-            "stars": 19515,
+            "stars": 19514,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -40,7 +40,7 @@
             "open_issues": 4,
             "owner": "schneiderandre",
             "repo": "popping",
-            "stars": 5496,
+            "stars": 5495,
             "topics": [
               "animation",
               "objective-c",
@@ -726,7 +726,7 @@
             "open_issues": 3,
             "owner": "andreamazz",
             "repo": "BubbleTransition",
-            "stars": 3299,
+            "stars": 3298,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1019,7 +1019,7 @@
             "open_issues": 23,
             "owner": "zoonooz",
             "repo": "ZFDragableModalTransition",
-            "stars": 2442,
+            "stars": 2441,
             "topics": [
               "animation",
               "ios",
@@ -1087,7 +1087,7 @@
             "open_issues": 13,
             "owner": "icanzilb",
             "repo": "EasyAnimation",
-            "stars": 2927,
+            "stars": 2926,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1360,7 +1360,7 @@
             "open_issues": 1,
             "owner": "ninjaprox",
             "repo": "NVActivityIndicatorView",
-            "stars": 10701,
+            "stars": 10700,
             "topics": [
               "animation",
               "carthage",
@@ -1805,7 +1805,7 @@
             "open_issues": 18,
             "owner": "PhilippeBoisney",
             "repo": "AlertOnboarding",
-            "stars": 824,
+            "stars": 823,
             "topics": [
               "alertview",
               "dialog",
@@ -1935,7 +1935,7 @@
             "open_issues": 12,
             "owner": "Ramotion",
             "repo": "folding-cell",
-            "stars": 10173,
+            "stars": 10172,
             "topics": [
               "animation",
               "ios",
@@ -2059,7 +2059,7 @@
             "open_issues": 0,
             "owner": "BohdanOrlov",
             "repo": "BouncyPageViewController",
-            "stars": 837,
+            "stars": 836,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -2080,7 +2080,7 @@
             "open_issues": 6,
             "owner": "orazz",
             "repo": "CreditCardForm-iOS",
-            "stars": 1464,
+            "stars": 1463,
             "topics": [
               "credit-card",
               "creditcardform",
@@ -2159,7 +2159,7 @@
             "open_issues": 12,
             "owner": "marcosgriselli",
             "repo": "ViewAnimator",
-            "stars": 7308,
+            "stars": 7306,
             "topics": [
               "animations",
               "ios",
@@ -2240,7 +2240,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12015,
+            "stars": 12014,
             "topics": [
               "animation",
               "card",
@@ -2281,7 +2281,7 @@
             "open_issues": 4,
             "owner": "CosmicMind",
             "repo": "Motion",
-            "stars": 1772,
+            "stars": 1773,
             "topics": [
               "animation",
               "cosmicmind",
@@ -2339,7 +2339,7 @@
             "open_issues": 40,
             "owner": "eggswift",
             "repo": "ESTabBarController",
-            "stars": 5222,
+            "stars": 5221,
             "topics": [
               "animation",
               "ios",
@@ -2393,7 +2393,7 @@
             "open_issues": 35,
             "owner": "Daltron",
             "repo": "NotificationBanner",
-            "stars": 4862,
+            "stars": 4861,
             "topics": [
               "ios",
               "ios-animation",
@@ -2497,7 +2497,7 @@
             "open_issues": 45,
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26898,
+            "stars": 26899,
             "topics": [
               "animation",
               "bodymovin",
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T21:17:16.709Z",
+    "last_updated": "2026-10-12T23:58:53.885Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
