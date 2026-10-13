@@ -19,7 +19,7 @@
             "open_issues": 58,
             "owner": "facebookarchive",
             "repo": "pop",
-            "stars": 19514,
+            "stars": 19513,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -66,7 +66,7 @@
             "open_issues": 164,
             "owner": "MengTo",
             "repo": "Spring",
-            "stars": 14060,
+            "stars": 14063,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -698,7 +698,7 @@
             "open_issues": 17,
             "owner": "Ramotion",
             "repo": "animated-tab-bar",
-            "stars": 11080,
+            "stars": 11082,
             "topics": [
               "animation",
               "ios",
@@ -977,7 +977,7 @@
             "open_issues": 11,
             "owner": "recruit-mp",
             "repo": "RMPZoomTransitionAnimator",
-            "stars": 1691,
+            "stars": 1690,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1150,7 +1150,7 @@
             "open_issues": 4,
             "owner": "Lior539",
             "repo": "DragDropCollectionView",
-            "stars": 223,
+            "stars": 222,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1213,7 +1213,7 @@
             "open_issues": 8,
             "owner": "zipme",
             "repo": "RQShineLabel",
-            "stars": 1948,
+            "stars": 1949,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1276,7 +1276,7 @@
             "open_issues": 8,
             "owner": "zhxnlai",
             "repo": "ZLSwipeableViewSwift",
-            "stars": 2246,
+            "stars": 2247,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1318,7 +1318,7 @@
             "open_issues": 1,
             "owner": "CezaryKopacz",
             "repo": "CKWaveCollectionViewTransition",
-            "stars": 1842,
+            "stars": 1843,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1360,7 +1360,7 @@
             "open_issues": 1,
             "owner": "ninjaprox",
             "repo": "NVActivityIndicatorView",
-            "stars": 10700,
+            "stars": 10701,
             "topics": [
               "animation",
               "carthage",
@@ -1477,7 +1477,7 @@
             "open_issues": 23,
             "owner": "IFTTT",
             "repo": "RazzleDazzle",
-            "stars": 3336,
+            "stars": 3337,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1498,7 +1498,7 @@
             "open_issues": 3,
             "owner": "hyperoslo",
             "repo": "Presentation",
-            "stars": 3067,
+            "stars": 3068,
             "topics": [
               "ios",
               "pages",
@@ -1653,7 +1653,7 @@
             "open_issues": 17,
             "owner": "ephread",
             "repo": "Instructions",
-            "stars": 5198,
+            "stars": 5199,
             "topics": [
               "coach-marks",
               "tour",
@@ -1935,7 +1935,7 @@
             "open_issues": 12,
             "owner": "Ramotion",
             "repo": "folding-cell",
-            "stars": 10172,
+            "stars": 10171,
             "topics": [
               "animation",
               "ios",
@@ -2080,7 +2080,7 @@
             "open_issues": 6,
             "owner": "orazz",
             "repo": "CreditCardForm-iOS",
-            "stars": 1463,
+            "stars": 1464,
             "topics": [
               "credit-card",
               "creditcardform",
@@ -2159,7 +2159,7 @@
             "open_issues": 12,
             "owner": "marcosgriselli",
             "repo": "ViewAnimator",
-            "stars": 7306,
+            "stars": 7305,
             "topics": [
               "animations",
               "ios",
@@ -2240,7 +2240,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12014,
+            "stars": 12013,
             "topics": [
               "animation",
               "card",
@@ -2339,7 +2339,7 @@
             "open_issues": 40,
             "owner": "eggswift",
             "repo": "ESTabBarController",
-            "stars": 5221,
+            "stars": 5222,
             "topics": [
               "animation",
               "ios",
@@ -2393,7 +2393,7 @@
             "open_issues": 35,
             "owner": "Daltron",
             "repo": "NotificationBanner",
-            "stars": 4861,
+            "stars": 4863,
             "topics": [
               "ios",
               "ios-animation",
@@ -2420,7 +2420,7 @@
             "open_issues": 27,
             "owner": "Ramotion",
             "repo": "fluid-slider",
-            "stars": 1984,
+            "stars": 1985,
             "topics": [
               "ios",
               "library",
@@ -2445,7 +2445,7 @@
             "open_issues": 3,
             "owner": "0xNSHuman",
             "repo": "TimelineCards",
-            "stars": 426,
+            "stars": 425,
             "topics": [
               "card",
               "cards",
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T23:58:53.885Z",
+    "last_updated": "2026-10-13T22:07:23.601Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
@@ -2589,7 +2589,7 @@
       "open_issues": 0,
       "owner": "v5tech",
       "repo": "awesome-ios-animation",
-      "stars": 5466,
+      "stars": 5467,
       "topics": [
         "animations",
         "ios-animation",
