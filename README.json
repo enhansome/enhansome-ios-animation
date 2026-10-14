@@ -1234,7 +1234,7 @@
             "open_issues": 25,
             "owner": "lexrus",
             "repo": "LTMorphingLabel",
-            "stars": 8135,
+            "stars": 8136,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1653,7 +1653,7 @@
             "open_issues": 17,
             "owner": "ephread",
             "repo": "Instructions",
-            "stars": 5199,
+            "stars": 5200,
             "topics": [
               "coach-marks",
               "tour",
@@ -2240,7 +2240,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12013,
+            "stars": 12014,
             "topics": [
               "animation",
               "card",
@@ -2281,7 +2281,7 @@
             "open_issues": 4,
             "owner": "CosmicMind",
             "repo": "Motion",
-            "stars": 1773,
+            "stars": 1774,
             "topics": [
               "animation",
               "cosmicmind",
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T22:07:23.601Z",
+    "last_updated": "2026-10-14T21:08:12.882Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
@@ -2586,7 +2586,7 @@
       "language": null,
       "license": null,
       "last_commit": "2025-10-28T05:58:10Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "v5tech",
       "repo": "awesome-ios-animation",
       "stars": 5467,
