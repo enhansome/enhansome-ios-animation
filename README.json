@@ -19,7 +19,7 @@
             "open_issues": 58,
             "owner": "facebookarchive",
             "repo": "pop",
-            "stars": 19514,
+            "stars": 19513,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -66,7 +66,7 @@
             "open_issues": 164,
             "owner": "MengTo",
             "repo": "Spring",
-            "stars": 14064,
+            "stars": 14062,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -698,7 +698,7 @@
             "open_issues": 17,
             "owner": "Ramotion",
             "repo": "animated-tab-bar",
-            "stars": 11084,
+            "stars": 11082,
             "topics": [
               "animation",
               "ios",
@@ -1360,7 +1360,7 @@
             "open_issues": 1,
             "owner": "ninjaprox",
             "repo": "NVActivityIndicatorView",
-            "stars": 10702,
+            "stars": 10701,
             "topics": [
               "animation",
               "carthage",
@@ -1611,7 +1611,7 @@
             "open_issues": 0,
             "owner": "seedante",
             "repo": "CardAnimation",
-            "stars": 1161,
+            "stars": 1162,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -2497,7 +2497,7 @@
             "open_issues": 45,
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26902,
+            "stars": 26899,
             "topics": [
               "animation",
               "bodymovin",
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T20:45:49.597Z",
+    "last_updated": "2026-10-16T20:18:16.797Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
@@ -2589,7 +2589,7 @@
       "open_issues": 1,
       "owner": "v5tech",
       "repo": "awesome-ios-animation",
-      "stars": 5467,
+      "stars": 5466,
       "topics": [
         "animations",
         "ios-animation",
