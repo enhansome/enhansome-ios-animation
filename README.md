@@ -247,7 +247,7 @@ Rotation
 
 ![rubber-band02](https://raw.githubusercontent.com/Produkt/RubberBandEffect/master/Others/RubberBand_02.gif)
 
-<https://github.com/icanzilb/EasyAnimation> ⭐ 2,926 | 🐛 13 | 🌐 Swift | 📅 2020-11-30
+<https://github.com/icanzilb/EasyAnimation> ⭐ 2,927 | 🐛 13 | 🌐 Swift | 📅 2020-11-30
 
 ![](https://raw.githubusercontent.com/icanzilb/EasyAnimation/master/etc/EA.png)
 ![](https://raw.githubusercontent.com/icanzilb/EasyAnimation/master/etc/moveX.gif)
@@ -489,7 +489,7 @@ GrowLine
 ![效果图](https://raw.githubusercontent.com/loopeer/AlertTransition/master/Media/BubbleTransition.gif)
 ![效果图](https://raw.githubusercontent.com/loopeer/AlertTransition/master/Media/StarWarsTransition.gif)
 
-<https://github.com/CosmicMind/Material> ⭐ 12,015 | 🐛 37 | 🌐 Swift | 📅 2022-05-16
+<https://github.com/CosmicMind/Material> ⭐ 12,016 | 🐛 37 | 🌐 Swift | 📅 2022-05-16
 
 <https://github.com/CosmicMind/Motion> ⭐ 1,776 | 🐛 4 | 🌐 Swift | 📅 2020-01-28
 
@@ -537,7 +537,7 @@ GrowLine
 
 ![image](https://github.com/bref-Chan/CCFoldCell/blob/master/image/CCFoldCell.gif)
 
-<https://github.com/airbnb/lottie-ios> ⭐ 26,900 | 🐛 45 | 🌐 Swift | 📅 2026-10-06
+<https://github.com/airbnb/lottie-ios> ⭐ 26,897 | 🐛 45 | 🌐 Swift | 📅 2026-10-06
 
 ![img1](https://github.com/airbnb/lottie-ios/raw/master/_Gifs/Examples1.gif)
 ![img2](https://github.com/airbnb/lottie-ios/raw/master/_Gifs/Examples2.gif)
@@ -553,4 +553,4 @@ GrowLine
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
