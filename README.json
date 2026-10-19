@@ -19,7 +19,7 @@
             "open_issues": 58,
             "owner": "facebookarchive",
             "repo": "pop",
-            "stars": 19514,
+            "stars": 19515,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -66,7 +66,7 @@
             "open_issues": 164,
             "owner": "MengTo",
             "repo": "Spring",
-            "stars": 14062,
+            "stars": 14063,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -446,7 +446,7 @@
             "open_issues": 2,
             "owner": "Yalantis",
             "repo": "Persei",
-            "stars": 3425,
+            "stars": 3426,
             "topics": [
               "animation",
               "carthage",
@@ -698,7 +698,7 @@
             "open_issues": 17,
             "owner": "Ramotion",
             "repo": "animated-tab-bar",
-            "stars": 11082,
+            "stars": 11083,
             "topics": [
               "animation",
               "ios",
@@ -1477,7 +1477,7 @@
             "open_issues": 23,
             "owner": "IFTTT",
             "repo": "RazzleDazzle",
-            "stars": 3337,
+            "stars": 3338,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -2240,7 +2240,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12016,
+            "stars": 12017,
             "topics": [
               "animation",
               "card",
@@ -2497,7 +2497,7 @@
             "open_issues": 45,
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26897,
+            "stars": 26901,
             "topics": [
               "animation",
               "bodymovin",
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T19:53:31.439Z",
+    "last_updated": "2026-10-19T21:52:39.233Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
@@ -2589,7 +2589,7 @@
       "open_issues": 1,
       "owner": "v5tech",
       "repo": "awesome-ios-animation",
-      "stars": 5468,
+      "stars": 5466,
       "topics": [
         "animations",
         "ios-animation",
