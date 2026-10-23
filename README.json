@@ -19,7 +19,7 @@
             "open_issues": 58,
             "owner": "facebookarchive",
             "repo": "pop",
-            "stars": 19515,
+            "stars": 19513,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -87,7 +87,7 @@
             "open_issues": 20,
             "owner": "AladinWay",
             "repo": "TransitionButton",
-            "stars": 1476,
+            "stars": 1475,
             "topics": [
               "animation",
               "button",
@@ -255,7 +255,7 @@
             "open_issues": 14,
             "owner": "IFTTT",
             "repo": "JazzHands",
-            "stars": 6351,
+            "stars": 6350,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -446,7 +446,7 @@
             "open_issues": 2,
             "owner": "Yalantis",
             "repo": "Persei",
-            "stars": 3426,
+            "stars": 3425,
             "topics": [
               "animation",
               "carthage",
@@ -542,7 +542,7 @@
             "open_issues": 1,
             "owner": "Yalantis",
             "repo": "PullToMakeFlight",
-            "stars": 496,
+            "stars": 495,
             "topics": [
               "animation",
               "ios",
@@ -698,7 +698,7 @@
             "open_issues": 17,
             "owner": "Ramotion",
             "repo": "animated-tab-bar",
-            "stars": 11083,
+            "stars": 11082,
             "topics": [
               "animation",
               "ios",
@@ -726,7 +726,7 @@
             "open_issues": 3,
             "owner": "andreamazz",
             "repo": "BubbleTransition",
-            "stars": 3298,
+            "stars": 3297,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1477,7 +1477,7 @@
             "open_issues": 23,
             "owner": "IFTTT",
             "repo": "RazzleDazzle",
-            "stars": 3338,
+            "stars": 3337,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1699,7 +1699,7 @@
             "open_issues": 7,
             "owner": "tbxark",
             "repo": "TKRubberIndicator",
-            "stars": 1467,
+            "stars": 1468,
             "topics": [
               "carthage",
               "cocoapods",
@@ -1907,7 +1907,7 @@
             "open_issues": 25,
             "owner": "Ramotion",
             "repo": "expanding-collection",
-            "stars": 5509,
+            "stars": 5510,
             "topics": [
               "animation",
               "component",
@@ -1935,7 +1935,7 @@
             "open_issues": 12,
             "owner": "Ramotion",
             "repo": "folding-cell",
-            "stars": 10170,
+            "stars": 10169,
             "topics": [
               "animation",
               "ios",
@@ -2159,7 +2159,7 @@
             "open_issues": 12,
             "owner": "marcosgriselli",
             "repo": "ViewAnimator",
-            "stars": 7305,
+            "stars": 7304,
             "topics": [
               "animations",
               "ios",
@@ -2240,7 +2240,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12015,
+            "stars": 12013,
             "topics": [
               "animation",
               "card",
@@ -2393,7 +2393,7 @@
             "open_issues": 35,
             "owner": "Daltron",
             "repo": "NotificationBanner",
-            "stars": 4863,
+            "stars": 4862,
             "topics": [
               "ios",
               "ios-animation",
@@ -2497,7 +2497,7 @@
             "open_issues": 45,
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26912,
+            "stars": 26918,
             "topics": [
               "animation",
               "bodymovin",
@@ -2557,7 +2557,7 @@
             "open_issues": 12,
             "owner": "Yalantis",
             "repo": "DisplaySwitcher",
-            "stars": 2298,
+            "stars": 2297,
             "topics": [
               "animation",
               "cocoapods",
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T21:00:28.927Z",
+    "last_updated": "2026-10-23T20:49:42.162Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
