@@ -19,7 +19,7 @@
             "open_issues": 58,
             "owner": "facebookarchive",
             "repo": "pop",
-            "stars": 19513,
+            "stars": 19514,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -40,7 +40,7 @@
             "open_issues": 4,
             "owner": "schneiderandre",
             "repo": "popping",
-            "stars": 5495,
+            "stars": 5496,
             "topics": [
               "animation",
               "objective-c",
@@ -66,7 +66,7 @@
             "open_issues": 165,
             "owner": "MengTo",
             "repo": "Spring",
-            "stars": 14064,
+            "stars": 14065,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -255,7 +255,7 @@
             "open_issues": 14,
             "owner": "IFTTT",
             "repo": "JazzHands",
-            "stars": 6350,
+            "stars": 6351,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -572,7 +572,7 @@
             "open_issues": 50,
             "owner": "Yalantis",
             "repo": "Koloda",
-            "stars": 5388,
+            "stars": 5389,
             "topics": [
               "animation",
               "cards",
@@ -698,7 +698,7 @@
             "open_issues": 18,
             "owner": "Ramotion",
             "repo": "animated-tab-bar",
-            "stars": 11083,
+            "stars": 11086,
             "topics": [
               "animation",
               "ios",
@@ -1339,7 +1339,7 @@
             "open_issues": 53,
             "owner": "yoavlt",
             "repo": "LiquidFloatingActionButton",
-            "stars": 3838,
+            "stars": 3837,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1360,7 +1360,7 @@
             "open_issues": 1,
             "owner": "ninjaprox",
             "repo": "NVActivityIndicatorView",
-            "stars": 10700,
+            "stars": 10701,
             "topics": [
               "animation",
               "carthage",
@@ -1653,7 +1653,7 @@
             "open_issues": 17,
             "owner": "ephread",
             "repo": "Instructions",
-            "stars": 5199,
+            "stars": 5200,
             "topics": [
               "coach-marks",
               "tour",
@@ -1907,7 +1907,7 @@
             "open_issues": 25,
             "owner": "Ramotion",
             "repo": "expanding-collection",
-            "stars": 5510,
+            "stars": 5512,
             "topics": [
               "animation",
               "component",
@@ -1935,7 +1935,7 @@
             "open_issues": 12,
             "owner": "Ramotion",
             "repo": "folding-cell",
-            "stars": 10169,
+            "stars": 10170,
             "topics": [
               "animation",
               "ios",
@@ -2240,7 +2240,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12013,
+            "stars": 12015,
             "topics": [
               "animation",
               "card",
@@ -2339,7 +2339,7 @@
             "open_issues": 40,
             "owner": "eggswift",
             "repo": "ESTabBarController",
-            "stars": 5222,
+            "stars": 5223,
             "topics": [
               "animation",
               "ios",
@@ -2393,7 +2393,7 @@
             "open_issues": 35,
             "owner": "Daltron",
             "repo": "NotificationBanner",
-            "stars": 4862,
+            "stars": 4863,
             "topics": [
               "ios",
               "ios-animation",
@@ -2525,7 +2525,7 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2024-08-12T05:33:14Z",
-            "open_issues": 33,
+            "open_issues": 34,
             "owner": "Yalantis",
             "repo": "Segmentio",
             "stars": 2515,
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T20:00:08.290Z",
+    "last_updated": "2026-10-25T20:10:58.706Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
@@ -2589,7 +2589,7 @@
       "open_issues": 1,
       "owner": "v5tech",
       "repo": "awesome-ios-animation",
-      "stars": 5468,
+      "stars": 5469,
       "topics": [
         "animations",
         "ios-animation",

@@ -12,11 +12,11 @@ A curated list of awesome iOS animation, including Objective-C and Swift librari
 
 ![pop](https://github.com/facebook/pop/blob/master/Images/pop.gif?raw=true)
 
-<https://github.com/schneiderandre/popping> ⭐ 5,495 | 🐛 4 | 🌐 Objective-C | 📅 2017-07-05
+<https://github.com/schneiderandre/popping> ⭐ 5,496 | 🐛 4 | 🌐 Objective-C | 📅 2017-07-05
 
 ![popping](https://d2ffutrenqvap3.cloudfront.net/items/2l3M18193q311E3o353W/popping.gif)
 
-<https://github.com/MengTo/Spring> ⭐ 14,064 | 🐛 165 | 🌐 Swift | 📅 2023-07-03
+<https://github.com/MengTo/Spring> ⭐ 14,065 | 🐛 165 | 🌐 Swift | 📅 2023-07-03
 
 ![](http://cl.ly/image/3a1r1d3l3D1j/spring-logo.jpg)
 
@@ -95,7 +95,7 @@ Rotation
 
 <https://github.com/poetmountain/PMTween> ⭐ 343 | 🐛 0 | 🌐 Objective-C | 📅 2016-07-19
 
-<https://github.com/IFTTT/JazzHands> ⭐ 6,350 | 🐛 14 | 🌐 Objective-C | 📅 2024-07-30
+<https://github.com/IFTTT/JazzHands> ⭐ 6,351 | 🐛 14 | 🌐 Objective-C | 📅 2024-07-30
 
 ![Jazz Hands](https://raw.github.com/IFTTT/JazzHands/screenshots/screenshots/intro.gif)
 
@@ -143,7 +143,7 @@ Rotation
 
 ![](https://raw.githubusercontent.com/Yalantis/PullToMakeFlight/master/PullToMakeFlightDemo/Resources/tours-pull-airplane.gif)
 
-<https://github.com/Yalantis/Koloda> ⭐ 5,388 | 🐛 50 | 🌐 Swift | 📅 2024-05-29
+<https://github.com/Yalantis/Koloda> ⭐ 5,389 | 🐛 50 | 🌐 Swift | 📅 2024-05-29
 
 ![Preview](https://github.com/Yalantis/Koloda/blob/master/Koloda_v2_example_animation.gif)
 ![Preview](https://github.com/Yalantis/Koloda/blob/master/Koloda_v1_example_animation.gif)
@@ -162,7 +162,7 @@ Rotation
 ![Preview](https://raw.githubusercontent.com/Yalantis/Ophiuchus/master/Example/Ophiuchus/Resources/animation.gif)
 ![The Green Horse](https://raw.githubusercontent.com/Yalantis/Ophiuchus/master/Example/Ophiuchus/Resources/thegreenhorse.gif)
 
-<https://github.com/Ramotion/animated-tab-bar> ⭐ 11,083 | 🐛 18 | 🌐 Swift | 📅 2022-01-26
+<https://github.com/Ramotion/animated-tab-bar> ⭐ 11,086 | 🐛 18 | 🌐 Swift | 📅 2022-01-26
 
 ![](https://raw.githubusercontent.com/Ramotion/animated-tab-bar/master/Screenshots/tab-bar-icons-iphone-ramotion-animation-interface-design.gif)
 
@@ -317,12 +317,12 @@ Rotation
 
 ![anim.gif](http://i.giphy.com/3o85xyoYepG177Bhte.gif)
 
-<https://github.com/yoavlt/LiquidFloatingActionButton> ⭐ 3,838 | 🐛 53 | 🌐 Swift | 📅 2022-07-08
+<https://github.com/yoavlt/LiquidFloatingActionButton> ⭐ 3,837 | 🐛 53 | 🌐 Swift | 📅 2022-07-08
 
 ![anim.gif](https://raw.githubusercontent.com/yoavlt/LiquidFloatingActionButton/master/Demo/top.gif)
 ![anim.gif](https://raw.githubusercontent.com/yoavlt/LiquidFloatingActionButton/master/Demo/customizable.gif)
 
-<https://github.com/ninjaprox/NVActivityIndicatorView> ⭐ 10,700 | 🐛 1 | 🌐 Swift | 📅 2026-03-18
+<https://github.com/ninjaprox/NVActivityIndicatorView> ⭐ 10,701 | 🐛 1 | 🌐 Swift | 📅 2026-03-18
 
 ![anim.gif](https://raw.githubusercontent.com/ninjaprox/NVActivityIndicatorView/master/Demo.gif)
 
@@ -381,7 +381,7 @@ GrowLine
 
 ![Preview](https://raw.githubusercontent.com/AlexCatch/ACAnimatedTextField/master/misc/preview.gif)
 
-<https://github.com/ephread/Instructions> ⭐ 5,199 | 🐛 17 | 🌐 Swift | 📅 2024-06-05
+<https://github.com/ephread/Instructions> ⭐ 5,200 | 🐛 17 | 🌐 Swift | 📅 2024-06-05
 
 ![Instructions Demo](http://i.imgur.com/JUlQH9F.gif)
 
@@ -423,11 +423,11 @@ GrowLine
 
 ![PreviewTransition](https://github.com/Ramotion/preview-transition/blob/master/preview.gif)
 
-<https://github.com/Ramotion/expanding-collection> ⭐ 5,510 | 🐛 25 | 🌐 Swift | 📅 2020-04-06
+<https://github.com/Ramotion/expanding-collection> ⭐ 5,512 | 🐛 25 | 🌐 Swift | 📅 2020-04-06
 
 ![PreviewTransition](https://github.com/Ramotion/expanding-collection/blob/master/preview.gif)
 
-<https://github.com/Ramotion/folding-cell> ⭐ 10,169 | 🐛 12 | 🌐 Swift | 📅 2024-04-28
+<https://github.com/Ramotion/folding-cell> ⭐ 10,170 | 🐛 12 | 🌐 Swift | 📅 2024-04-28
 
 ![](https://raw.githubusercontent.com/Ramotion/folding-cell/master/Screenshots/folding-cell.gif)
 
@@ -489,7 +489,7 @@ GrowLine
 ![效果图](https://raw.githubusercontent.com/loopeer/AlertTransition/master/Media/BubbleTransition.gif)
 ![效果图](https://raw.githubusercontent.com/loopeer/AlertTransition/master/Media/StarWarsTransition.gif)
 
-<https://github.com/CosmicMind/Material> ⭐ 12,013 | 🐛 37 | 🌐 Swift | 📅 2022-05-16
+<https://github.com/CosmicMind/Material> ⭐ 12,015 | 🐛 37 | 🌐 Swift | 📅 2022-05-16
 
 <https://github.com/CosmicMind/Motion> ⭐ 1,777 | 🐛 4 | 🌐 Swift | 📅 2020-01-28
 
@@ -497,7 +497,7 @@ GrowLine
 
 ![samuraitransitiondemo](https://cloud.githubusercontent.com/assets/1317847/22860410/512cbee0-f140-11e6-9485-97c6907afa05.gif)
 
-<https://github.com/eggswift/ESTabBarController> ⭐ 5,222 | 🐛 40 | 🌐 Swift | 📅 2023-05-09
+<https://github.com/eggswift/ESTabBarController> ⭐ 5,223 | 🐛 40 | 🌐 Swift | 📅 2023-05-09
 
 ![](https://raw.githubusercontent.com/eggswift/ESTabBarController/master/Resources/CustomSelectStyleGif.gif)
 ![](https://raw.githubusercontent.com/eggswift/ESTabBarController/master/Resources/CustomSelectAnimateGif.gif)
@@ -517,7 +517,7 @@ GrowLine
 
 ![alt text](https://cdn.dribbble.com/users/793057/screenshots/4089014/iphone-x-pull-to-refresh.gif)
 
-<https://github.com/Daltron/NotificationBanner> ⭐ 4,862 | 🐛 35 | 🌐 Swift | 📅 2024-07-29
+<https://github.com/Daltron/NotificationBanner> ⭐ 4,863 | 🐛 35 | 🌐 Swift | 📅 2024-07-29
 
 ![](https://raw.githubusercontent.com/Daltron/NotificationBanner/master/NotificationBanner/Assets/basic.gif)
 ![](https://raw.githubusercontent.com/Daltron/NotificationBanner/master/NotificationBanner/Assets/side_views.gif)
@@ -543,7 +543,7 @@ GrowLine
 ![img2](https://github.com/airbnb/lottie-ios/raw/master/_Gifs/Examples2.gif)
 ![img3](https://github.com/airbnb/lottie-ios/raw/master/_Gifs/Community%202_3.gif)
 
-<https://github.com/Yalantis/Segmentio> ⭐ 2,515 | 🐛 33 | 🌐 Swift | 📅 2024-08-12
+<https://github.com/Yalantis/Segmentio> ⭐ 2,515 | 🐛 34 | 🌐 Swift | 📅 2024-08-12
 
 ![img](https://github.com/Yalantis/Segmentio/raw/master/Assets/animation.gif)
 
@@ -553,4 +553,4 @@ GrowLine
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
