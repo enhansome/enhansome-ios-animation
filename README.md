@@ -111,7 +111,7 @@ Rotation
 ![](https://raw.githubusercontent.com/Raizlabs/RZTransitions/master/Web/RZTransitions.png)
 ![](http://raw.github.com/Raizlabs/RZTransitions/master/Web/RZTransitionsDemo.gif)
 
-<https://github.com/Yalantis/FoldingTabBar.iOS> ⭐ 3,661 | 🐛 14 | 🌐 Objective-C | 📅 2022-06-13
+<https://github.com/Yalantis/FoldingTabBar.iOS> ⭐ 3,660 | 🐛 14 | 🌐 Objective-C | 📅 2022-06-13
 
 ![Preview](https://d13yacurqjgara.cloudfront.net/users/495792/screenshots/2003376/tab_bar_animation_fin-02.gif)
 
@@ -119,7 +119,7 @@ Rotation
 
 ![](https://d13yacurqjgara.cloudfront.net/users/125056/screenshots/1689922/events-menu_1-1-6.gif)
 
-<https://github.com/Yalantis/Context-Menu.iOS> ⭐ 1,819 | 🐛 3 | 🌐 Objective-C | 📅 2018-04-04
+<https://github.com/Yalantis/Context-Menu.iOS> ⭐ 1,818 | 🐛 3 | 🌐 Objective-C | 📅 2018-04-04
 
 ![ContextMenu](https://d13yacurqjgara.cloudfront.net/users/125056/screenshots/1785274/99miles-profile-light_1-1-4.gif)
 
@@ -162,11 +162,11 @@ Rotation
 ![Preview](https://raw.githubusercontent.com/Yalantis/Ophiuchus/master/Example/Ophiuchus/Resources/animation.gif)
 ![The Green Horse](https://raw.githubusercontent.com/Yalantis/Ophiuchus/master/Example/Ophiuchus/Resources/thegreenhorse.gif)
 
-<https://github.com/Ramotion/animated-tab-bar> ⭐ 11,086 | 🐛 18 | 🌐 Swift | 📅 2022-01-26
+<https://github.com/Ramotion/animated-tab-bar> ⭐ 11,085 | 🐛 18 | 🌐 Swift | 📅 2022-01-26
 
 ![](https://raw.githubusercontent.com/Ramotion/animated-tab-bar/master/Screenshots/tab-bar-icons-iphone-ramotion-animation-interface-design.gif)
 
-<https://github.com/andreamazz/BubbleTransition> ⭐ 3,297 | 🐛 3 | 🌐 Swift | 📅 2020-11-04
+<https://github.com/andreamazz/BubbleTransition> ⭐ 3,296 | 🐛 3 | 🌐 Swift | 📅 2020-11-04
 
 ![](https://raw.githubusercontent.com/andreamazz/BubbleTransition/master/assets/logo.png)
 ![BubbleTransition](https://raw.githubusercontent.com/andreamazz/BubbleTransition/master/assets/screenshot.gif)
@@ -279,7 +279,7 @@ Rotation
 
 ![image](https://raw.githubusercontent.com/zipme/RQShineLabel/master/Screenshots/rqshinelabel.gif)
 
-<https://github.com/lexrus/LTMorphingLabel> ⭐ 8,134 | 🐛 25 | 🌐 Swift | 📅 2026-03-08
+<https://github.com/lexrus/LTMorphingLabel> ⭐ 8,132 | 🐛 25 | 🌐 Swift | 📅 2026-03-08
 
 ![](https://cloud.githubusercontent.com/assets/219689/3491822/96bf5de6-059d-11e4-9826-a6f82025d1af.gif)
 ![](https://cloud.githubusercontent.com/assets/219689/3491838/ffc5aff2-059d-11e4-970c-6e2d7664785a.gif)
@@ -466,7 +466,7 @@ GrowLine
 ![](https://raw.githubusercontent.com/younatics/YNDropDownMenu/master/Images/YNDropDownMenu.gif)
 ![](https://raw.githubusercontent.com/younatics/YNDropDownMenu/master/Images/YNDropDownMenu2.gif)
 
-<https://github.com/marcosgriselli/ViewAnimator> ⭐ 7,303 | 🐛 12 | 🌐 Swift | 📅 2024-03-31
+<https://github.com/marcosgriselli/ViewAnimator> ⭐ 7,302 | 🐛 12 | 🌐 Swift | 📅 2024-03-31
 
 ![entireView](https://cdn.rawgit.com/marcosgriselli/ViewAnimator/cf065e96/Resources/entireView.svg)
 ![horizontal](https://cdn.rawgit.com/marcosgriselli/ViewAnimator/cf065e96/Resources/horizontal.svg)
@@ -553,4 +553,4 @@ GrowLine
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._

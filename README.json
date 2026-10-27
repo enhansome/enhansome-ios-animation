@@ -19,7 +19,7 @@
             "open_issues": 58,
             "owner": "facebookarchive",
             "repo": "pop",
-            "stars": 19514,
+            "stars": 19513,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -318,7 +318,7 @@
             "open_issues": 14,
             "owner": "Yalantis",
             "repo": "FoldingTabBar.iOS",
-            "stars": 3661,
+            "stars": 3660,
             "topics": [
               "animation",
               "carthage",
@@ -384,7 +384,7 @@
             "open_issues": 3,
             "owner": "Yalantis",
             "repo": "Context-Menu.iOS",
-            "stars": 1819,
+            "stars": 1818,
             "topics": [
               "animation",
               "context-menu",
@@ -698,7 +698,7 @@
             "open_issues": 18,
             "owner": "Ramotion",
             "repo": "animated-tab-bar",
-            "stars": 11086,
+            "stars": 11085,
             "topics": [
               "animation",
               "ios",
@@ -726,7 +726,7 @@
             "open_issues": 3,
             "owner": "andreamazz",
             "repo": "BubbleTransition",
-            "stars": 3297,
+            "stars": 3296,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -817,7 +817,7 @@
             "open_issues": 13,
             "owner": "draveness",
             "repo": "DKChainableAnimationKit",
-            "stars": 1873,
+            "stars": 1872,
             "topics": [
               "animation",
               "animation-chain",
@@ -1234,7 +1234,7 @@
             "open_issues": 25,
             "owner": "lexrus",
             "repo": "LTMorphingLabel",
-            "stars": 8134,
+            "stars": 8132,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -2159,7 +2159,7 @@
             "open_issues": 12,
             "owner": "marcosgriselli",
             "repo": "ViewAnimator",
-            "stars": 7303,
+            "stars": 7302,
             "topics": [
               "animations",
               "ios",
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T22:07:42.567Z",
+    "last_updated": "2026-10-27T21:38:35.318Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
