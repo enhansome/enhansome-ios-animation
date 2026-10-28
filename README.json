@@ -66,7 +66,7 @@
             "open_issues": 165,
             "owner": "MengTo",
             "repo": "Spring",
-            "stars": 14064,
+            "stars": 14062,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -384,7 +384,7 @@
             "open_issues": 3,
             "owner": "Yalantis",
             "repo": "Context-Menu.iOS",
-            "stars": 1818,
+            "stars": 1819,
             "topics": [
               "animation",
               "context-menu",
@@ -572,7 +572,7 @@
             "open_issues": 50,
             "owner": "Yalantis",
             "repo": "Koloda",
-            "stars": 5389,
+            "stars": 5388,
             "topics": [
               "animation",
               "cards",
@@ -1569,7 +1569,7 @@
             "open_issues": 8,
             "owner": "yoavlt",
             "repo": "LiquidLoader",
-            "stars": 1324,
+            "stars": 1323,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1590,7 +1590,7 @@
             "open_issues": 58,
             "owner": "gontovnik",
             "repo": "DGElasticPullToRefresh",
-            "stars": 3731,
+            "stars": 3730,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1611,7 +1611,7 @@
             "open_issues": 0,
             "owner": "seedante",
             "repo": "CardAnimation",
-            "stars": 1162,
+            "stars": 1161,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1730,7 +1730,7 @@
             "open_issues": 19,
             "owner": "12207480",
             "repo": "TYAlertController",
-            "stars": 1304,
+            "stars": 1303,
             "topics": [
               "alert",
               "alertcontroller",
@@ -1907,7 +1907,7 @@
             "open_issues": 25,
             "owner": "Ramotion",
             "repo": "expanding-collection",
-            "stars": 5512,
+            "stars": 5513,
             "topics": [
               "animation",
               "component",
@@ -2159,7 +2159,7 @@
             "open_issues": 12,
             "owner": "marcosgriselli",
             "repo": "ViewAnimator",
-            "stars": 7302,
+            "stars": 7303,
             "topics": [
               "animations",
               "ios",
@@ -2339,7 +2339,7 @@
             "open_issues": 40,
             "owner": "eggswift",
             "repo": "ESTabBarController",
-            "stars": 5222,
+            "stars": 5223,
             "topics": [
               "animation",
               "ios",
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T21:38:35.318Z",
+    "last_updated": "2026-10-28T22:01:55.328Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
