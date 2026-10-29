@@ -19,7 +19,7 @@
             "open_issues": 58,
             "owner": "facebookarchive",
             "repo": "pop",
-            "stars": 19513,
+            "stars": 19512,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -66,7 +66,7 @@
             "open_issues": 165,
             "owner": "MengTo",
             "repo": "Spring",
-            "stars": 14062,
+            "stars": 14061,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -817,7 +817,7 @@
             "open_issues": 13,
             "owner": "draveness",
             "repo": "DKChainableAnimationKit",
-            "stars": 1872,
+            "stars": 1871,
             "topics": [
               "animation",
               "animation-chain",
@@ -1339,7 +1339,7 @@
             "open_issues": 53,
             "owner": "yoavlt",
             "repo": "LiquidFloatingActionButton",
-            "stars": 3837,
+            "stars": 3836,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1653,7 +1653,7 @@
             "open_issues": 17,
             "owner": "ephread",
             "repo": "Instructions",
-            "stars": 5200,
+            "stars": 5199,
             "topics": [
               "coach-marks",
               "tour",
@@ -1935,7 +1935,7 @@
             "open_issues": 12,
             "owner": "Ramotion",
             "repo": "folding-cell",
-            "stars": 10170,
+            "stars": 10169,
             "topics": [
               "animation",
               "ios",
@@ -2080,7 +2080,7 @@
             "open_issues": 6,
             "owner": "orazz",
             "repo": "CreditCardForm-iOS",
-            "stars": 1464,
+            "stars": 1463,
             "topics": [
               "credit-card",
               "creditcardform",
@@ -2159,7 +2159,7 @@
             "open_issues": 12,
             "owner": "marcosgriselli",
             "repo": "ViewAnimator",
-            "stars": 7303,
+            "stars": 7302,
             "topics": [
               "animations",
               "ios",
@@ -2240,7 +2240,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12015,
+            "stars": 12014,
             "topics": [
               "animation",
               "card",
@@ -2339,7 +2339,7 @@
             "open_issues": 40,
             "owner": "eggswift",
             "repo": "ESTabBarController",
-            "stars": 5223,
+            "stars": 5222,
             "topics": [
               "animation",
               "ios",
@@ -2393,7 +2393,7 @@
             "open_issues": 35,
             "owner": "Daltron",
             "repo": "NotificationBanner",
-            "stars": 4863,
+            "stars": 4862,
             "topics": [
               "ios",
               "ios-animation",
@@ -2497,7 +2497,7 @@
             "open_issues": 45,
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26917,
+            "stars": 26918,
             "topics": [
               "animation",
               "bodymovin",
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T22:01:55.328Z",
+    "last_updated": "2026-10-29T22:13:32.434Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
@@ -2589,7 +2589,7 @@
       "open_issues": 1,
       "owner": "v5tech",
       "repo": "awesome-ios-animation",
-      "stars": 5470,
+      "stars": 5471,
       "topics": [
         "animations",
         "ios-animation",
