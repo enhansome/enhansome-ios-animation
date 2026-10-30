@@ -66,7 +66,7 @@
             "open_issues": 165,
             "owner": "MengTo",
             "repo": "Spring",
-            "stars": 14061,
+            "stars": 14060,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -255,7 +255,7 @@
             "open_issues": 14,
             "owner": "IFTTT",
             "repo": "JazzHands",
-            "stars": 6351,
+            "stars": 6350,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -318,7 +318,7 @@
             "open_issues": 14,
             "owner": "Yalantis",
             "repo": "FoldingTabBar.iOS",
-            "stars": 3660,
+            "stars": 3659,
             "topics": [
               "animation",
               "carthage",
@@ -350,7 +350,7 @@
             "open_issues": 3,
             "owner": "Yalantis",
             "repo": "Side-Menu.iOS",
-            "stars": 2708,
+            "stars": 2709,
             "topics": [
               "animation",
               "cocoapods",
@@ -416,7 +416,7 @@
             "open_issues": 0,
             "owner": "Yalantis",
             "repo": "GuillotineMenu",
-            "stars": 2876,
+            "stars": 2877,
             "topics": [
               "animation",
               "cocoapods",
@@ -604,7 +604,7 @@
             "open_issues": 6,
             "owner": "Yalantis",
             "repo": "StarWars.iOS",
-            "stars": 3760,
+            "stars": 3759,
             "topics": [
               "animation",
               "ios",
@@ -775,7 +775,7 @@
             "open_issues": 2,
             "owner": "carsonxyz",
             "repo": "CNPPopupController",
-            "stars": 1625,
+            "stars": 1624,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -998,7 +998,7 @@
             "open_issues": 11,
             "owner": "xhzengAIB",
             "repo": "PopMenu",
-            "stars": 883,
+            "stars": 882,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1019,7 +1019,7 @@
             "open_issues": 23,
             "owner": "zoonooz",
             "repo": "ZFDragableModalTransition",
-            "stars": 2441,
+            "stars": 2440,
             "topics": [
               "animation",
               "ios",
@@ -1213,7 +1213,7 @@
             "open_issues": 8,
             "owner": "zipme",
             "repo": "RQShineLabel",
-            "stars": 1949,
+            "stars": 1950,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1396,7 +1396,7 @@
             "open_issues": 9,
             "owner": "takuoka",
             "repo": "TKSubmitTransition",
-            "stars": 2255,
+            "stars": 2254,
             "topics": [
               "animation",
               "library",
@@ -1653,7 +1653,7 @@
             "open_issues": 17,
             "owner": "ephread",
             "repo": "Instructions",
-            "stars": 5199,
+            "stars": 5198,
             "topics": [
               "coach-marks",
               "tour",
@@ -1935,7 +1935,7 @@
             "open_issues": 12,
             "owner": "Ramotion",
             "repo": "folding-cell",
-            "stars": 10169,
+            "stars": 10168,
             "topics": [
               "animation",
               "ios",
@@ -2127,7 +2127,7 @@
             "open_issues": 8,
             "owner": "younatics",
             "repo": "YNDropDownMenu",
-            "stars": 1326,
+            "stars": 1327,
             "topics": [
               "carthage",
               "cocoapods",
@@ -2159,7 +2159,7 @@
             "open_issues": 12,
             "owner": "marcosgriselli",
             "repo": "ViewAnimator",
-            "stars": 7302,
+            "stars": 7303,
             "topics": [
               "animations",
               "ios",
@@ -2497,7 +2497,7 @@
             "open_issues": 45,
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26918,
+            "stars": 26920,
             "topics": [
               "animation",
               "bodymovin",
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T22:13:32.434Z",
+    "last_updated": "2026-10-30T21:49:18.932Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
