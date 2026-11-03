@@ -19,7 +19,7 @@
             "open_issues": 58,
             "owner": "facebookarchive",
             "repo": "pop",
-            "stars": 19510,
+            "stars": 19508,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -40,7 +40,7 @@
             "open_issues": 4,
             "owner": "schneiderandre",
             "repo": "popping",
-            "stars": 5496,
+            "stars": 5495,
             "topics": [
               "animation",
               "objective-c",
@@ -186,7 +186,7 @@
             "open_issues": 8,
             "owner": "matthewcheok",
             "repo": "POP-MCAnimate",
-            "stars": 939,
+            "stars": 938,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -481,7 +481,7 @@
             "open_issues": 9,
             "owner": "Yalantis",
             "repo": "Pull-to-Refresh.Rentals-iOS",
-            "stars": 2115,
+            "stars": 2114,
             "topics": [
               "animation",
               "cocoapods",
@@ -844,7 +844,7 @@
             "open_issues": 2,
             "owner": "cwRichardKim",
             "repo": "RKSwipeCards",
-            "stars": 2154,
+            "stars": 2153,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1360,7 +1360,7 @@
             "open_issues": 1,
             "owner": "ninjaprox",
             "repo": "NVActivityIndicatorView",
-            "stars": 10701,
+            "stars": 10702,
             "topics": [
               "animation",
               "carthage",
@@ -2240,7 +2240,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12016,
+            "stars": 12015,
             "topics": [
               "animation",
               "card",
@@ -2281,7 +2281,7 @@
             "open_issues": 4,
             "owner": "CosmicMind",
             "repo": "Motion",
-            "stars": 1777,
+            "stars": 1778,
             "topics": [
               "animation",
               "cosmicmind",
@@ -2393,7 +2393,7 @@
             "open_issues": 35,
             "owner": "Daltron",
             "repo": "NotificationBanner",
-            "stars": 4861,
+            "stars": 4860,
             "topics": [
               "ios",
               "ios-animation",
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T00:13:55.219Z",
+    "last_updated": "2026-11-03T22:43:04.247Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
@@ -2589,7 +2589,7 @@
       "open_issues": 1,
       "owner": "v5tech",
       "repo": "awesome-ios-animation",
-      "stars": 5474,
+      "stars": 5475,
       "topics": [
         "animations",
         "ios-animation",

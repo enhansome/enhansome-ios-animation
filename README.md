@@ -12,7 +12,7 @@ A curated list of awesome iOS animation, including Objective-C and Swift librari
 
 ![pop](https://github.com/facebook/pop/blob/master/Images/pop.gif?raw=true)
 
-<https://github.com/schneiderandre/popping> ⭐ 5,496 | 🐛 4 | 🌐 Objective-C | 📅 2017-07-05
+<https://github.com/schneiderandre/popping> ⭐ 5,495 | 🐛 4 | 🌐 Objective-C | 📅 2017-07-05
 
 ![popping](https://d2ffutrenqvap3.cloudfront.net/items/2l3M18193q311E3o353W/popping.gif)
 
@@ -81,7 +81,7 @@ Rotation
 ![](http://robb.is/img/rbbanimation/bounce.gif)
 ![](http://robb.is/img/rbbanimation/sine-wave.gif)
 
-<https://github.com/matthewcheok/POP-MCAnimate> ⭐ 939 | 🐛 8 | 🌐 Objective-C | 📅 2017-04-08
+<https://github.com/matthewcheok/POP-MCAnimate> ⭐ 938 | 🐛 8 | 🌐 Objective-C | 📅 2017-04-08
 
 <https://github.com/jhurray/JHChainableAnimations> ⭐ 3,195 | 🐛 10 | 🌐 Objective-C | 📅 2018-01-04
 
@@ -131,7 +131,7 @@ Rotation
 
 ![Preview](https://raw.githubusercontent.com/Yalantis/Persei/master/Assets/animation.gif)
 
-<https://github.com/Yalantis/Pull-to-Refresh.Rentals-iOS> ⭐ 2,115 | 🐛 9 | 🌐 Objective-C | 📅 2018-06-16
+<https://github.com/Yalantis/Pull-to-Refresh.Rentals-iOS> ⭐ 2,114 | 🐛 9 | 🌐 Objective-C | 📅 2018-06-16
 
 ![](https://d13yacurqjgara.cloudfront.net/users/125056/screenshots/1650317/realestate-pull_1-2-3.gif)
 
@@ -192,7 +192,7 @@ Rotation
 ![](https://raw.githubusercontent.com/Draveness/DKChainableAnimationKit/master/Gifs/Code2.png)
 ![](https://raw.githubusercontent.com/Draveness/DKChainableAnimationKit/master/Gifs/Demo2.gif)
 
-<https://github.com/cwRichardKim/TinderSimpleSwipeCards> ⭐ 2,154 | 🐛 2 | 🌐 Objective-C | 📅 2017-05-28
+<https://github.com/cwRichardKim/TinderSimpleSwipeCards> ⭐ 2,153 | 🐛 2 | 🌐 Objective-C | 📅 2017-05-28
 
 ![alt tag](http://imgur.com/4bYw12e.gif)
 ![alt tag](http://i.imgur.com/krDNpR0.gif)
@@ -322,7 +322,7 @@ Rotation
 ![anim.gif](https://raw.githubusercontent.com/yoavlt/LiquidFloatingActionButton/master/Demo/top.gif)
 ![anim.gif](https://raw.githubusercontent.com/yoavlt/LiquidFloatingActionButton/master/Demo/customizable.gif)
 
-<https://github.com/ninjaprox/NVActivityIndicatorView> ⭐ 10,701 | 🐛 1 | 🌐 Swift | 📅 2026-03-18
+<https://github.com/ninjaprox/NVActivityIndicatorView> ⭐ 10,702 | 🐛 1 | 🌐 Swift | 📅 2026-03-18
 
 ![anim.gif](https://raw.githubusercontent.com/ninjaprox/NVActivityIndicatorView/master/Demo.gif)
 
@@ -489,9 +489,9 @@ GrowLine
 ![效果图](https://raw.githubusercontent.com/loopeer/AlertTransition/master/Media/BubbleTransition.gif)
 ![效果图](https://raw.githubusercontent.com/loopeer/AlertTransition/master/Media/StarWarsTransition.gif)
 
-<https://github.com/CosmicMind/Material> ⭐ 12,016 | 🐛 37 | 🌐 Swift | 📅 2022-05-16
+<https://github.com/CosmicMind/Material> ⭐ 12,015 | 🐛 37 | 🌐 Swift | 📅 2022-05-16
 
-<https://github.com/CosmicMind/Motion> ⭐ 1,777 | 🐛 4 | 🌐 Swift | 📅 2020-01-28
+<https://github.com/CosmicMind/Motion> ⭐ 1,778 | 🐛 4 | 🌐 Swift | 📅 2020-01-28
 
 <https://github.com/hachinobu/SamuraiTransition> ⭐ 280 | 🐛 1 | 🌐 Swift | 📅 2026-07-16
 
@@ -517,7 +517,7 @@ GrowLine
 
 ![alt text](https://cdn.dribbble.com/users/793057/screenshots/4089014/iphone-x-pull-to-refresh.gif)
 
-<https://github.com/Daltron/NotificationBanner> ⭐ 4,861 | 🐛 35 | 🌐 Swift | 📅 2024-07-29
+<https://github.com/Daltron/NotificationBanner> ⭐ 4,860 | 🐛 35 | 🌐 Swift | 📅 2024-07-29
 
 ![](https://raw.githubusercontent.com/Daltron/NotificationBanner/master/NotificationBanner/Assets/basic.gif)
 ![](https://raw.githubusercontent.com/Daltron/NotificationBanner/master/NotificationBanner/Assets/side_views.gif)
