@@ -16,7 +16,7 @@ A curated list of awesome iOS animation, including Objective-C and Swift librari
 
 ![popping](https://d2ffutrenqvap3.cloudfront.net/items/2l3M18193q311E3o353W/popping.gif)
 
-<https://github.com/MengTo/Spring> ⭐ 14,059 | 🐛 165 | 🌐 Swift | 📅 2023-07-03
+<https://github.com/MengTo/Spring> ⭐ 14,057 | 🐛 165 | 🌐 Swift | 📅 2023-07-03
 
 ![](http://cl.ly/image/3a1r1d3l3D1j/spring-logo.jpg)
 
@@ -32,7 +32,7 @@ A curated list of awesome iOS animation, including Objective-C and Swift librari
 
 ![](http://jwilling.com/serve/github/jnwspringanimation/preview.gif)
 
-<https://github.com/daltoniam/DCAnimationKit> ⭐ 803 | 🐛 1 | 🌐 Objective-C | 📅 2016-02-09
+<https://github.com/daltoniam/DCAnimationKit> ⭐ 804 | 🐛 1 | 🌐 Objective-C | 📅 2016-02-09
 
 Tada
 ![alt tag](https://raw.github.com/daltoniam/DCAnimationKit/master/gifs/tada.gif)
@@ -162,7 +162,7 @@ Rotation
 ![Preview](https://raw.githubusercontent.com/Yalantis/Ophiuchus/master/Example/Ophiuchus/Resources/animation.gif)
 ![The Green Horse](https://raw.githubusercontent.com/Yalantis/Ophiuchus/master/Example/Ophiuchus/Resources/thegreenhorse.gif)
 
-<https://github.com/Ramotion/animated-tab-bar> ⭐ 11,086 | 🐛 18 | 🌐 Swift | 📅 2022-01-26
+<https://github.com/Ramotion/animated-tab-bar> ⭐ 11,085 | 🐛 18 | 🌐 Swift | 📅 2022-01-26
 
 ![](https://raw.githubusercontent.com/Ramotion/animated-tab-bar/master/Screenshots/tab-bar-icons-iphone-ramotion-animation-interface-design.gif)
 
@@ -326,7 +326,7 @@ Rotation
 
 ![anim.gif](https://raw.githubusercontent.com/ninjaprox/NVActivityIndicatorView/master/Demo.gif)
 
-<https://github.com/entotsu/TKSubmitTransition> ⭐ 2,254 | 🐛 9 | 🌐 Swift | 📅 2019-12-04
+<https://github.com/entotsu/TKSubmitTransition> ⭐ 2,253 | 🐛 9 | 🌐 Swift | 📅 2019-12-04
 
 ![Demo GIF Animation](https://github.com/entotsu/TKSubmitTransition/blob/master/demo.gif)
 
@@ -423,7 +423,7 @@ GrowLine
 
 ![PreviewTransition](https://github.com/Ramotion/preview-transition/blob/master/preview.gif)
 
-<https://github.com/Ramotion/expanding-collection> ⭐ 5,512 | 🐛 25 | 🌐 Swift | 📅 2020-04-06
+<https://github.com/Ramotion/expanding-collection> ⭐ 5,511 | 🐛 25 | 🌐 Swift | 📅 2020-04-06
 
 ![PreviewTransition](https://github.com/Ramotion/expanding-collection/blob/master/preview.gif)
 
@@ -537,7 +537,7 @@ GrowLine
 
 ![image](https://github.com/bref-Chan/CCFoldCell/blob/master/image/CCFoldCell.gif)
 
-<https://github.com/airbnb/lottie-ios> ⭐ 26,924 | 🐛 45 | 🌐 Swift | 📅 2026-10-06
+<https://github.com/airbnb/lottie-ios> ⭐ 26,926 | 🐛 45 | 🌐 Swift | 📅 2026-10-06
 
 ![img1](https://github.com/airbnb/lottie-ios/raw/master/_Gifs/Examples1.gif)
 ![img2](https://github.com/airbnb/lottie-ios/raw/master/_Gifs/Examples2.gif)
@@ -553,4 +553,4 @@ GrowLine
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
