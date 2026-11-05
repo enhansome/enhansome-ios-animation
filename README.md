@@ -111,11 +111,11 @@ Rotation
 ![](https://raw.githubusercontent.com/Raizlabs/RZTransitions/master/Web/RZTransitions.png)
 ![](http://raw.github.com/Raizlabs/RZTransitions/master/Web/RZTransitionsDemo.gif)
 
-<https://github.com/Yalantis/FoldingTabBar.iOS> ⭐ 3,658 | 🐛 14 | 🌐 Objective-C | 📅 2022-06-13
+<https://github.com/Yalantis/FoldingTabBar.iOS> ⭐ 3,657 | 🐛 14 | 🌐 Objective-C | 📅 2022-06-13
 
 ![Preview](https://d13yacurqjgara.cloudfront.net/users/495792/screenshots/2003376/tab_bar_animation_fin-02.gif)
 
-<https://github.com/Yalantis/Side-Menu.iOS> ⭐ 2,709 | 🐛 3 | 🌐 Swift | 📅 2020-04-13
+<https://github.com/Yalantis/Side-Menu.iOS> ⭐ 2,708 | 🐛 3 | 🌐 Swift | 📅 2020-04-13
 
 ![](https://d13yacurqjgara.cloudfront.net/users/125056/screenshots/1689922/events-menu_1-1-6.gif)
 
@@ -123,15 +123,15 @@ Rotation
 
 ![ContextMenu](https://d13yacurqjgara.cloudfront.net/users/125056/screenshots/1785274/99miles-profile-light_1-1-4.gif)
 
-<https://github.com/Yalantis/GuillotineMenu> ⭐ 2,877 | 🐛 0 | 🌐 Swift | 📅 2020-04-13
+<https://github.com/Yalantis/GuillotineMenu> ⭐ 2,876 | 🐛 0 | 🌐 Swift | 📅 2020-04-13
 
 ![Preview](https://d13yacurqjgara.cloudfront.net/users/495792/screenshots/2018249/draft_06.gif)
 
-<https://github.com/Yalantis/Persei> ⭐ 3,422 | 🐛 2 | 🌐 Swift | 📅 2020-04-22
+<https://github.com/Yalantis/Persei> ⭐ 3,421 | 🐛 2 | 🌐 Swift | 📅 2020-04-22
 
 ![Preview](https://raw.githubusercontent.com/Yalantis/Persei/master/Assets/animation.gif)
 
-<https://github.com/Yalantis/Pull-to-Refresh.Rentals-iOS> ⭐ 2,114 | 🐛 9 | 🌐 Objective-C | 📅 2018-06-16
+<https://github.com/Yalantis/Pull-to-Refresh.Rentals-iOS> ⭐ 2,113 | 🐛 9 | 🌐 Objective-C | 📅 2018-06-16
 
 ![](https://d13yacurqjgara.cloudfront.net/users/125056/screenshots/1650317/realestate-pull_1-2-3.gif)
 
@@ -148,7 +148,7 @@ Rotation
 ![Preview](https://github.com/Yalantis/Koloda/blob/master/Koloda_v2_example_animation.gif)
 ![Preview](https://github.com/Yalantis/Koloda/blob/master/Koloda_v1_example_animation.gif)
 
-<https://github.com/Yalantis/StarWars.iOS> ⭐ 3,759 | 🐛 6 | 🌐 Swift | 📅 2022-10-11
+<https://github.com/Yalantis/StarWars.iOS> ⭐ 3,758 | 🐛 6 | 🌐 Swift | 📅 2022-10-11
 
 ![](https://yalantis-com.s3.amazonaws.com/uploads/ckeditor/pictures/49/content_star_wars-shot__1_.gif)
 
@@ -162,7 +162,7 @@ Rotation
 ![Preview](https://raw.githubusercontent.com/Yalantis/Ophiuchus/master/Example/Ophiuchus/Resources/animation.gif)
 ![The Green Horse](https://raw.githubusercontent.com/Yalantis/Ophiuchus/master/Example/Ophiuchus/Resources/thegreenhorse.gif)
 
-<https://github.com/Ramotion/animated-tab-bar> ⭐ 11,084 | 🐛 18 | 🌐 Swift | 📅 2022-01-26
+<https://github.com/Ramotion/animated-tab-bar> ⭐ 11,083 | 🐛 18 | 🌐 Swift | 📅 2022-01-26
 
 ![](https://raw.githubusercontent.com/Ramotion/animated-tab-bar/master/Screenshots/tab-bar-icons-iphone-ramotion-animation-interface-design.gif)
 
@@ -192,7 +192,7 @@ Rotation
 ![](https://raw.githubusercontent.com/Draveness/DKChainableAnimationKit/master/Gifs/Code2.png)
 ![](https://raw.githubusercontent.com/Draveness/DKChainableAnimationKit/master/Gifs/Demo2.gif)
 
-<https://github.com/cwRichardKim/TinderSimpleSwipeCards> ⭐ 2,153 | 🐛 2 | 🌐 Objective-C | 📅 2017-05-28
+<https://github.com/cwRichardKim/TinderSimpleSwipeCards> ⭐ 2,152 | 🐛 2 | 🌐 Objective-C | 📅 2017-05-28
 
 ![alt tag](http://imgur.com/4bYw12e.gif)
 ![alt tag](http://i.imgur.com/krDNpR0.gif)
@@ -224,7 +224,7 @@ Rotation
 ![](https://raw.githubusercontent.com/andreamazz/UITextField-Shake/master/assets/logo.png)
 ![UITextField+Shake](https://raw.githubusercontent.com/andreamazz/UITextField-Shake/master/assets/screenshot.gif)
 
-<https://github.com/recruit-mp/RMPZoomTransitionAnimator> ⭐ 1,690 | 🐛 11 | 🌐 Objective-C | 📅 2017-08-23
+<https://github.com/recruit-mp/RMPZoomTransitionAnimator> ⭐ 1,689 | 🐛 11 | 🌐 Objective-C | 📅 2017-08-23
 
 ![Screen shot](https://raw.githubusercontent.com/recruit-mp/RMPZoomTransitionAnimator/master/docs/collectionview.gif)
 ![Screen shot](https://raw.githubusercontent.com/recruit-mp/RMPZoomTransitionAnimator/master/docs/tableview.gif)
@@ -233,11 +233,11 @@ Rotation
 
 ![image](https://github.com/xhzengAIB/LearnEnglish/raw/master/Screenshots/XHSinaMenuViewExample.gif)
 
-<https://github.com/zoonooz/ZFDragableModalTransition> ⭐ 2,440 | 🐛 23 | 🌐 Objective-C | 📅 2018-01-21
+<https://github.com/zoonooz/ZFDragableModalTransition> ⭐ 2,439 | 🐛 23 | 🌐 Objective-C | 📅 2018-01-21
 
 ![](https://raw.githubusercontent.com/zoonooz/ZFDragableModalTransition/master/Screenshot/ss.gif)
 
-<https://github.com/mathcarignani/MCMHeaderAnimated> ⭐ 508 | 🐛 2 | 🌐 Swift | 📅 2017-11-01
+<https://github.com/mathcarignani/MCMHeaderAnimated> ⭐ 507 | 🐛 2 | 🌐 Swift | 📅 2017-11-01
 
 ![](https://raw.githubusercontent.com/mathcarignani/MCMHeaderAnimated/master/demo.gif)
 
@@ -279,7 +279,7 @@ Rotation
 
 ![image](https://raw.githubusercontent.com/zipme/RQShineLabel/master/Screenshots/rqshinelabel.gif)
 
-<https://github.com/lexrus/LTMorphingLabel> ⭐ 8,129 | 🐛 25 | 🌐 Swift | 📅 2026-03-08
+<https://github.com/lexrus/LTMorphingLabel> ⭐ 8,128 | 🐛 25 | 🌐 Swift | 📅 2026-03-08
 
 ![](https://cloud.githubusercontent.com/assets/219689/3491822/96bf5de6-059d-11e4-9826-a6f82025d1af.gif)
 ![](https://cloud.githubusercontent.com/assets/219689/3491838/ffc5aff2-059d-11e4-970c-6e2d7664785a.gif)
@@ -293,7 +293,7 @@ Rotation
 
 ![](https://raw.githubusercontent.com/wongzigii/WZDraggableSwitchHeaderView/master/GIF/WZAnimatingTransition.gif)
 
-<https://github.com/zhxnlai/ZLSwipeableViewSwift> ⭐ 2,247 | 🐛 8 | 🌐 Swift | 📅 2023-06-16
+<https://github.com/zhxnlai/ZLSwipeableViewSwift> ⭐ 2,245 | 🐛 8 | 🌐 Swift | 📅 2023-06-16
 
 ![direction](https://raw.githubusercontent.com/zhxnlai/ZLSwipeableViewSwift/master/Previews/animation.gif)
 
@@ -322,7 +322,7 @@ Rotation
 ![anim.gif](https://raw.githubusercontent.com/yoavlt/LiquidFloatingActionButton/master/Demo/top.gif)
 ![anim.gif](https://raw.githubusercontent.com/yoavlt/LiquidFloatingActionButton/master/Demo/customizable.gif)
 
-<https://github.com/ninjaprox/NVActivityIndicatorView> ⭐ 10,702 | 🐛 1 | 🌐 Swift | 📅 2026-03-18
+<https://github.com/ninjaprox/NVActivityIndicatorView> ⭐ 10,701 | 🐛 1 | 🌐 Swift | 📅 2026-03-18
 
 ![anim.gif](https://raw.githubusercontent.com/ninjaprox/NVActivityIndicatorView/master/Demo.gif)
 
@@ -334,7 +334,7 @@ Rotation
 
 ![Demo GIF Animation](http://download.jikexueyuan.com/File/image/e224fc4d0c362305fa498b371cfac4c9_318513_189_4c21143928442461801bae5ac596c.gif)
 
-<https://github.com/KittenYang/Animations> ⭐ 619 | 🐛 3 | 🌐 Objective-C | 📅 2016-03-04
+<https://github.com/KittenYang/Animations> ⭐ 618 | 🐛 3 | 🌐 Objective-C | 📅 2016-03-04
 
 ![Demo GIF Animation](https://raw.githubusercontent.com/KittenYang/Animations/master/GooeySlideMenu.gif)
 
@@ -368,7 +368,7 @@ GrowLine
 
 ![GrowLine](https://github.com/yoavlt/LiquidLoader/blob/master/Demo/grow-line.gif?raw=true)
 
-<https://github.com/gontovnik/DGElasticPullToRefresh> ⭐ 3,730 | 🐛 58 | 🌐 Swift | 📅 2022-06-01
+<https://github.com/gontovnik/DGElasticPullToRefresh> ⭐ 3,729 | 🐛 58 | 🌐 Swift | 📅 2022-06-01
 
 ![](https://raw.githubusercontent.com/gontovnik/DGElasticPullToRefresh/master/DGElasticPullToRefreshPreview1.gif)
 ![](https://raw.githubusercontent.com/gontovnik/DGElasticPullToRefresh/master/DGElasticPullToRefreshPreview2.gif)
@@ -385,7 +385,7 @@ GrowLine
 
 ![Instructions Demo](http://i.imgur.com/JUlQH9F.gif)
 
-<https://github.com/mentionapp/mntpulltoreact> ⭐ 766 | 🐛 0 | 🌐 Objective-C | 📅 2015-04-29
+<https://github.com/mentionapp/mntpulltoreact> ⭐ 765 | 🐛 0 | 🌐 Objective-C | 📅 2015-04-29
 
 ![Preview](https://raw.githubusercontent.com/mentionapp/mntpulltoreact/master/README/mention-example.gif)
 
@@ -419,15 +419,15 @@ GrowLine
 
 ![MEVHorizontalContacts](https://cloud.githubusercontent.com/assets/1849990/15137846/645a0d18-168c-11e6-96e2-651d8f8de3b0.gif)
 
-<https://github.com/Ramotion/preview-transition> ⭐ 2,071 | 🐛 4 | 🌐 Swift | 📅 2020-04-06
+<https://github.com/Ramotion/preview-transition> ⭐ 2,070 | 🐛 4 | 🌐 Swift | 📅 2020-04-06
 
 ![PreviewTransition](https://github.com/Ramotion/preview-transition/blob/master/preview.gif)
 
-<https://github.com/Ramotion/expanding-collection> ⭐ 5,511 | 🐛 25 | 🌐 Swift | 📅 2020-04-06
+<https://github.com/Ramotion/expanding-collection> ⭐ 5,510 | 🐛 25 | 🌐 Swift | 📅 2020-04-06
 
 ![PreviewTransition](https://github.com/Ramotion/expanding-collection/blob/master/preview.gif)
 
-<https://github.com/Ramotion/folding-cell> ⭐ 10,169 | 🐛 12 | 🌐 Swift | 📅 2024-04-28
+<https://github.com/Ramotion/folding-cell> ⭐ 10,167 | 🐛 12 | 🌐 Swift | 📅 2024-04-28
 
 ![](https://raw.githubusercontent.com/Ramotion/folding-cell/master/Screenshots/folding-cell.gif)
 
@@ -447,13 +447,13 @@ GrowLine
 
 ![WXWaveView](http://welkin-xie.oss-cn-shenzhen.aliyuncs.com/github/wave.gif)
 
-<https://github.com/BohdanOrlov/BouncyPageViewController> ⭐ 836 | 🐛 0 | 🌐 Swift | 📅 2018-07-30
+<https://github.com/BohdanOrlov/BouncyPageViewController> ⭐ 835 | 🐛 0 | 🌐 Swift | 📅 2018-07-30
 
 ![BouncyPageViewController](https://raw.githubusercontent.com/BohdanOrlov/BouncyPageViewController/master/GIFs/dribble.gif)
 
 ![BouncyPageViewController](https://raw.githubusercontent.com/BohdanOrlov/BouncyPageViewController/master/GIFs/bouncyDemo.gif)
 
-<https://github.com/orazz/CreditCardForm-iOS> ⭐ 1,463 | 🐛 6 | 🌐 Swift | 📅 2020-05-30
+<https://github.com/orazz/CreditCardForm-iOS> ⭐ 1,462 | 🐛 6 | 🌐 Swift | 📅 2020-05-30
 
 ![CreditCardForm-iOS](https://raw.githubusercontent.com/orazz/CreditCardForm-iOS/master/Example/Screens/CreditCardDemo.gif)
 
@@ -466,7 +466,7 @@ GrowLine
 ![](https://raw.githubusercontent.com/younatics/YNDropDownMenu/master/Images/YNDropDownMenu.gif)
 ![](https://raw.githubusercontent.com/younatics/YNDropDownMenu/master/Images/YNDropDownMenu2.gif)
 
-<https://github.com/marcosgriselli/ViewAnimator> ⭐ 7,304 | 🐛 12 | 🌐 Swift | 📅 2024-03-31
+<https://github.com/marcosgriselli/ViewAnimator> ⭐ 7,303 | 🐛 12 | 🌐 Swift | 📅 2024-03-31
 
 ![entireView](https://cdn.rawgit.com/marcosgriselli/ViewAnimator/cf065e96/Resources/entireView.svg)
 ![horizontal](https://cdn.rawgit.com/marcosgriselli/ViewAnimator/cf065e96/Resources/horizontal.svg)
@@ -489,7 +489,7 @@ GrowLine
 ![效果图](https://raw.githubusercontent.com/loopeer/AlertTransition/master/Media/BubbleTransition.gif)
 ![效果图](https://raw.githubusercontent.com/loopeer/AlertTransition/master/Media/StarWarsTransition.gif)
 
-<https://github.com/CosmicMind/Material> ⭐ 12,015 | 🐛 37 | 🌐 Swift | 📅 2022-05-16
+<https://github.com/CosmicMind/Material> ⭐ 12,016 | 🐛 37 | 🌐 Swift | 📅 2022-05-16
 
 <https://github.com/CosmicMind/Motion> ⭐ 1,778 | 🐛 4 | 🌐 Swift | 📅 2020-01-28
 
@@ -547,10 +547,10 @@ GrowLine
 
 ![img](https://github.com/Yalantis/Segmentio/raw/master/Assets/animation.gif)
 
-<https://github.com/Yalantis/DisplaySwitcher> ⭐ 2,297 | 🐛 12 | 🌐 Swift | 📅 2021-07-15
+<https://github.com/Yalantis/DisplaySwitcher> ⭐ 2,296 | 🐛 12 | 🌐 Swift | 📅 2021-07-15
 
 ![](https://github.com/Yalantis/DisplaySwitcher/raw/master/Assets/animation.gif)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
