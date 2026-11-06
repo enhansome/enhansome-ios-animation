@@ -40,7 +40,7 @@
             "open_issues": 4,
             "owner": "schneiderandre",
             "repo": "popping",
-            "stars": 5495,
+            "stars": 5494,
             "topics": [
               "animation",
               "objective-c",
@@ -66,7 +66,7 @@
             "open_issues": 165,
             "owner": "MengTo",
             "repo": "Spring",
-            "stars": 14057,
+            "stars": 14056,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -87,7 +87,7 @@
             "open_issues": 20,
             "owner": "AladinWay",
             "repo": "TransitionButton",
-            "stars": 1475,
+            "stars": 1474,
             "topics": [
               "animation",
               "button",
@@ -255,7 +255,7 @@
             "open_issues": 14,
             "owner": "IFTTT",
             "repo": "JazzHands",
-            "stars": 6351,
+            "stars": 6350,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -276,7 +276,7 @@
             "open_issues": 1,
             "owner": "shu223",
             "repo": "AnimatedTransitionGallery",
-            "stars": 2500,
+            "stars": 2499,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -297,7 +297,7 @@
             "open_issues": 11,
             "owner": "Rightpoint",
             "repo": "RZTransitions",
-            "stars": 1855,
+            "stars": 1854,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -318,7 +318,7 @@
             "open_issues": 14,
             "owner": "Yalantis",
             "repo": "FoldingTabBar.iOS",
-            "stars": 3657,
+            "stars": 3656,
             "topics": [
               "animation",
               "carthage",
@@ -384,7 +384,7 @@
             "open_issues": 3,
             "owner": "Yalantis",
             "repo": "Context-Menu.iOS",
-            "stars": 1819,
+            "stars": 1817,
             "topics": [
               "animation",
               "context-menu",
@@ -481,7 +481,7 @@
             "open_issues": 9,
             "owner": "Yalantis",
             "repo": "Pull-to-Refresh.Rentals-iOS",
-            "stars": 2113,
+            "stars": 2112,
             "topics": [
               "animation",
               "cocoapods",
@@ -698,7 +698,7 @@
             "open_issues": 18,
             "owner": "Ramotion",
             "repo": "animated-tab-bar",
-            "stars": 11083,
+            "stars": 11082,
             "topics": [
               "animation",
               "ios",
@@ -726,7 +726,7 @@
             "open_issues": 3,
             "owner": "andreamazz",
             "repo": "BubbleTransition",
-            "stars": 3294,
+            "stars": 3293,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -844,7 +844,7 @@
             "open_issues": 2,
             "owner": "cwRichardKim",
             "repo": "RKSwipeCards",
-            "stars": 2152,
+            "stars": 2151,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -865,7 +865,7 @@
             "open_issues": 1,
             "owner": "johnvuko",
             "repo": "JTMaterialTransition",
-            "stars": 949,
+            "stars": 948,
             "topics": [
               "ios",
               "ios-transition",
@@ -1360,7 +1360,7 @@
             "open_issues": 1,
             "owner": "ninjaprox",
             "repo": "NVActivityIndicatorView",
-            "stars": 10701,
+            "stars": 10702,
             "topics": [
               "animation",
               "carthage",
@@ -2059,7 +2059,7 @@
             "open_issues": 0,
             "owner": "BohdanOrlov",
             "repo": "BouncyPageViewController",
-            "stars": 835,
+            "stars": 834,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -2127,7 +2127,7 @@
             "open_issues": 8,
             "owner": "younatics",
             "repo": "YNDropDownMenu",
-            "stars": 1327,
+            "stars": 1326,
             "topics": [
               "carthage",
               "cocoapods",
@@ -2240,7 +2240,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12016,
+            "stars": 12017,
             "topics": [
               "animation",
               "card",
@@ -2472,7 +2472,7 @@
             "open_issues": 6,
             "owner": "brefchan",
             "repo": "CCFoldCell",
-            "stars": 481,
+            "stars": 480,
             "topics": [
               "animation",
               "ios",
@@ -2497,7 +2497,7 @@
             "open_issues": 45,
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26926,
+            "stars": 26927,
             "topics": [
               "animation",
               "bodymovin",
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T23:03:55.609Z",
+    "last_updated": "2026-11-06T22:33:53.824Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
@@ -2589,7 +2589,7 @@
       "open_issues": 1,
       "owner": "v5tech",
       "repo": "awesome-ios-animation",
-      "stars": 5473,
+      "stars": 5474,
       "topics": [
         "animations",
         "ios-animation",
