@@ -224,7 +224,7 @@ Rotation
 ![](https://raw.githubusercontent.com/andreamazz/UITextField-Shake/master/assets/logo.png)
 ![UITextField+Shake](https://raw.githubusercontent.com/andreamazz/UITextField-Shake/master/assets/screenshot.gif)
 
-<https://github.com/recruit-mp/RMPZoomTransitionAnimator> ⭐ 1,688 | 🐛 11 | 🌐 Objective-C | 📅 2017-08-23
+<https://github.com/recruit-mp/RMPZoomTransitionAnimator> ⭐ 1,687 | 🐛 11 | 🌐 Objective-C | 📅 2017-08-23
 
 ![Screen shot](https://raw.githubusercontent.com/recruit-mp/RMPZoomTransitionAnimator/master/docs/collectionview.gif)
 ![Screen shot](https://raw.githubusercontent.com/recruit-mp/RMPZoomTransitionAnimator/master/docs/tableview.gif)
@@ -322,7 +322,7 @@ Rotation
 ![anim.gif](https://raw.githubusercontent.com/yoavlt/LiquidFloatingActionButton/master/Demo/top.gif)
 ![anim.gif](https://raw.githubusercontent.com/yoavlt/LiquidFloatingActionButton/master/Demo/customizable.gif)
 
-<https://github.com/ninjaprox/NVActivityIndicatorView> ⭐ 10,702 | 🐛 1 | 🌐 Swift | 📅 2026-03-18
+<https://github.com/ninjaprox/NVActivityIndicatorView> ⭐ 10,703 | 🐛 1 | 🌐 Swift | 📅 2026-03-18
 
 ![anim.gif](https://raw.githubusercontent.com/ninjaprox/NVActivityIndicatorView/master/Demo.gif)
 
@@ -427,7 +427,7 @@ GrowLine
 
 ![PreviewTransition](https://github.com/Ramotion/expanding-collection/blob/master/preview.gif)
 
-<https://github.com/Ramotion/folding-cell> ⭐ 10,166 | 🐛 12 | 🌐 Swift | 📅 2024-04-28
+<https://github.com/Ramotion/folding-cell> ⭐ 10,167 | 🐛 12 | 🌐 Swift | 📅 2024-04-28
 
 ![](https://raw.githubusercontent.com/Ramotion/folding-cell/master/Screenshots/folding-cell.gif)
 
@@ -537,7 +537,7 @@ GrowLine
 
 ![image](https://github.com/bref-Chan/CCFoldCell/blob/master/image/CCFoldCell.gif)
 
-<https://github.com/airbnb/lottie-ios> ⭐ 26,929 | 🐛 45 | 🌐 Swift | 📅 2026-10-06
+<https://github.com/airbnb/lottie-ios> ⭐ 26,930 | 🐛 45 | 🌐 Swift | 📅 2026-10-06
 
 ![img1](https://github.com/airbnb/lottie-ios/raw/master/_Gifs/Examples1.gif)
 ![img2](https://github.com/airbnb/lottie-ios/raw/master/_Gifs/Examples2.gif)
@@ -547,10 +547,10 @@ GrowLine
 
 ![img](https://github.com/Yalantis/Segmentio/raw/master/Assets/animation.gif)
 
-<https://github.com/Yalantis/DisplaySwitcher> ⭐ 2,296 | 🐛 12 | 🌐 Swift | 📅 2021-07-15
+<https://github.com/Yalantis/DisplaySwitcher> ⭐ 2,297 | 🐛 12 | 🌐 Swift | 📅 2021-07-15
 
 ![](https://github.com/Yalantis/DisplaySwitcher/raw/master/Assets/animation.gif)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
