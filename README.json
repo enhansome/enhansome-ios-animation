@@ -66,7 +66,7 @@
             "open_issues": 165,
             "owner": "MengTo",
             "repo": "Spring",
-            "stars": 14055,
+            "stars": 14056,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -865,7 +865,7 @@
             "open_issues": 1,
             "owner": "johnvuko",
             "repo": "JTMaterialTransition",
-            "stars": 948,
+            "stars": 947,
             "topics": [
               "ios",
               "ios-transition",
@@ -1339,7 +1339,7 @@
             "open_issues": 53,
             "owner": "yoavlt",
             "repo": "LiquidFloatingActionButton",
-            "stars": 3836,
+            "stars": 3835,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1935,7 +1935,7 @@
             "open_issues": 12,
             "owner": "Ramotion",
             "repo": "folding-cell",
-            "stars": 10167,
+            "stars": 10168,
             "topics": [
               "animation",
               "ios",
@@ -2240,7 +2240,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12017,
+            "stars": 12016,
             "topics": [
               "animation",
               "card",
@@ -2417,7 +2417,7 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2022-06-01T06:20:38Z",
-            "open_issues": 27,
+            "open_issues": 26,
             "owner": "Ramotion",
             "repo": "fluid-slider",
             "stars": 1985,
@@ -2497,7 +2497,7 @@
             "open_issues": 45,
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26930,
+            "stars": 26931,
             "topics": [
               "animation",
               "bodymovin",
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T21:29:54.146Z",
+    "last_updated": "2026-11-10T00:59:55.309Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
@@ -2589,7 +2589,7 @@
       "open_issues": 1,
       "owner": "v5tech",
       "repo": "awesome-ios-animation",
-      "stars": 5474,
+      "stars": 5473,
       "topics": [
         "animations",
         "ios-animation",
