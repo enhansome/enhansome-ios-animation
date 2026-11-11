@@ -318,7 +318,7 @@
             "open_issues": 14,
             "owner": "Yalantis",
             "repo": "FoldingTabBar.iOS",
-            "stars": 3655,
+            "stars": 3654,
             "topics": [
               "animation",
               "carthage",
@@ -350,7 +350,7 @@
             "open_issues": 3,
             "owner": "Yalantis",
             "repo": "Side-Menu.iOS",
-            "stars": 2707,
+            "stars": 2706,
             "topics": [
               "animation",
               "cocoapods",
@@ -446,7 +446,7 @@
             "open_issues": 2,
             "owner": "Yalantis",
             "repo": "Persei",
-            "stars": 3420,
+            "stars": 3419,
             "topics": [
               "animation",
               "carthage",
@@ -604,7 +604,7 @@
             "open_issues": 6,
             "owner": "Yalantis",
             "repo": "StarWars.iOS",
-            "stars": 3758,
+            "stars": 3757,
             "topics": [
               "animation",
               "ios",
@@ -698,7 +698,7 @@
             "open_issues": 18,
             "owner": "Ramotion",
             "repo": "animated-tab-bar",
-            "stars": 11082,
+            "stars": 11081,
             "topics": [
               "animation",
               "ios",
@@ -1234,7 +1234,7 @@
             "open_issues": 25,
             "owner": "lexrus",
             "repo": "LTMorphingLabel",
-            "stars": 8130,
+            "stars": 8131,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1360,7 +1360,7 @@
             "open_issues": 1,
             "owner": "ninjaprox",
             "repo": "NVActivityIndicatorView",
-            "stars": 10704,
+            "stars": 10705,
             "topics": [
               "animation",
               "carthage",
@@ -1935,7 +1935,7 @@
             "open_issues": 12,
             "owner": "Ramotion",
             "repo": "folding-cell",
-            "stars": 10169,
+            "stars": 10168,
             "topics": [
               "animation",
               "ios",
@@ -2281,7 +2281,7 @@
             "open_issues": 4,
             "owner": "CosmicMind",
             "repo": "Motion",
-            "stars": 1778,
+            "stars": 1779,
             "topics": [
               "animation",
               "cosmicmind",
@@ -2497,7 +2497,7 @@
             "open_issues": 45,
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26936,
+            "stars": 26940,
             "topics": [
               "animation",
               "bodymovin",
@@ -2557,7 +2557,7 @@
             "open_issues": 12,
             "owner": "Yalantis",
             "repo": "DisplaySwitcher",
-            "stars": 2297,
+            "stars": 2296,
             "topics": [
               "animation",
               "cocoapods",
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T22:40:18.163Z",
+    "last_updated": "2026-11-11T23:52:51.016Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
@@ -2589,7 +2589,7 @@
       "open_issues": 1,
       "owner": "v5tech",
       "repo": "awesome-ios-animation",
-      "stars": 5473,
+      "stars": 5474,
       "topics": [
         "animations",
         "ios-animation",
