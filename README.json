@@ -19,7 +19,7 @@
             "open_issues": 58,
             "owner": "facebookarchive",
             "repo": "pop",
-            "stars": 19503,
+            "stars": 19502,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -446,7 +446,7 @@
             "open_issues": 2,
             "owner": "Yalantis",
             "repo": "Persei",
-            "stars": 3419,
+            "stars": 3418,
             "topics": [
               "animation",
               "carthage",
@@ -512,7 +512,7 @@
             "open_issues": 4,
             "owner": "Yalantis",
             "repo": "PullToMakeSoup",
-            "stars": 1909,
+            "stars": 1908,
             "topics": [
               "animation",
               "carthage",
@@ -698,7 +698,7 @@
             "open_issues": 18,
             "owner": "Ramotion",
             "repo": "animated-tab-bar",
-            "stars": 11081,
+            "stars": 11083,
             "topics": [
               "animation",
               "ios",
@@ -1230,11 +1230,11 @@
             "id": 21190654,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-03-08T00:04:57Z",
+            "last_commit": "2026-11-12T02:21:27Z",
             "open_issues": 25,
             "owner": "lexrus",
             "repo": "LTMorphingLabel",
-            "stars": 8131,
+            "stars": 8132,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1276,7 +1276,7 @@
             "open_issues": 8,
             "owner": "zhxnlai",
             "repo": "ZLSwipeableViewSwift",
-            "stars": 2245,
+            "stars": 2246,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1360,7 +1360,7 @@
             "open_issues": 1,
             "owner": "ninjaprox",
             "repo": "NVActivityIndicatorView",
-            "stars": 10705,
+            "stars": 10708,
             "topics": [
               "animation",
               "carthage",
@@ -1392,7 +1392,7 @@
             "id": 40348516,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2019-12-04T12:29:02Z",
+            "last_commit": "2026-11-12T18:01:29Z",
             "open_issues": 9,
             "owner": "takuoka",
             "repo": "TKSubmitTransition",
@@ -1653,7 +1653,7 @@
             "open_issues": 17,
             "owner": "ephread",
             "repo": "Instructions",
-            "stars": 5198,
+            "stars": 5196,
             "topics": [
               "coach-marks",
               "tour",
@@ -1730,7 +1730,7 @@
             "open_issues": 19,
             "owner": "12207480",
             "repo": "TYAlertController",
-            "stars": 1303,
+            "stars": 1302,
             "topics": [
               "alert",
               "alertcontroller",
@@ -1935,7 +1935,7 @@
             "open_issues": 12,
             "owner": "Ramotion",
             "repo": "folding-cell",
-            "stars": 10168,
+            "stars": 10169,
             "topics": [
               "animation",
               "ios",
@@ -2080,7 +2080,7 @@
             "open_issues": 6,
             "owner": "orazz",
             "repo": "CreditCardForm-iOS",
-            "stars": 1462,
+            "stars": 1463,
             "topics": [
               "credit-card",
               "creditcardform",
@@ -2159,7 +2159,7 @@
             "open_issues": 12,
             "owner": "marcosgriselli",
             "repo": "ViewAnimator",
-            "stars": 7303,
+            "stars": 7302,
             "topics": [
               "animations",
               "ios",
@@ -2240,7 +2240,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12018,
+            "stars": 12019,
             "topics": [
               "animation",
               "card",
@@ -2390,10 +2390,10 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2024-07-29T11:24:25Z",
-            "open_issues": 35,
+            "open_issues": 36,
             "owner": "Daltron",
             "repo": "NotificationBanner",
-            "stars": 4860,
+            "stars": 4856,
             "topics": [
               "ios",
               "ios-animation",
@@ -2497,7 +2497,7 @@
             "open_issues": 45,
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26940,
+            "stars": 26943,
             "topics": [
               "animation",
               "bodymovin",
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T23:52:51.016Z",
+    "last_updated": "2026-11-12T23:00:10.909Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
@@ -2589,7 +2589,7 @@
       "open_issues": 1,
       "owner": "v5tech",
       "repo": "awesome-ios-animation",
-      "stars": 5474,
+      "stars": 5476,
       "topics": [
         "animations",
         "ios-animation",
