@@ -63,10 +63,10 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2023-07-03T14:28:34Z",
-            "open_issues": 165,
+            "open_issues": 163,
             "owner": "MengTo",
             "repo": "Spring",
-            "stars": 14056,
+            "stars": 14054,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -572,7 +572,7 @@
             "open_issues": 50,
             "owner": "Yalantis",
             "repo": "Koloda",
-            "stars": 5387,
+            "stars": 5385,
             "topics": [
               "animation",
               "cards",
@@ -1339,7 +1339,7 @@
             "open_issues": 53,
             "owner": "yoavlt",
             "repo": "LiquidFloatingActionButton",
-            "stars": 3835,
+            "stars": 3834,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T23:03:28.760Z",
+    "last_updated": "2026-11-14T21:50:07.923Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",

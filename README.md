@@ -16,7 +16,7 @@ A curated list of awesome iOS animation, including Objective-C and Swift librari
 
 ![popping](https://d2ffutrenqvap3.cloudfront.net/items/2l3M18193q311E3o353W/popping.gif)
 
-<https://github.com/MengTo/Spring> ⭐ 14,056 | 🐛 165 | 🌐 Swift | 📅 2023-07-03
+<https://github.com/MengTo/Spring> ⭐ 14,054 | 🐛 163 | 🌐 Swift | 📅 2023-07-03
 
 ![](http://cl.ly/image/3a1r1d3l3D1j/spring-logo.jpg)
 
@@ -143,7 +143,7 @@ Rotation
 
 ![](https://raw.githubusercontent.com/Yalantis/PullToMakeFlight/master/PullToMakeFlightDemo/Resources/tours-pull-airplane.gif)
 
-<https://github.com/Yalantis/Koloda> ⭐ 5,387 | 🐛 50 | 🌐 Swift | 📅 2024-05-29
+<https://github.com/Yalantis/Koloda> ⭐ 5,385 | 🐛 50 | 🌐 Swift | 📅 2024-05-29
 
 ![Preview](https://github.com/Yalantis/Koloda/blob/master/Koloda_v2_example_animation.gif)
 ![Preview](https://github.com/Yalantis/Koloda/blob/master/Koloda_v1_example_animation.gif)
@@ -317,7 +317,7 @@ Rotation
 
 ![anim.gif](http://i.giphy.com/3o85xyoYepG177Bhte.gif)
 
-<https://github.com/yoavlt/LiquidFloatingActionButton> ⭐ 3,835 | 🐛 53 | 🌐 Swift | 📅 2022-07-08
+<https://github.com/yoavlt/LiquidFloatingActionButton> ⭐ 3,834 | 🐛 53 | 🌐 Swift | 📅 2022-07-08
 
 ![anim.gif](https://raw.githubusercontent.com/yoavlt/LiquidFloatingActionButton/master/Demo/top.gif)
 ![anim.gif](https://raw.githubusercontent.com/yoavlt/LiquidFloatingActionButton/master/Demo/customizable.gif)
@@ -553,4 +553,4 @@ GrowLine
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
