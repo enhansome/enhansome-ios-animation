@@ -1935,7 +1935,7 @@
             "open_issues": 12,
             "owner": "Ramotion",
             "repo": "folding-cell",
-            "stars": 10170,
+            "stars": 10171,
             "topics": [
               "animation",
               "ios",
@@ -2127,7 +2127,7 @@
             "open_issues": 8,
             "owner": "younatics",
             "repo": "YNDropDownMenu",
-            "stars": 1326,
+            "stars": 1325,
             "topics": [
               "carthage",
               "cocoapods",
@@ -2240,7 +2240,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12020,
+            "stars": 12021,
             "topics": [
               "animation",
               "card",
@@ -2497,7 +2497,7 @@
             "open_issues": 45,
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26942,
+            "stars": 26941,
             "topics": [
               "animation",
               "bodymovin",
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T21:50:07.923Z",
+    "last_updated": "2026-11-15T22:18:29.189Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
@@ -2589,7 +2589,7 @@
       "open_issues": 1,
       "owner": "v5tech",
       "repo": "awesome-ios-animation",
-      "stars": 5476,
+      "stars": 5477,
       "topics": [
         "animations",
         "ios-animation",
