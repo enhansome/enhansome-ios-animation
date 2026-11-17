@@ -83,7 +83,7 @@ Rotation
 
 <https://github.com/matthewcheok/POP-MCAnimate> ⭐ 938 | 🐛 8 | 🌐 Objective-C | 📅 2017-04-08
 
-<https://github.com/jhurray/JHChainableAnimations> ⭐ 3,196 | 🐛 10 | 🌐 Objective-C | 📅 2018-01-04
+<https://github.com/jhurray/JHChainableAnimations> ⭐ 3,196 | 🐛 11 | 🌐 Objective-C | 📅 2018-01-04
 
 ![](https://github.com/jhurray/JHChainableAnimations/raw/master/img/logo.png)
 ![](https://raw.githubusercontent.com/jhurray/JHChainableAnimations/master/img/JHChainableAnimationsExample1.png)
@@ -271,7 +271,7 @@ Rotation
 
 ![twitter bird animation](http://media.tumblr.com/10cc0ba92377a2cba9fb35c9943fd2ca/tumblr_inline_n6zpokNxpC1qh9cw7.gif)
 
-<https://github.com/haaakon/SingleLineShakeAnimation> ⭐ 305 | 🐛 1 | 🌐 Swift | 📅 2026-05-11
+<https://github.com/haaakon/SingleLineShakeAnimation> ⭐ 306 | 🐛 1 | 🌐 Swift | 📅 2026-05-11
 
 ![](https://raw.githubusercontent.com/haaakon/SingleLineShakeAnimation/master/example.gif)
 
@@ -322,7 +322,7 @@ Rotation
 ![anim.gif](https://raw.githubusercontent.com/yoavlt/LiquidFloatingActionButton/master/Demo/top.gif)
 ![anim.gif](https://raw.githubusercontent.com/yoavlt/LiquidFloatingActionButton/master/Demo/customizable.gif)
 
-<https://github.com/ninjaprox/NVActivityIndicatorView> ⭐ 10,709 | 🐛 1 | 🌐 Swift | 📅 2026-03-18
+<https://github.com/ninjaprox/NVActivityIndicatorView> ⭐ 10,712 | 🐛 1 | 🌐 Swift | 📅 2026-03-18
 
 ![anim.gif](https://raw.githubusercontent.com/ninjaprox/NVActivityIndicatorView/master/Demo.gif)
 
@@ -385,7 +385,7 @@ GrowLine
 
 ![Instructions Demo](http://i.imgur.com/JUlQH9F.gif)
 
-<https://github.com/mentionapp/mntpulltoreact> ⭐ 764 | 🐛 0 | 🌐 Objective-C | 📅 2015-04-29
+<https://github.com/mentionapp/mntpulltoreact> ⭐ 763 | 🐛 0 | 🌐 Objective-C | 📅 2015-04-29
 
 ![Preview](https://raw.githubusercontent.com/mentionapp/mntpulltoreact/master/README/mention-example.gif)
 
@@ -497,7 +497,7 @@ GrowLine
 
 ![samuraitransitiondemo](https://cloud.githubusercontent.com/assets/1317847/22860410/512cbee0-f140-11e6-9485-97c6907afa05.gif)
 
-<https://github.com/eggswift/ESTabBarController> ⭐ 5,221 | 🐛 40 | 🌐 Swift | 📅 2023-05-09
+<https://github.com/eggswift/ESTabBarController> ⭐ 5,222 | 🐛 40 | 🌐 Swift | 📅 2023-05-09
 
 ![](https://raw.githubusercontent.com/eggswift/ESTabBarController/master/Resources/CustomSelectStyleGif.gif)
 ![](https://raw.githubusercontent.com/eggswift/ESTabBarController/master/Resources/CustomSelectAnimateGif.gif)
@@ -537,7 +537,7 @@ GrowLine
 
 ![image](https://github.com/bref-Chan/CCFoldCell/blob/master/image/CCFoldCell.gif)
 
-<https://github.com/airbnb/lottie-ios> ⭐ 26,941 | 🐛 45 | 🌐 Swift | 📅 2026-10-06
+<https://github.com/airbnb/lottie-ios> ⭐ 26,944 | 🐛 46 | 🌐 Swift | 📅 2026-10-06
 
 ![img1](https://github.com/airbnb/lottie-ios/raw/master/_Gifs/Examples1.gif)
 ![img2](https://github.com/airbnb/lottie-ios/raw/master/_Gifs/Examples2.gif)
@@ -553,4 +553,4 @@ GrowLine
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
