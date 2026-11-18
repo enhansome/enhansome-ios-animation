@@ -16,7 +16,7 @@ A curated list of awesome iOS animation, including Objective-C and Swift librari
 
 ![popping](https://d2ffutrenqvap3.cloudfront.net/items/2l3M18193q311E3o353W/popping.gif)
 
-<https://github.com/MengTo/Spring> ⭐ 14,054 | 🐛 163 | 🌐 Swift | 📅 2023-07-03
+<https://github.com/MengTo/Spring> ⭐ 14,055 | 🐛 163 | 🌐 Swift | 📅 2023-07-03
 
 ![](http://cl.ly/image/3a1r1d3l3D1j/spring-logo.jpg)
 
@@ -162,7 +162,7 @@ Rotation
 ![Preview](https://raw.githubusercontent.com/Yalantis/Ophiuchus/master/Example/Ophiuchus/Resources/animation.gif)
 ![The Green Horse](https://raw.githubusercontent.com/Yalantis/Ophiuchus/master/Example/Ophiuchus/Resources/thegreenhorse.gif)
 
-<https://github.com/Ramotion/animated-tab-bar> ⭐ 11,082 | 🐛 18 | 🌐 Swift | 📅 2022-01-26
+<https://github.com/Ramotion/animated-tab-bar> ⭐ 11,083 | 🐛 18 | 🌐 Swift | 📅 2022-01-26
 
 ![](https://raw.githubusercontent.com/Ramotion/animated-tab-bar/master/Screenshots/tab-bar-icons-iphone-ramotion-animation-interface-design.gif)
 
@@ -322,7 +322,7 @@ Rotation
 ![anim.gif](https://raw.githubusercontent.com/yoavlt/LiquidFloatingActionButton/master/Demo/top.gif)
 ![anim.gif](https://raw.githubusercontent.com/yoavlt/LiquidFloatingActionButton/master/Demo/customizable.gif)
 
-<https://github.com/ninjaprox/NVActivityIndicatorView> ⭐ 10,712 | 🐛 1 | 🌐 Swift | 📅 2026-03-18
+<https://github.com/ninjaprox/NVActivityIndicatorView> ⭐ 10,713 | 🐛 1 | 🌐 Swift | 📅 2026-03-18
 
 ![anim.gif](https://raw.githubusercontent.com/ninjaprox/NVActivityIndicatorView/master/Demo.gif)
 
@@ -427,7 +427,7 @@ GrowLine
 
 ![PreviewTransition](https://github.com/Ramotion/expanding-collection/blob/master/preview.gif)
 
-<https://github.com/Ramotion/folding-cell> ⭐ 10,172 | 🐛 12 | 🌐 Swift | 📅 2024-04-28
+<https://github.com/Ramotion/folding-cell> ⭐ 10,173 | 🐛 12 | 🌐 Swift | 📅 2024-04-28
 
 ![](https://raw.githubusercontent.com/Ramotion/folding-cell/master/Screenshots/folding-cell.gif)
 
@@ -461,7 +461,7 @@ GrowLine
 
 ![RainyRefreshControl](https://raw.githubusercontent.com/Onix-Systems/RainyRefreshControl/master/gif/umbrella_refresh.gif)
 
-<https://github.com/younatics/YNDropDownMenu> ⭐ 1,325 | 🐛 8 | 🌐 Swift | 📅 2026-10-24
+<https://github.com/younatics/YNDropDownMenu> ⭐ 1,326 | 🐛 8 | 🌐 Swift | 📅 2026-10-24
 
 ![](https://raw.githubusercontent.com/younatics/YNDropDownMenu/master/Images/YNDropDownMenu.gif)
 ![](https://raw.githubusercontent.com/younatics/YNDropDownMenu/master/Images/YNDropDownMenu2.gif)
@@ -489,9 +489,9 @@ GrowLine
 ![效果图](https://raw.githubusercontent.com/loopeer/AlertTransition/master/Media/BubbleTransition.gif)
 ![效果图](https://raw.githubusercontent.com/loopeer/AlertTransition/master/Media/StarWarsTransition.gif)
 
-<https://github.com/CosmicMind/Material> ⭐ 12,021 | 🐛 37 | 🌐 Swift | 📅 2022-05-16
+<https://github.com/CosmicMind/Material> ⭐ 12,024 | 🐛 37 | 🌐 Swift | 📅 2022-05-16
 
-<https://github.com/CosmicMind/Motion> ⭐ 1,779 | 🐛 4 | 🌐 Swift | 📅 2020-01-28
+<https://github.com/CosmicMind/Motion> ⭐ 1,780 | 🐛 4 | 🌐 Swift | 📅 2020-01-28
 
 <https://github.com/hachinobu/SamuraiTransition> ⭐ 280 | 🐛 1 | 🌐 Swift | 📅 2026-07-16
 
@@ -537,7 +537,7 @@ GrowLine
 
 ![image](https://github.com/bref-Chan/CCFoldCell/blob/master/image/CCFoldCell.gif)
 
-<https://github.com/airbnb/lottie-ios> ⭐ 26,943 | 🐛 46 | 🌐 Swift | 📅 2026-10-06
+<https://github.com/airbnb/lottie-ios> ⭐ 26,947 | 🐛 46 | 🌐 Swift | 📅 2026-10-06
 
 ![img1](https://github.com/airbnb/lottie-ios/raw/master/_Gifs/Examples1.gif)
 ![img2](https://github.com/airbnb/lottie-ios/raw/master/_Gifs/Examples2.gif)

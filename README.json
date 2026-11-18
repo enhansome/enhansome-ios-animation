@@ -19,7 +19,7 @@
             "open_issues": 58,
             "owner": "facebookarchive",
             "repo": "pop",
-            "stars": 19502,
+            "stars": 19503,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -66,7 +66,7 @@
             "open_issues": 163,
             "owner": "MengTo",
             "repo": "Spring",
-            "stars": 14054,
+            "stars": 14055,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -698,7 +698,7 @@
             "open_issues": 18,
             "owner": "Ramotion",
             "repo": "animated-tab-bar",
-            "stars": 11082,
+            "stars": 11083,
             "topics": [
               "animation",
               "ios",
@@ -1360,7 +1360,7 @@
             "open_issues": 1,
             "owner": "ninjaprox",
             "repo": "NVActivityIndicatorView",
-            "stars": 10712,
+            "stars": 10713,
             "topics": [
               "animation",
               "carthage",
@@ -1935,7 +1935,7 @@
             "open_issues": 12,
             "owner": "Ramotion",
             "repo": "folding-cell",
-            "stars": 10172,
+            "stars": 10173,
             "topics": [
               "animation",
               "ios",
@@ -2127,7 +2127,7 @@
             "open_issues": 8,
             "owner": "younatics",
             "repo": "YNDropDownMenu",
-            "stars": 1325,
+            "stars": 1326,
             "topics": [
               "carthage",
               "cocoapods",
@@ -2240,7 +2240,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12021,
+            "stars": 12024,
             "topics": [
               "animation",
               "card",
@@ -2281,7 +2281,7 @@
             "open_issues": 4,
             "owner": "CosmicMind",
             "repo": "Motion",
-            "stars": 1779,
+            "stars": 1780,
             "topics": [
               "animation",
               "cosmicmind",
@@ -2497,7 +2497,7 @@
             "open_issues": 46,
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26943,
+            "stars": 26947,
             "topics": [
               "animation",
               "bodymovin",
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T00:15:48.231Z",
+    "last_updated": "2026-11-18T23:43:47.391Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
