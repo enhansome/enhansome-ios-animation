@@ -542,7 +542,7 @@
             "open_issues": 1,
             "owner": "Yalantis",
             "repo": "PullToMakeFlight",
-            "stars": 495,
+            "stars": 494,
             "topics": [
               "animation",
               "ios",
@@ -572,7 +572,7 @@
             "open_issues": 50,
             "owner": "Yalantis",
             "repo": "Koloda",
-            "stars": 5385,
+            "stars": 5386,
             "topics": [
               "animation",
               "cards",
@@ -604,7 +604,7 @@
             "open_issues": 6,
             "owner": "Yalantis",
             "repo": "StarWars.iOS",
-            "stars": 3757,
+            "stars": 3758,
             "topics": [
               "animation",
               "ios",
@@ -698,7 +698,7 @@
             "open_issues": 18,
             "owner": "Ramotion",
             "repo": "animated-tab-bar",
-            "stars": 11083,
+            "stars": 11082,
             "topics": [
               "animation",
               "ios",
@@ -1213,7 +1213,7 @@
             "open_issues": 8,
             "owner": "zipme",
             "repo": "RQShineLabel",
-            "stars": 1949,
+            "stars": 1948,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1234,7 +1234,7 @@
             "open_issues": 25,
             "owner": "lexrus",
             "repo": "LTMorphingLabel",
-            "stars": 8133,
+            "stars": 8132,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1569,7 +1569,7 @@
             "open_issues": 8,
             "owner": "yoavlt",
             "repo": "LiquidLoader",
-            "stars": 1323,
+            "stars": 1324,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1935,7 +1935,7 @@
             "open_issues": 12,
             "owner": "Ramotion",
             "repo": "folding-cell",
-            "stars": 10171,
+            "stars": 10172,
             "topics": [
               "animation",
               "ios",
@@ -1963,7 +1963,7 @@
             "open_issues": 1,
             "owner": "daltonclaybrook",
             "repo": "tween-controller",
-            "stars": 501,
+            "stars": 499,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -2080,7 +2080,7 @@
             "open_issues": 6,
             "owner": "orazz",
             "repo": "CreditCardForm-iOS",
-            "stars": 1463,
+            "stars": 1464,
             "topics": [
               "credit-card",
               "creditcardform",
@@ -2497,7 +2497,7 @@
             "open_issues": 46,
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26944,
+            "stars": 26943,
             "topics": [
               "animation",
               "bodymovin",
@@ -2528,7 +2528,7 @@
             "open_issues": 34,
             "owner": "Yalantis",
             "repo": "Segmentio",
-            "stars": 2514,
+            "stars": 2512,
             "topics": [
               "animation",
               "carthage",
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T01:19:38.573Z",
+    "last_updated": "2026-11-18T00:15:48.231Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
@@ -2589,7 +2589,7 @@
       "open_issues": 1,
       "owner": "v5tech",
       "repo": "awesome-ios-animation",
-      "stars": 5478,
+      "stars": 5477,
       "topics": [
         "animations",
         "ios-animation",
