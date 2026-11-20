@@ -66,7 +66,7 @@
             "open_issues": 163,
             "owner": "MengTo",
             "repo": "Spring",
-            "stars": 14055,
+            "stars": 14054,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -481,7 +481,7 @@
             "open_issues": 9,
             "owner": "Yalantis",
             "repo": "Pull-to-Refresh.Rentals-iOS",
-            "stars": 2111,
+            "stars": 2112,
             "topics": [
               "animation",
               "cocoapods",
@@ -604,7 +604,7 @@
             "open_issues": 6,
             "owner": "Yalantis",
             "repo": "StarWars.iOS",
-            "stars": 3756,
+            "stars": 3755,
             "topics": [
               "animation",
               "ios",
@@ -698,7 +698,7 @@
             "open_issues": 18,
             "owner": "Ramotion",
             "repo": "animated-tab-bar",
-            "stars": 11080,
+            "stars": 11078,
             "topics": [
               "animation",
               "ios",
@@ -1230,8 +1230,8 @@
             "id": 21190654,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-11-12T02:21:27Z",
-            "open_issues": 25,
+            "last_commit": "2026-11-20T11:40:19Z",
+            "open_issues": 24,
             "owner": "lexrus",
             "repo": "LTMorphingLabel",
             "stars": 8132,
@@ -1276,7 +1276,7 @@
             "open_issues": 8,
             "owner": "zhxnlai",
             "repo": "ZLSwipeableViewSwift",
-            "stars": 2246,
+            "stars": 2245,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1339,7 +1339,7 @@
             "open_issues": 53,
             "owner": "yoavlt",
             "repo": "LiquidFloatingActionButton",
-            "stars": 3833,
+            "stars": 3832,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -2240,7 +2240,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12023,
+            "stars": 12022,
             "topics": [
               "animation",
               "card",
@@ -2497,7 +2497,7 @@
             "open_issues": 47,
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26945,
+            "stars": 26946,
             "topics": [
               "animation",
               "bodymovin",
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T00:02:26.485Z",
+    "last_updated": "2026-11-20T23:30:25.225Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
@@ -2589,7 +2589,7 @@
       "open_issues": 1,
       "owner": "v5tech",
       "repo": "awesome-ios-animation",
-      "stars": 5476,
+      "stars": 5478,
       "topics": [
         "animations",
         "ios-animation",

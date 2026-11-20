@@ -16,7 +16,7 @@ A curated list of awesome iOS animation, including Objective-C and Swift librari
 
 ![popping](https://d2ffutrenqvap3.cloudfront.net/items/2l3M18193q311E3o353W/popping.gif)
 
-<https://github.com/MengTo/Spring> ⭐ 14,055 | 🐛 163 | 🌐 Swift | 📅 2023-07-03
+<https://github.com/MengTo/Spring> ⭐ 14,054 | 🐛 163 | 🌐 Swift | 📅 2023-07-03
 
 ![](http://cl.ly/image/3a1r1d3l3D1j/spring-logo.jpg)
 
@@ -131,7 +131,7 @@ Rotation
 
 ![Preview](https://raw.githubusercontent.com/Yalantis/Persei/master/Assets/animation.gif)
 
-<https://github.com/Yalantis/Pull-to-Refresh.Rentals-iOS> ⭐ 2,111 | 🐛 9 | 🌐 Objective-C | 📅 2018-06-16
+<https://github.com/Yalantis/Pull-to-Refresh.Rentals-iOS> ⭐ 2,112 | 🐛 9 | 🌐 Objective-C | 📅 2018-06-16
 
 ![](https://d13yacurqjgara.cloudfront.net/users/125056/screenshots/1650317/realestate-pull_1-2-3.gif)
 
@@ -148,7 +148,7 @@ Rotation
 ![Preview](https://github.com/Yalantis/Koloda/blob/master/Koloda_v2_example_animation.gif)
 ![Preview](https://github.com/Yalantis/Koloda/blob/master/Koloda_v1_example_animation.gif)
 
-<https://github.com/Yalantis/StarWars.iOS> ⭐ 3,756 | 🐛 6 | 🌐 Swift | 📅 2022-10-11
+<https://github.com/Yalantis/StarWars.iOS> ⭐ 3,755 | 🐛 6 | 🌐 Swift | 📅 2022-10-11
 
 ![](https://yalantis-com.s3.amazonaws.com/uploads/ckeditor/pictures/49/content_star_wars-shot__1_.gif)
 
@@ -162,7 +162,7 @@ Rotation
 ![Preview](https://raw.githubusercontent.com/Yalantis/Ophiuchus/master/Example/Ophiuchus/Resources/animation.gif)
 ![The Green Horse](https://raw.githubusercontent.com/Yalantis/Ophiuchus/master/Example/Ophiuchus/Resources/thegreenhorse.gif)
 
-<https://github.com/Ramotion/animated-tab-bar> ⭐ 11,080 | 🐛 18 | 🌐 Swift | 📅 2022-01-26
+<https://github.com/Ramotion/animated-tab-bar> ⭐ 11,078 | 🐛 18 | 🌐 Swift | 📅 2022-01-26
 
 ![](https://raw.githubusercontent.com/Ramotion/animated-tab-bar/master/Screenshots/tab-bar-icons-iphone-ramotion-animation-interface-design.gif)
 
@@ -279,7 +279,7 @@ Rotation
 
 ![image](https://raw.githubusercontent.com/zipme/RQShineLabel/master/Screenshots/rqshinelabel.gif)
 
-<https://github.com/lexrus/LTMorphingLabel> ⭐ 8,132 | 🐛 25 | 🌐 Swift | 📅 2026-11-12
+<https://github.com/lexrus/LTMorphingLabel> ⭐ 8,132 | 🐛 24 | 🌐 Swift | 📅 2026-11-20
 
 ![](https://cloud.githubusercontent.com/assets/219689/3491822/96bf5de6-059d-11e4-9826-a6f82025d1af.gif)
 ![](https://cloud.githubusercontent.com/assets/219689/3491838/ffc5aff2-059d-11e4-970c-6e2d7664785a.gif)
@@ -293,7 +293,7 @@ Rotation
 
 ![](https://raw.githubusercontent.com/wongzigii/WZDraggableSwitchHeaderView/master/GIF/WZAnimatingTransition.gif)
 
-<https://github.com/zhxnlai/ZLSwipeableViewSwift> ⭐ 2,246 | 🐛 8 | 🌐 Swift | 📅 2023-06-16
+<https://github.com/zhxnlai/ZLSwipeableViewSwift> ⭐ 2,245 | 🐛 8 | 🌐 Swift | 📅 2023-06-16
 
 ![direction](https://raw.githubusercontent.com/zhxnlai/ZLSwipeableViewSwift/master/Previews/animation.gif)
 
@@ -317,7 +317,7 @@ Rotation
 
 ![anim.gif](http://i.giphy.com/3o85xyoYepG177Bhte.gif)
 
-<https://github.com/yoavlt/LiquidFloatingActionButton> ⭐ 3,833 | 🐛 53 | 🌐 Swift | 📅 2022-07-08
+<https://github.com/yoavlt/LiquidFloatingActionButton> ⭐ 3,832 | 🐛 53 | 🌐 Swift | 📅 2022-07-08
 
 ![anim.gif](https://raw.githubusercontent.com/yoavlt/LiquidFloatingActionButton/master/Demo/top.gif)
 ![anim.gif](https://raw.githubusercontent.com/yoavlt/LiquidFloatingActionButton/master/Demo/customizable.gif)
@@ -489,7 +489,7 @@ GrowLine
 ![效果图](https://raw.githubusercontent.com/loopeer/AlertTransition/master/Media/BubbleTransition.gif)
 ![效果图](https://raw.githubusercontent.com/loopeer/AlertTransition/master/Media/StarWarsTransition.gif)
 
-<https://github.com/CosmicMind/Material> ⭐ 12,023 | 🐛 37 | 🌐 Swift | 📅 2022-05-16
+<https://github.com/CosmicMind/Material> ⭐ 12,022 | 🐛 37 | 🌐 Swift | 📅 2022-05-16
 
 <https://github.com/CosmicMind/Motion> ⭐ 1,781 | 🐛 4 | 🌐 Swift | 📅 2020-01-28
 
@@ -537,7 +537,7 @@ GrowLine
 
 ![image](https://github.com/bref-Chan/CCFoldCell/blob/master/image/CCFoldCell.gif)
 
-<https://github.com/airbnb/lottie-ios> ⭐ 26,945 | 🐛 47 | 🌐 Swift | 📅 2026-10-06
+<https://github.com/airbnb/lottie-ios> ⭐ 26,946 | 🐛 47 | 🌐 Swift | 📅 2026-10-06
 
 ![img1](https://github.com/airbnb/lottie-ios/raw/master/_Gifs/Examples1.gif)
 ![img2](https://github.com/airbnb/lottie-ios/raw/master/_Gifs/Examples2.gif)
