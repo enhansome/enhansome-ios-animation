@@ -698,7 +698,7 @@
             "open_issues": 18,
             "owner": "Ramotion",
             "repo": "animated-tab-bar",
-            "stars": 11078,
+            "stars": 11079,
             "topics": [
               "animation",
               "ios",
@@ -2497,7 +2497,7 @@
             "open_issues": 47,
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26946,
+            "stars": 26949,
             "topics": [
               "animation",
               "bodymovin",
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T23:30:25.225Z",
+    "last_updated": "2026-11-21T22:37:42.738Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
