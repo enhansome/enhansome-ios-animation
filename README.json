@@ -19,7 +19,7 @@
             "open_issues": 58,
             "owner": "facebookarchive",
             "repo": "pop",
-            "stars": 19502,
+            "stars": 19499,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -66,7 +66,7 @@
             "open_issues": 163,
             "owner": "MengTo",
             "repo": "Spring",
-            "stars": 14055,
+            "stars": 14054,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -186,7 +186,7 @@
             "open_issues": 8,
             "owner": "matthewcheok",
             "repo": "POP-MCAnimate",
-            "stars": 938,
+            "stars": 937,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -318,7 +318,7 @@
             "open_issues": 14,
             "owner": "Yalantis",
             "repo": "FoldingTabBar.iOS",
-            "stars": 3654,
+            "stars": 3653,
             "topics": [
               "animation",
               "carthage",
@@ -416,7 +416,7 @@
             "open_issues": 0,
             "owner": "Yalantis",
             "repo": "GuillotineMenu",
-            "stars": 2874,
+            "stars": 2873,
             "topics": [
               "animation",
               "cocoapods",
@@ -698,7 +698,7 @@
             "open_issues": 18,
             "owner": "Ramotion",
             "repo": "animated-tab-bar",
-            "stars": 11080,
+            "stars": 11078,
             "topics": [
               "animation",
               "ios",
@@ -796,7 +796,7 @@
             "open_issues": 1,
             "owner": "MartinRGB",
             "repo": "GiftCard-iOS",
-            "stars": 538,
+            "stars": 537,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1339,7 +1339,7 @@
             "open_issues": 53,
             "owner": "yoavlt",
             "repo": "LiquidFloatingActionButton",
-            "stars": 3832,
+            "stars": 3833,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1527,7 +1527,7 @@
             "open_issues": 5,
             "owner": "nshint",
             "repo": "uicollectionview-reordering",
-            "stars": 467,
+            "stars": 466,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -2339,7 +2339,7 @@
             "open_issues": 40,
             "owner": "eggswift",
             "repo": "ESTabBarController",
-            "stars": 5222,
+            "stars": 5221,
             "topics": [
               "animation",
               "ios",
@@ -2497,7 +2497,7 @@
             "open_issues": 47,
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26951,
+            "stars": 26950,
             "topics": [
               "animation",
               "bodymovin",
@@ -2557,7 +2557,7 @@
             "open_issues": 12,
             "owner": "Yalantis",
             "repo": "DisplaySwitcher",
-            "stars": 2296,
+            "stars": 2295,
             "topics": [
               "animation",
               "cocoapods",
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T03:39:10.858Z",
+    "last_updated": "2026-11-25T01:46:19.245Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
@@ -2589,7 +2589,7 @@
       "open_issues": 0,
       "owner": "v5tech",
       "repo": "awesome-ios-animation",
-      "stars": 5478,
+      "stars": 5479,
       "topics": [
         "animations",
         "ios-animation",
