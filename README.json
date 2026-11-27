@@ -66,7 +66,7 @@
             "open_issues": 163,
             "owner": "MengTo",
             "repo": "Spring",
-            "stars": 14055,
+            "stars": 14054,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -207,7 +207,7 @@
             "open_issues": 11,
             "owner": "jhurray",
             "repo": "JHChainableAnimations",
-            "stars": 3196,
+            "stars": 3195,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1339,7 +1339,7 @@
             "open_issues": 53,
             "owner": "yoavlt",
             "repo": "LiquidFloatingActionButton",
-            "stars": 3834,
+            "stars": 3833,
             "topics": []
           },
           "first_seen": "2026-08-29T01:20:50.005Z"
@@ -1360,7 +1360,7 @@
             "open_issues": 1,
             "owner": "ninjaprox",
             "repo": "NVActivityIndicatorView",
-            "stars": 10712,
+            "stars": 10713,
             "topics": [
               "animation",
               "carthage",
@@ -2339,7 +2339,7 @@
             "open_issues": 40,
             "owner": "eggswift",
             "repo": "ESTabBarController",
-            "stars": 5221,
+            "stars": 5220,
             "topics": [
               "animation",
               "ios",
@@ -2497,7 +2497,7 @@
             "open_issues": 47,
             "owner": "airbnb",
             "repo": "lottie-ios",
-            "stars": 26951,
+            "stars": 26952,
             "topics": [
               "animation",
               "bodymovin",
@@ -2557,7 +2557,7 @@
             "open_issues": 12,
             "owner": "Yalantis",
             "repo": "DisplaySwitcher",
-            "stars": 2295,
+            "stars": 2296,
             "topics": [
               "animation",
               "cocoapods",
@@ -2577,7 +2577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T01:21:04.488Z",
+    "last_updated": "2026-11-27T01:19:25.370Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
